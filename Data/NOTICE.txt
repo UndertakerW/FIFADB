@@ -1,0 +1,5 @@
+When constructing the database, please:
+1. In positional ratings, ignore the "+x" value. E.g. "89+3" should be treated as 89.
+2. Transfer natural years to seasons. E.g. 20 -> 19/20; 21 -> 20/21.
+3. Need to manually associate leagues to countries. E.g. English Premier League -> England.
+4. Both short name and full name of a player should be included.
