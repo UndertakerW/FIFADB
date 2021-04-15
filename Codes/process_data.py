@@ -126,8 +126,8 @@ for i in range(15, 22):
                 continue
             
             # collect the country from the nationality of the players
-            if(row[nationality_index] not in country_list_temp):
-                country_list_temp.append(row[nationality_index])
+            if(row[nationality_index].strip() not in country_list_temp):
+                country_list_temp.append(row[nationality_index].strip())
 
 
 # collect country of the leagues
@@ -136,8 +136,9 @@ with open(dataFolder+"leagues_countries.csv", 'rt', encoding='utf-8-sig', newlin
 
     for row in cfr:
         league_country_map[row[0]] = row[1]
-        if(row[1] not in country_list_temp):
-            country_list_temp.append(row[1])
+        if(row[1].strip() not in country_list_temp):
+            country_list_temp.append(row[1].strip())
+
 
 # country
 countryf = open(newDataFolder+country_table, 'wt', encoding="utf-8-sig", newline='')
