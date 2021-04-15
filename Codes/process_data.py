@@ -35,6 +35,40 @@ league_table = "league.csv"
 player_positional_rating_table = "player_positional_rating.csv"
 country_table = "country.csv"
 
+position_name = []
+tag_index = 25
+position_index = 16
+player_id_index = 0
+player_name_index = 3
+player_name_short_index = 2
+nationality_index = 8
+height_index = 6
+weight_index = 7
+loaned_index = 28
+wage_index = 15
+value_index = 14
+release_clause_index = 24
+contract_index = 30
+team_number_index = 32
+overall_index = 12
+potential_index = 13
+preferred_foot_index = 17
+weak_foot_index = 19
+skill_moves_index = 20
+pace_index = 33
+shooting_index = 34
+passing_index = 35
+dribbing_index = 51
+defending_index = 37
+physic_index = 38
+gk_diving_index = 39
+gk_handling_index = 40
+gk_kicking_index = 41
+gk_reflexes_index = 42
+gk_speed_index = 43
+gk_positioning = 44
+dob_index = 5
+
 small_tables = [
     player_table,
     general_player_table,
@@ -71,43 +105,46 @@ league_country_map = {}
 
 position_rating_col_num = {}
 
+country_list_temp = []
+
+
 for item in small_tables:
     if(os.path.exists(newDataFolder+item)):
         os.remove(newDataFolder+item)
         print("removing old version file: "+newDataFolder+item)
 
 
-# # retrieve the league names to map the country manully
-# with open(dataFolder+"leagues.csv", 'wt', encoding='utf-8-sig', newline='') as lf:
-#     lfw = csv.writer(lf)
-#     for i in range(15, 22):
-#         with open(dataFolder+fileNamePre+str(i)+fileNameSuff, 'rt', encoding='utf-8-sig', newline='') as pf:
-#             pfr = csv.reader(pf)
-#             first_row = True
-#             for row in pfr:
-#                 if(first_row):
-#                     first_row = False
-#                     continue
+# retrieve the league names to map the country manully
+# retrieve the country names from the nationality of player
+for i in range(15, 22):
+    with open(dataFolder+fileNamePre+str(i)+fileNameSuff, 'rt', encoding='utf-8-sig', newline='') as pf:
+        pfr = csv.reader(pf)
+        first_row = True
+        for row in pfr:
+            if(first_row):
+                first_row = False
+                continue
+            
+            # collect the country from the nationality of the players
+            if(row[nationality_index] not in country_list_temp):
+                country_list_temp.append(row[nationality_index])
 
-#                 if(row[league_name_index] not in league_names):
-#                     league_names.append(row[league_name_index])
-#                     lfw.writerow([row[league_name_index]])
 
-
-# country
+# collect country of the leagues
 with open(dataFolder+"leagues_countries.csv", 'rt', encoding='utf-8-sig', newline='') as cf:
-    country_list_temp = []
-    countryf = open(newDataFolder+country_table, 'wt', encoding="utf-8-sig", newline='')
     cfr = csv.reader(cf)
-    countryfw = csv.writer(countryf)
 
     for row in cfr:
         league_country_map[row[0]] = row[1]
         if(row[1] not in country_list_temp):
-            countryfw.writerow([row[1]])
             country_list_temp.append(row[1])
 
-    countryf.close()
+# country
+countryf = open(newDataFolder+country_table, 'wt', encoding="utf-8-sig", newline='')
+countryfw = csv.writer(countryf)
+for item in country_list_temp:
+    countryfw.writerow([item])
+countryf.close()
 
 
 # process position
@@ -200,39 +237,6 @@ pbptf   = csv.writer(player_best_position_table_f)
 pprtf   = csv.writer(player_positional_rating_table_f)
 
 tag_name = []
-position_name = []
-tag_index = 25
-position_index = 16
-player_id_index = 0
-player_name_index = 3
-player_name_short_index = 2
-nationality_index = 8
-height_index = 6
-weight_index = 7
-loaned_index = 28
-wage_index = 15
-value_index = 14
-release_clause_index = 24
-contract_index = 30
-team_number_index = 32
-overall_index = 12
-potential_index = 13
-preferred_foot_index = 17
-weak_foot_index = 19
-skill_moves_index = 20
-pace_index = 33
-shooting_index = 34
-passing_index = 35
-dribbing_index = 51
-defending_index = 37
-physic_index = 38
-gk_diving_index = 39
-gk_handling_index = 40
-gk_kicking_index = 41
-gk_reflexes_index = 42
-gk_speed_index = 43
-gk_positioning = 44
-dob_index = 5
 
 player_dob_list = []
 
