@@ -305,6 +305,7 @@ for i in range(15, 22):
             gtf.writerow([
                 row[player_id_index],
                 season,
+                row[gk_diving_index],
                 row[gk_handling_index],
                 row[gk_kicking_index],
                 row[gk_reflexes_index],

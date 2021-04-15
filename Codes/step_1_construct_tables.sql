@@ -4,17 +4,17 @@ drop SCHEMA if exists FIFADB;
 CREATE SCHEMA FIFADB;
 USE FIFADB;
 
-drop table if exists player;
 CREATE TABLE player
 (
 player_id varchar(20),
 season varchar(5),
-player_name varchar (40),
-nationality varchar(20),
+player_name varchar (255),
+player_short_name varchar (255),
+nationality varchar(255),
 height varchar(5),
 weight varchar(5),
 club_id varchar(20),
-loaned_from varchar(20),
+loaned_from varchar(255),
 wage_eur varchar(10),
 value_eur varchar(20),
 release_clause varchar(10),
@@ -24,8 +24,7 @@ overall varchar(3),
 potential varchar(3),
 preferred_foot varchar(5),
 weak_foot_rating varchar(5),
-skill_moves_rating varchar(5),
-tag varchar(10)
+skill_moves_rating varchar(5)
 -- primary key(player_id,season)
 );
 
@@ -39,15 +38,16 @@ date_of_birth varchar(10)
 
 CREATE TABLE country
 (
-country_name varchar(10) -- primary key
+country_name varchar(255) -- primary key
 );
 
 CREATE TABLE league
 (
 league_id varchar(10),
-league_name varchar(40),
+season varchar(5),
+league_name varchar(255),
 tier varchar(5),
-country varchar(10)
+country_name varchar(255)
 -- primary key (league_id),
 -- foreign key(country) references country(country_name)
 );
@@ -56,7 +56,7 @@ CREATE TABLE club
 (
 club_id varchar(20),
 season varchar(5),
-club_name varchar(40),
+club_name varchar(255),
 league_id varchar(40)
 -- primary key(club_id,season),
 -- foreign key(league_id) references league(league_id)
@@ -97,7 +97,7 @@ position_name varchar(5) -- primary key
 
 CREATE TABLE tag
 (
-tag_name varchar(10) -- primary key
+tag_name varchar(255) -- primary key
 );
 
 CREATE TABLE player_best_position
@@ -126,13 +126,13 @@ CREATE TABLE player_tag
 
 player_id varchar(20),
 season varchar(5),
-tag_name varchar(10)
+tag_name varchar(255)
 -- primary key(player_id,season,tag_name),
 -- foreign key(player_id,season) references player(player_id,season),
 -- foreign key(tag_name) references tag(tag_name)
 );
 
-alter table player add foreign key(nationality) references country(country_name);
-alter table player add foreign key(club_id) references club(club_id);
+-- alter table player add foreign key(nationality) references country(country_name);
+-- alter table player add foreign key(club_id) references club(club_id);
 commit
 

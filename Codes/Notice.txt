@@ -1,1 +1,2 @@
-To run this program, you need to open terminal in this folder to execute it.
+1. To run the python program, you need to open terminal in this folder to execute it.
+2. To run the import_data.sql, you need to change the path of the excel files in import_data.sql
