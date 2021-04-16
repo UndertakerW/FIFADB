@@ -49,7 +49,7 @@ wage_index = 15
 value_index = 14
 release_clause_index = 24
 contract_index = 30
-team_number_index = 32
+team_number_index = 27
 overall_index = 12
 potential_index = 13
 preferred_foot_index = 17
@@ -68,6 +68,9 @@ gk_reflexes_index = 42
 gk_speed_index = 43
 gk_positioning = 44
 dob_index = 5
+league_name_index = 10
+tier_index = 11
+club_name_index = 9
 
 small_tables = [
     player_table,
@@ -87,10 +90,6 @@ small_tables = [
 player_indexes = [
     
 ]
-
-league_name_index = 10
-tier_index = 11
-club_name_index = 9
 
 league_names = []
 league_file_name = "leagues.csv"
@@ -148,7 +147,7 @@ for item in country_list_temp:
 countryf.close()
 
 
-# process position
+# position
 positions_table_f = open(newDataFolder+positions_table, 'wt', encoding='utf-8-sig', newline='')
 positf = csv.writer(positions_table_f)
 
@@ -162,7 +161,9 @@ with open(dataFolder+fileNamePre+str(15)+fileNameSuff, 'rt', encoding='utf-8-sig
             position_rating_col_num[i] = titles[i]
 
         break
-        
+
+positf.writerow(["gk"])
+
 positions_table_f.close()
 
 # processing "league" and "club" first

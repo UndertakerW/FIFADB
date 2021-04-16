@@ -6,17 +6,17 @@ USE FIFADB;
 
 CREATE TABLE player
 (
-player_id varchar(20),
+player_id varchar(10),
 season varchar(5),
 player_name varchar (255),
 player_short_name varchar (255),
 nationality varchar(255),
 height varchar(5),
 weight varchar(5),
-club_id varchar(20),
+club_id varchar(10),
 loaned_from varchar(255),
 wage_eur varchar(10),
-value_eur varchar(20),
+value_eur varchar(10),
 release_clause varchar(10),
 contract_valid_until varchar(5),
 team_number varchar(5),
@@ -30,7 +30,7 @@ skill_moves_rating varchar(5)
 
 CREATE TABLE player_dob_info
 (
-player_id varchar(20) unique,
+player_id varchar(10) unique,
 date_of_birth varchar(10)
 -- primary key(player_id),
 -- foreign key(player_id) references player(player_id)
@@ -47,24 +47,24 @@ league_id varchar(10),
 season varchar(5),
 league_name varchar(255),
 tier varchar(5),
-country_name varchar(255)
--- primary key (league_id),
+country_name varchar(255) not null
+-- primary key (league_id, season),
 -- foreign key(country) references country(country_name)
 );
 
 CREATE TABLE club
 (
-club_id varchar(20),
+club_id varchar(10),
 season varchar(5),
 club_name varchar(255),
-league_id varchar(40)
+league_id varchar(10)
 -- primary key(club_id,season),
 -- foreign key(league_id) references league(league_id)
 );
 
 CREATE TABLE general_player
 (
-player_id varchar(20),
+player_id varchar(10),
 season varchar(5),
 pace varchar(5),
 shooting varchar(5),
@@ -78,7 +78,7 @@ physic varchar(5)
 
 CREATE TABLE goalkeeper
 (
-player_id varchar(20),
+player_id varchar(10),
 season varchar(5),
 gk_diving varchar(5),
 gk_handling varchar(5),
@@ -102,17 +102,17 @@ tag_name varchar(255) -- primary key
 
 CREATE TABLE player_best_position
 (
-player_id varchar(20),
+player_id varchar(10),
 season varchar(5),
 position_name varchar(10)
--- primary key(player_id,season),
+-- primary key(player_id,season, position_name),
 -- foreign key(player_id,season) references player(player_id,season),
 -- foreign key(position_name) references positions(position_name)
 );
 
 CREATE TABLE player_positional_rating
 (
-player_id varchar(20),
+player_id varchar(10),
 season varchar(5),
 rating varchar(5),
 position_name varchar(10)
@@ -124,7 +124,7 @@ position_name varchar(10)
 CREATE TABLE player_tag
 (
 
-player_id varchar(20),
+player_id varchar(10),
 season varchar(5),
 tag_name varchar(255)
 -- primary key(player_id,season,tag_name),
