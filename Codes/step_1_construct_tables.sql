@@ -25,20 +25,17 @@ potential varchar(3),
 preferred_foot varchar(5),
 weak_foot_rating varchar(5),
 skill_moves_rating varchar(5)
--- primary key(player_id,season)
 );
 
 CREATE TABLE player_dob_info
 (
 player_id varchar(10) unique,
 date_of_birth varchar(10)
--- primary key(player_id),
--- foreign key(player_id) references player(player_id)
 );
 
 CREATE TABLE country
 (
-country_name varchar(255) -- primary key
+country_name varchar(255)
 );
 
 CREATE TABLE league
@@ -48,8 +45,6 @@ season varchar(5),
 league_name varchar(255),
 tier varchar(5),
 country_name varchar(255) not null
--- primary key (league_id, season),
--- foreign key(country) references country(country_name)
 );
 
 CREATE TABLE club
@@ -58,8 +53,6 @@ club_id varchar(10),
 season varchar(5),
 club_name varchar(255),
 league_id varchar(10)
--- primary key(club_id,season),
--- foreign key(league_id) references league(league_id)
 );
 
 CREATE TABLE general_player
@@ -72,8 +65,6 @@ passing varchar(5),
 dribbling varchar(5),
 defending varchar(5),
 physic varchar(5)
--- primary key(player_id,season),
--- foreign key (player_id,season) references player(player_id,season)
 );
 
 CREATE TABLE goalkeeper
@@ -86,18 +77,16 @@ gk_kicking varchar(5),
 gk_reflexes varchar(5),
 gk_speed varchar(5),
 gk_positioning varchar(5)
--- primary key(player_id,season),
--- foreign key (player_id,season) references player(player_id,season)
 );
 
 CREATE TABLE positions
 (
-position_name varchar(5) -- primary key
+position_name varchar(5)
 );
 
 CREATE TABLE tag
 (
-tag_name varchar(255) -- primary key
+tag_name varchar(255)
 );
 
 CREATE TABLE player_best_position
@@ -105,9 +94,6 @@ CREATE TABLE player_best_position
 player_id varchar(10),
 season varchar(5),
 position_name varchar(10)
--- primary key(player_id,season, position_name),
--- foreign key(player_id,season) references player(player_id,season),
--- foreign key(position_name) references positions(position_name)
 );
 
 CREATE TABLE player_positional_rating
@@ -116,9 +102,6 @@ player_id varchar(10),
 season varchar(5),
 rating varchar(5),
 position_name varchar(10)
--- primary key(player_id,season,position_name),
--- foreign key(player_id,season) references player(player_id,season),
--- foreign key(position_name) references positions(position_name)
 );
 
 CREATE TABLE player_tag
@@ -127,12 +110,7 @@ CREATE TABLE player_tag
 player_id varchar(10),
 season varchar(5),
 tag_name varchar(255)
--- primary key(player_id,season,tag_name),
--- foreign key(player_id,season) references player(player_id,season),
--- foreign key(tag_name) references tag(tag_name)
 );
 
--- alter table player add foreign key(nationality) references country(country_name);
--- alter table player add foreign key(club_id) references club(club_id);
 commit
 

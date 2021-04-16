@@ -15,6 +15,14 @@ def cleanString(string):
     tempResult = string.split('+')
     return tempResult[0]
 
+def processContract(string):
+    year = ""
+    if(string != ""):
+        year = string[2:]
+        year_int = int(year)
+        year = str(year_int-1)+"/"+str(year_int)
+    
+    return year
 
 dataFolder = "../Data/Data_encoded/"
 newDataFolder = "../Data/Data_processed/"
@@ -297,7 +305,7 @@ for i in range(15, 22):
             row[wage_index],
             row[value_index],
             row[release_clause_index],
-            row[contract_index],
+            processContract(row[contract_index]),
             row[team_number_index],
             row[overall_index],
             row[potential_index],
