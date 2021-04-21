@@ -24,7 +24,7 @@ as pcc
 from market_value_age
 where (age regexp '[^0-9.]') = 0 
 and (value_eur regexp '[^0-9.]') = 0
-and age > 28;
+and age < 27;
 
 -- Overall Rating vs Age
 drop table if exists overall_age;
@@ -97,11 +97,6 @@ from player join club using(club_id, season)
 where club_name in ("Arsenal", "Chelsea", "Tottenham Hotspur", "Manchester United", "Manchester City", "Liverpool")
 group by club_name, player.season;
 
-select club_name, player.season, avg(wage_eur)
-from player join club using(club_id, season)
-where club_name in ("Arsenal", "Chelsea", "Tottenham Hotspur", "Manchester United", "Manchester City", "Liverpool")
-group by club_name, player.season;
-
 select * 
 from wage_epl6;
 
@@ -119,41 +114,38 @@ select league_name, club_name, total_wage_eur,
 rank() over (partition by league_id order by total_wage_eur desc) as "rank"
 from club_wage_20_21;
 
-select league_name, club_name, sum(wage_eur),
-rank() over (partition by league_id order by sum(wage_eur) desc) as "rank"
-from player join club using(club_id, season) join league using (league_id, season)
-where season = "20/21"
-group by club_id;
-
--- The average ratings of forwards, midfielders, defenders, and goalkeepers of the BIG 3 clubs of La Liga in season 18-19, 19-20, and 20-21
+-- The average ratings of forwards, midfielders, defenders (including goalkeepers) of the BIG 3 clubs of La Liga in season 18-19, 19-20, and 20-21
 -- Assuming each player plays in his best position (where he has the highest rating)
 -- If a player has the same rating in two or more positions that belong to different classes,
 -- e.g. LW -> forward and CM -> midfielder,
 -- then, he will be counted in both classes.
 
-drop table if exists player_best_position_rating;
-create table player_best_position_rating as
-select player_id, position_name, rating
-from player join club using(club_id, season) join player_positional_rating using (player_id)
+drop table if exists player_best_rating;
+create table player_best_rating as
+select player_id, season, max(rating) as best_rating
+from player join club using(club_id, season) join player_positional_rating using(player_id, season) join general_player using(player_id, season)
 where season in ("18/19", "19/20", "20/21")
-and club in ("Real Madrid", "FC Barcelona", "Atlético Madrid")
+and club_name in ("Real Madrid", "FC Barcelona", "Atlético Madrid")
+group by player_id, season;
 
+drop table if exists player_best_position_class;
+create table player_best_position_class as
+select distinct player_id, season, player_name, club_id, club_name, position_class, rating as player_best_rating
+from player join club using(club_id, season) join player_positional_rating using (player_id, season) 
+join positions using (position_name) join player_best_rating using (player_id, season)
+where season in ("18/19", "19/20", "20/21")
+and club_name in ("Real Madrid", "FC Barcelona", "Atlético Madrid")
+and rating = best_rating;
 
-drop table if exists club_ratings_18_21;
-create table club_ratings_18_21 as
-select club_id, club_name, avg() as total_wage_eur
-from player join club using(club_id, season) join league using (league_id, season)
-where season = "20/21"
-and tier = 1
-and league.country_region_name in ("England", "Germany", "France", "Italy", "Spain")
-group by club_id;
+insert into player_best_position_class
+select player_id, season, player_name, club_id, club_name, "defender" as position_class, overall as player_best_rating
+from player join club using(club_id, season) join goalkeeper using(player_id, season)
+where season in ("18/19", "19/20", "20/21")
+and club_name in ("Real Madrid", "FC Barcelona", "Atlético Madrid");
 
-select league_name, club_name, total_wage_eur,
-rank() over (partition by league_id order by total_wage_eur desc) as "rank"
-from club_wage_20_21;
+select * from player_best_position_class;
 
-select league_name, club_name, sum(wage_eur),
-rank() over (partition by league_id order by sum(wage_eur) desc) as "rank"
-from player join club using(club_id, season) join league using (league_id, season)
-where season = "20/21"
-group by club_id;
+select club_name, season, position_class,
+avg(player_best_rating) as "average rating"
+from player_best_position_class
+group by club_name, season, position_class with rollup;
