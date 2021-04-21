@@ -1,0 +1,43 @@
+club_name,season,sum(wage_eur)
+Arsenal,14/15,2428000
+Arsenal,15/16,2640000
+Arsenal,16/17,3146000
+Arsenal,17/18,2961000
+Arsenal,18/19,2484000
+Arsenal,19/20,1996000
+Arsenal,20/21,2046000
+Chelsea,14/15,2571000
+Chelsea,15/16,2847000
+Chelsea,16/17,3379000
+Chelsea,17/18,3508000
+Chelsea,18/19,3367000
+Chelsea,19/20,2775000
+Chelsea,20/21,2698000
+Liverpool,14/15,1832000
+Liverpool,15/16,2111000
+Liverpool,16/17,2514000
+Liverpool,17/18,2725000
+Liverpool,18/19,2996000
+Liverpool,19/20,2626000
+Liverpool,20/21,3154000
+"Manchester City",14/15,2830000
+"Manchester City",15/16,2817000
+"Manchester City",16/17,3442000
+"Manchester City",17/18,3141000
+"Manchester City",18/19,3776000
+"Manchester City",19/20,3958000
+"Manchester City",20/21,3765000
+"Manchester United",14/15,2659000
+"Manchester United",15/16,2278000
+"Manchester United",16/17,3412000
+"Manchester United",17/18,3497000
+"Manchester United",18/19,3483000
+"Manchester United",19/20,2837000
+"Manchester United",20/21,2950000
+"Tottenham Hotspur",14/15,1860000
+"Tottenham Hotspur",15/16,1577000
+"Tottenham Hotspur",16/17,2045000
+"Tottenham Hotspur",17/18,2240000
+"Tottenham Hotspur",18/19,2542000
+"Tottenham Hotspur",19/20,2563500
+"Tottenham Hotspur",20/21,2542000

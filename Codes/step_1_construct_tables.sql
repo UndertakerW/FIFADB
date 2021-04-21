@@ -81,7 +81,8 @@ gk_positioning varchar(5)
 
 CREATE TABLE positions
 (
-position_name varchar(5)
+position_name varchar(5),
+position_class varchar(10)
 );
 
 CREATE TABLE tag
