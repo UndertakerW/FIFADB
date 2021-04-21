@@ -1,7 +1,7 @@
 # important notice:
-# In this script, some variables' names may use "country" to reprenset
-# the values of countries and regions. We only use these representation
-# for simplicity and we donnot have any political intentions on it. 
+# In this script, the word "country" reprensets "country or region".
+# This is used only for simplicity.
+# Actually, this attribute represents the football associations
 # Hope it will not cause any misundertanding.
 #
 # To run the script:
