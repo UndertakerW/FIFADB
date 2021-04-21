@@ -6,7 +6,6 @@ update player set player_id = "158023" where player_id = "158023";
 update player set release_clause = null where release_clause = "";
 update player set nationality = null where nationality = "";
 update player set loaned_from = null where loaned_from = "";
--- update player set contract_valid_until = null where contract_valid_until = "";
 update player set team_number = null where team_number = "";
 update club set club_id = "0" where club_id = "0";
 update general_player set player_id = "158023" where player_id = "158023";
@@ -28,7 +27,6 @@ alter table player modify player_id INTEGER;
 alter table player modify wage_eur INTEGER;
 alter table player modify value_eur INTEGER;
 alter table player modify release_clause INTEGER;
--- alter table player modify contract_valid_until INTEGER;
 alter table player modify team_number INTEGER;
 alter table player modify overall INTEGER;
 alter table player modify potential INTEGER;
@@ -78,7 +76,7 @@ alter table player_tag modify player_id INTEGER;
 -- set primary keys
 alter table player add primary key(player_id, season);
 alter table player_dob_info add primary key(player_id);
-alter table country add primary key(country_name);
+alter table country_region add primary key(country_region_name);
 alter table league add primary key(league_id, season);
 alter table club add primary key(club_id, season);
 alter table general_player add primary key(player_id, season);
@@ -91,9 +89,9 @@ alter table player_tag add primary key(player_id, season, tag_name);
 
 -- set foreign keys
 alter table player add foreign key(club_id) references club(club_id) on delete cascade on update cascade;
-alter table player add foreign key(nationality) references country(country_name) on delete cascade on update cascade;
+alter table player add foreign key(nationality) references country_region(country_region_name) on delete cascade on update cascade;
 alter table player_dob_info add foreign key(player_id) references player(player_id) on delete cascade on update cascade;
-alter table league add foreign key(country_name) references country(country_name) on delete cascade on update cascade;
+alter table league add foreign key(country_region_name) references country_region(country_region_name) on delete cascade on update cascade;
 alter table club add foreign key(league_id) references league(league_id) on delete cascade on update cascade;
 alter table general_player add foreign key (player_id,season) references player(player_id,season) on delete cascade on update cascade;
 alter table goalkeeper add foreign key (player_id,season) references player(player_id,season) on delete cascade on update cascade;

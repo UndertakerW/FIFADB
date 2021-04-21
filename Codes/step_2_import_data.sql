@@ -8,11 +8,11 @@ into table club
 fields terminated by ','  optionally enclosed by '"' escaped by '"'   
 lines terminated by '\r\n'; 
 
--- country
+-- country_region
 load data
 -- need to change to your local path when importing data
-infile 'D:/FIFADB/Data/Data_processed/country.csv'
-into table country
+infile 'D:/FIFADB/Data/Data_processed/country_region.csv'
+into table country_region
 fields terminated by ','  optionally enclosed by '"' escaped by '"'   
 lines terminated by '\r\n'; 
 

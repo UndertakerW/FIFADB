@@ -33,9 +33,9 @@ player_id varchar(10) unique,
 date_of_birth varchar(10)
 );
 
-CREATE TABLE country
+CREATE TABLE country_region
 (
-country_name varchar(255)
+country_region_name varchar(255)
 );
 
 CREATE TABLE league
@@ -44,7 +44,7 @@ league_id varchar(10),
 season varchar(5),
 league_name varchar(255),
 tier varchar(5),
-country_name varchar(255) not null
+country_region_name varchar(255) not null
 );
 
 CREATE TABLE club

@@ -1,3 +1,13 @@
+# important notice:
+# In this script, some variables' names may use "country" to reprenset
+# the values of countries and regions. We only use these representation
+# for simplicity and we donnot have any political intentions on it. 
+# Hope it will not cause any misundertanding.
+#
+# To run the script:
+# 1. you need to install python and numpy package.
+# 2. you need to run the script in the given folder.
+
 import os
 import numpy as np
 import csv
@@ -41,7 +51,7 @@ positions_table = "positions.csv"
 club_table = "club.csv"
 league_table = "league.csv"
 player_positional_rating_table = "player_positional_rating.csv"
-country_table = "country.csv"
+country_region_table = "country_region.csv"
 
 position_name = []
 tag_index = 25
@@ -92,7 +102,7 @@ small_tables = [
     club_table,
     league_table,
     player_positional_rating_table,
-    country_table
+    country_region_table
 ]
 
 player_indexes = [
@@ -148,7 +158,7 @@ with open(dataFolder+"leagues_countries.csv", 'rt', encoding='utf-8-sig', newlin
 
 
 # country
-countryf = open(newDataFolder+country_table, 'wt', encoding="utf-8-sig", newline='')
+countryf = open(newDataFolder+country_region_table, 'wt', encoding="utf-8-sig", newline='')
 countryfw = csv.writer(countryf)
 for item in country_list_temp:
     countryfw.writerow([item])
