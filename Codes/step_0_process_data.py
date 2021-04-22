@@ -5,11 +5,10 @@
 # Hope it will not cause any misundertanding.
 #
 # To run the script:
-# 1. you need to install python and numpy package.
+# 1. you need to install python.
 # 2. you need to run the script in the given folder.
 
 import os
-import numpy as np
 import csv
 
 def split_string(string):
