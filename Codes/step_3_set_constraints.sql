@@ -1,5 +1,8 @@
 begin;
 
+-- set Innodb to create adaptive hash index
+set global innodb_adaptive_hash_index = ON;
+
 -- clean abnormal value
 SET SQL_SAFE_UPDATES = 0;
 update player set player_id = "158023" where player_id = "158023";

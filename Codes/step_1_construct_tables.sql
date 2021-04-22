@@ -25,18 +25,18 @@ potential varchar(3),
 preferred_foot varchar(5),
 weak_foot_rating varchar(5),
 skill_moves_rating varchar(5)
-);
+) engine=InnoDB;
 
 CREATE TABLE player_dob_info
 (
 player_id varchar(10) unique,
 date_of_birth varchar(10)
-);
+) engine=InnoDB;
 
 CREATE TABLE country_region
 (
 country_region_name varchar(255)
-);
+) engine=InnoDB;
 
 CREATE TABLE league
 (
@@ -45,7 +45,7 @@ season varchar(5),
 league_name varchar(255),
 tier varchar(5),
 country_region_name varchar(255) not null
-);
+) engine=InnoDB;
 
 CREATE TABLE club
 (
@@ -53,7 +53,7 @@ club_id varchar(10),
 season varchar(5),
 club_name varchar(255),
 league_id varchar(10)
-);
+) engine=InnoDB;
 
 CREATE TABLE general_player
 (
@@ -65,7 +65,7 @@ passing varchar(5),
 dribbling varchar(5),
 defending varchar(5),
 physic varchar(5)
-);
+) engine=InnoDB;
 
 CREATE TABLE goalkeeper
 (
@@ -77,25 +77,25 @@ gk_kicking varchar(5),
 gk_reflexes varchar(5),
 gk_speed varchar(5),
 gk_positioning varchar(5)
-);
+) engine=InnoDB;
 
 CREATE TABLE positions
 (
 position_name varchar(5),
 position_class varchar(10)
-);
+) engine=InnoDB;
 
 CREATE TABLE tag
 (
 tag_name varchar(255)
-);
+) engine=InnoDB;
 
 CREATE TABLE player_best_position
 (
 player_id varchar(10),
 season varchar(5),
 position_name varchar(10)
-);
+) engine=InnoDB;
 
 CREATE TABLE player_positional_rating
 (
@@ -103,7 +103,7 @@ player_id varchar(10),
 season varchar(5),
 rating varchar(5),
 position_name varchar(10)
-);
+) engine=InnoDB;
 
 CREATE TABLE player_tag
 (
@@ -111,7 +111,7 @@ CREATE TABLE player_tag
 player_id varchar(10),
 season varchar(5),
 tag_name varchar(255)
-);
+) engine=InnoDB;
 
 commit
 
