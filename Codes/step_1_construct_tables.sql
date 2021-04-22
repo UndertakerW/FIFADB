@@ -1,10 +1,8 @@
 begin;
-
 drop SCHEMA if exists FIFADB;
 CREATE SCHEMA FIFADB;
 USE FIFADB;
-select distinct league_id,league_name from league;
-select * from league where league_id=3;
+
 CREATE TABLE Admin
 (
 	ID varchar(10) primary key,
@@ -22,7 +20,6 @@ overall varchar(3),
 potential varchar(3),
 primary key(player_Id,season)
 );
-show tables;
 insert into admin values('admin','123456','zsq','118010416@');
 CREATE TABLE player
 (
