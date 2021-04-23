@@ -5,11 +5,11 @@ set global innodb_adaptive_hash_index = ON;
 
 -- clean abnormal value
 SET SQL_SAFE_UPDATES = 0;
-update player set player_id = "158023" where player_id = "158023";
 update player set release_clause = null where release_clause = "";
 update player set nationality = null where nationality = "";
 update player set loaned_from = null where loaned_from = "";
 update player set team_number = null where team_number = "";
+update player set player_id = "158023" where player_id = "158023";
 update club set club_id = "0" where club_id = "0";
 update general_player set player_id = "158023" where player_id = "158023";
 update goalkeeper set player_id = "167495" where player_id = "167495";
