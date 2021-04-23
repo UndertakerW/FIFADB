@@ -1,9 +1,6 @@
 from app import db
 
-# book_card=db.Table('book_card',
-#                    db.Column('book_number',db.String(20),db.ForeignKey('book.number'),primary_key=True),
-#                    db.Column('card_number',db.String(20),db.ForeignKey('card.number'),primary_key=True)
-#                    )
+
 class Player(db.Model):
     __tablename__='player'
     player_id=db.Column(db.Integer,primary_key=True)

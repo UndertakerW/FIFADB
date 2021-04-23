@@ -1,12 +1,10 @@
 from flask import render_template, request, flash, make_response, url_for, redirect,Blueprint,session
 from app import db
 from app.models import Admin,Player,Club,League,New_Player
-# ,Player,Player_dob_info,Country,League,Club,General_player,Goalkeeper,Positions,Tag,Player_best_position,Player_positional_rating,Player_tag
 from io import BytesIO
 from flask_mail import Mail, Message
 from sqlalchemy import text
 from app import mail
-import datetime
 admin = Blueprint('admin', __name__)
 
 
@@ -22,8 +20,6 @@ def issue():
         flash('You are not a administer！','danger')
         return redirect(url_for('login.a'))
     if request.method == 'POST':
-        # league_id = request.form["league"]
-        # player_type=request.form["type"]
         player_id = request.form["player_id"]
         nationality = request.form["nationality"]
         season = request.form["season"]
@@ -32,8 +28,6 @@ def issue():
         overall=request.form['overall']
         potential=request.form['potential']
         q_number=Player.query.filter_by(player_id=player_id).first()
-        # check=Club.query.filter_by(club_id=club_id,season=season).first()
-        # print(check.league_id)
         if(q_number):
             if(season==q_number.season):
                 flash("Player exist！",'danger')
@@ -99,36 +93,5 @@ def league():
         Club.season.like('%'+season+'%') if season is not None else text(""),
         Club.league_id.like('%'+league_id+'%') if season is not None else text(""),
         Club.club_name.like('%'+club_name+'%') if season is not None else text("")).all()
-        # if(card is None):
-        #     flash('数据库内无该借书证！','warning')
-        #     return render_template('league.html',borrowed_book=borrowed_book)
-        # else:
-        #     borrowed_book=card.borrowed_book
-        #     print(borrowed_book)
-        #     to_borrow=Book.query.filter_by(number=book_number).first()
-        #     if(to_borrow is None):
-        #         flash('数据库内无此书！','warning')
-        #         return render_template('league.html', borrowed_book=borrowed_book)
-        #     if(to_borrow.stock==0):
-        #         latest_return=Borecord.query.filter_by(book_number=book_number).first()
-        #         if(latest_return):
-        #             ldate=latest_return.return_date
-        #         else:
-        #             ldate='空'
-        #         flash('借书失败，库存不足！最近归还时间为：%s'%(ldate), 'warning')
-        #         return render_template('league.html', borrowed_book=borrowed_book)
-        #     else:
-        #         time=datetime.date.today()
-        #         admin_ID=session.get('ID')
-        #         newstock=to_borrow.stock-1
-        #         Book.query.filter_by(number=book_number).update({'stock':newstock})
-        #         card.borrowed_book.append(to_borrow)
-        #         db.session.commit()
-        #         new_borrow_record=Borecord(book_number=book_number,card_number=card_number,borrow_date=time,dealer=admin_ID)
-        #         db.session.add(new_borrow_record)
-        #         db.session.commit()
-        #         flash('借书成功！','success')
-        #         borrowed_book=""
-        #         return render_template('league.html',borrowed_book=borrowed_book)
     return render_template('league.html',borrowed_book=results)
 
