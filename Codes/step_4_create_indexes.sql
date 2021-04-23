@@ -36,7 +36,7 @@ ALTER TABLE player_best_position ADD INDEX player_best_position_name_index (posi
 
 FLUSH TABLES;
 FLUSH STATUS;
--- it takes around 0.031 sec to execute the same query
+-- it takes around 0.031 sec to execute the following query
 select SQL_NO_CACHE * from player where player_name like 'Ales%' and player_short_name like 'A.%' and season = '16/17' and nationality = 'Italy';
 
 -- query without indexes
@@ -47,7 +47,7 @@ drop index player_player_short_name_index on player;
 
 FLUSH TABLES;
 FLUSH STATUS;
--- it takes around 0.109 sec to execute the following query
+-- it takes around 0.109 sec to execute the same query
 select SQL_NO_CACHE * from player where player_name like 'Ales%' and player_short_name like 'A.%' and season = '16/17' and nationality = 'Italy';
 
 
