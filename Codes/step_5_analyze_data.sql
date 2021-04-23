@@ -23,6 +23,11 @@ select league_name, club_name, total_wage_eur,
 rank() over (partition by league_id order by total_wage_eur desc) as "rank"
 from club_wage_20_21;
 
+select league_name, sqrt(variance(total_wage_eur)) as "standard deviation"
+from club_wage_20_21
+group by league_name
+order by sqrt(variance(total_wage_eur));
+
 -- The average ratings of forwards, midfielders, defenders (including goalkeepers) of the BIG 3 clubs of La Liga in season 18-19, 19-20, and 20-21
 -- Assuming each player plays in his best position (where he has the highest rating)
 -- If a player has the same rating in two or more positions that belong to different classes,
