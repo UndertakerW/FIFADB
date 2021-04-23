@@ -1,6 +1,6 @@
 from flask import render_template, request, flash, make_response, url_for, redirect,Blueprint,session
 from app import db
-from app.models import Admin,Player,Club,League,New_Player
+from app.models import Admin,Website,Club,League,New_Player
 from io import BytesIO
 from flask_mail import Mail, Message
 from sqlalchemy import text
@@ -27,7 +27,7 @@ def issue():
         club_id=request.form['club_id']
         overall=request.form['overall']
         potential=request.form['potential']
-        q_number=Player.query.filter_by(player_id=player_id).first()
+        q_number=Website.query.filter_by(player_id=player_id).first()
         if(q_number):
             if(season==q_number.season):
                 flash("Player exist！",'danger')
@@ -48,11 +48,10 @@ def issue():
 def query():
     if request.method == 'POST':
         league_id = request.form["league"]
-        id1 = request.form["id"]
         nationality = request.form["nationality"]
         season = request.form["season"]
         player_name=request.form['Fullname']
-        team_number=request.form['team']
+        club_name=request.form['team']
         overall=request.form['overall']
         potential=request.form['potential']
         club_idlist=Club.query.filter_by(
@@ -62,18 +61,16 @@ def query():
         for i in club_idlist:
             if(i.club_id not in Club_id):
                 Club_id.append(i.club_id)
-        print(Club_id)
-        results=Player.query.filter(
-            Player.player_id.like('%'+id1+'%') if id1 is not None else text(""),
-            Player.season.like(season) if season is not None else text(""),
-            Player.club_id.in_(Club_id) if league_id is not None else text(""),
-            Player.nationality.like('%'+nationality+'%') if nationality is not None else text(""),
-            Player.player_name.like('%'+player_name+'%') if player_name is not None else text(""),
-            Player.team_number.like('%'+team_number+'%') if team_number is not None else text(""),
-            Player.overall.like('%'+overall+'%') if overall is not None else text(""),
-            Player.potential.like('%'+potential+'%') if potential is not None else text("")
+        results=Website.query.filter(
+            Website.season.like('%'+season+'%') if season is not None else text(""),
+            Website.club_id.in_(Club_id) if league_id is not None else text(""),
+            Website.nationality.like('%'+nationality+'%') if nationality is not None else text(""),
+            Website.player_name.like('%'+player_name+'%') if player_name is not None else text(""),
+            Website.club_name.like('%'+club_name+'%') if player_name is not None else text(""),
+            Website.overall.like('%'+overall+'%') if overall is not None else text(""),
+            Website.potential.like('%'+potential+'%') if potential is not None else text(""),
         ).all()
-        # print(results)
+        print(results)
         if(results):
             return render_template('results.html',results=results)
         else:
@@ -88,7 +85,7 @@ def league():
         league_id=request.form['league_id']
         season=request.form['season']
         club_name=request.form['club_name']
-        results=db.session.query(League.league_id, League.season, League.league_name, League.country_name, Club.club_name).filter(League.league_id.like(league_id) if league_id is not None else text(""),
+        results=db.session.query(League.league_id, League.season, League.league_name, League.country_region_name, Club.club_name).filter(League.league_id.like(league_id) if league_id is not None else text(""),
         League.season.like('%'+season+'%') if season is not None else text(""),
         Club.season.like('%'+season+'%') if season is not None else text(""),
         Club.league_id.like('%'+league_id+'%') if season is not None else text(""),

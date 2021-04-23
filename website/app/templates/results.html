@@ -44,29 +44,27 @@
                     <table class="table table-striped">
                         <thead>
                         <tr>
-                            <th scope="col">player_id</th>
-                            <th scope="col">player_best_position</th>
-                            <th scope="col">player_short_name</th>
-                            <th scope="col">club_name</th>
                             <th scope="col">season</th>
+                            <th scope="col">club_name</th>
+                            <th scope="col">player_name</th>
                             <th scope="col">nationality</th>
                             <th scope="col">overall</th>
                             <th scope="col">potential</th>
                             <th scope="col">value(euro)</th>
+                            <th scope="col">player_best_position</th>
                         </tr>
                         </thead>
                         <tbody>
                         {% for t in results %}
                             <tr>
-                                <td>{{ t.player_id }}</td>
-                                <td>{{ t.player_id }}</td>
-                                <td>{{ t.player_short_name }}</td>
-                                <td>{{ t.club_id }}</td>
                                 <td>{{ t.season }}</td>
+                                <td>{{ t.club_name }}</td>
+                                <td>{{ t.player_name }}</td>
                                 <td>{{ t.nationality }}</td>
                                 <td>{{ t.overall }}</td>
                                 <td>{{ t.potential }}</td>
                                 <td>{{ t.value_eur }}</td>
+                                <td>{{ t.position_class }}</td>
                             </tr>
                         {% endfor %}
 
