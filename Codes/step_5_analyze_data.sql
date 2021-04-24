@@ -9,7 +9,7 @@ group by club_name, player.season;
 select * 
 from wage_epl6;
 
--- The rank of clubs in each of the "Big Five" European football leagues in terms of the total value of players in season 20/21
+-- The rank of clubs in each of the "Big Five" European football leagues in terms of the total wage in season 20/21
 drop table if exists club_wage_20_21;
 create table club_wage_20_21 as
 select league_id, league_name, club_id, club_name, sum(wage_eur) as total_wage_eur
