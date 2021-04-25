@@ -1,0 +1,11 @@
+import os
+from datetime import timedelta
+SECRET_KEY='123456' 
+SQLALCHEMY_COMMIT_ON_TEARDOWN = True
+SQLALCHEMY_DATABASE_URI='mysql://root:1020zxc..@127.0.0.1/FIFADB' 
+PERMANENT_SESSION_LIFETIME=timedelta(days=1) 
+SQLALCHEMY_TRACK_MODIFICATIONS=False
+
+
+
+

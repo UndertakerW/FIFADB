@@ -1,0 +1,4452 @@
+0,14/15,FC Barcelona,0
+1,14/15,Real Madrid,0
+2,14/15,FC Bayern München,1
+3,14/15,Paris Saint-Germain,2
+4,14/15,Chelsea,3
+5,14/15,Manchester United,3
+6,14/15,Manchester City,3
+7,14/15,Borussia Dortmund,1
+8,14/15,Arsenal,3
+9,14/15,Juventus,4
+10,14/15,Tottenham Hotspur,3
+11,14/15,Atlético Madrid,0
+12,14/15,Napoli,4
+13,14/15,Roma,4
+14,14/15,Galatasaray SK,5
+15,14/15,FC Schalke 04,1
+16,14/15,Fiorentina,4
+17,14/15,Liverpool,3
+18,14/15,Zenit St. Petersburg,6
+19,14/15,AS Saint-Étienne,2
+20,14/15,Lazio,4
+21,14/15,AS Monaco,2
+22,14/15,Inter,4
+23,14/15,Valencia CF,0
+24,14/15,Milan,4
+25,14/15,PFC CSKA Moscow,6
+26,14/15,Real Sociedad,0
+27,14/15,Bayer 04 Leverkusen,1
+28,14/15,FC Porto,7
+29,14/15,Stoke City,3
+30,14/15,SL Benfica,7
+31,14/15,VfL Wolfsburg,1
+32,14/15,Everton,3
+33,14/15,Hamburger SV,1
+34,14/15,Fenerbahçe SK,5
+35,14/15,Olympique de Marseille,2
+36,14/15,,8
+37,14/15,Athletic Club de Bilbao,0
+38,14/15,TSG 1899 Hoffenheim,1
+39,14/15,Villarreal CF,0
+40,14/15,Swansea City,3
+41,14/15,Sporting CP,7
+42,14/15,FC Girondins de Bordeaux,2
+43,14/15,Beşiktaş JK,5
+44,14/15,Brøndby IF,9
+45,14/15,Seattle Sounders FC,10
+46,14/15,Lokomotiv Moscow,6
+47,14/15,Dinamo Moscow,6
+48,14/15,Sevilla FC,0
+49,14/15,Shakhtar Donetsk,11
+50,14/15,Aston Villa,3
+51,14/15,Southampton,3
+52,14/15,Eintracht Frankfurt,1
+53,14/15,Olympique Lyonnais,2
+54,14/15,RCD Espanyol,0
+55,14/15,Spartak Moscow,6
+56,14/15,LOSC Lille,2
+57,14/15,Trabzonspor,5
+58,14/15,Parma,4
+59,14/15,Querétaro,12
+60,14/15,Toronto FC,10
+61,14/15,Melbourne City FC,13
+62,14/15,Málaga CF,0
+63,14/15,Borussia Mönchengladbach,1
+64,14/15,West Ham United,3
+65,14/15,Newcastle United,3
+66,14/15,Hannover 96,1
+67,14/15,Getafe CF,0
+68,14/15,Queens Park Rangers,3
+69,14/15,Hertha BSC,1
+70,14/15,VfB Stuttgart,1
+71,14/15,Ajax,14
+72,14/15,Torino,4
+73,14/15,LA Galaxy,10
+74,14/15,Hull City,3
+75,14/15,West Bromwich Albion,3
+76,14/15,PSV,14
+77,14/15,Sassuolo,4
+78,14/15,Olympiacos CFP,15
+79,14/15,FC Krasnodar,6
+80,14/15,Stade Rennais FC,2
+81,14/15,New York Red Bulls,10
+82,14/15,Real Betis,16
+83,14/15,Udinese,4
+84,14/15,Jeonbuk Hyundai Motors,17
+85,14/15,Leicester City,3
+86,14/15,Racing Club,18
+87,14/15,Granada CF,0
+88,14/15,Fulham,19
+89,14/15,Al Hilal,20
+90,14/15,SC Braga,7
+91,14/15,Rayo Vallecano,0
+92,14/15,FC Red Bull Salzburg,21
+93,14/15,FC Nantes,2
+94,14/15,RC Celta,0
+95,14/15,Toulouse Football Club,2
+96,14/15,SC Freiburg,1
+97,14/15,Kaizer Chiefs,22
+98,14/15,Kuban Krasnodar,6
+99,14/15,Norwich City,19
+100,14/15,Vélez Sarsfield,18
+101,14/15,FC Metz,2
+102,14/15,Newell's Old Boys,18
+103,14/15,Real Valladolid CF,16
+104,14/15,Levante UD,0
+105,14/15,New England Revolution,10
+106,14/15,FC Augsburg,1
+107,14/15,Stade de Reims,2
+108,14/15,Atalanta,4
+109,14/15,Montpellier HSC,2
+110,14/15,Sunderland,3
+111,14/15,1. FC Köln,1
+112,14/15,Sampdoria,4
+113,14/15,Feyenoord,14
+114,14/15,Portland Timbers,10
+115,14/15,Panathinaikos FC,15
+116,14/15,Sivasspor,5
+117,14/15,Al Shabab,20
+118,14/15,Al Ittihad,20
+119,14/15,1. FSV Mainz 05,1
+120,14/15,Genoa,4
+121,14/15,Çaykur Rizespor,5
+122,14/15,Celtic,23
+123,14/15,Cardiff City,19
+124,14/15,RSC Anderlecht,24
+125,14/15,SV Werder Bremen,1
+126,14/15,Elche CF,0
+127,14/15,Bursaspor,5
+128,14/15,Real Salt Lake,10
+129,14/15,FC Basel 1893,25
+130,14/15,Hellas Verona,4
+131,14/15,1. FC Nürnberg,26
+132,14/15,Colo-Colo,27
+133,14/15,Boca Juniors,18
+134,14/15,Club América,12
+135,14/15,OGC Nice,2
+136,14/15,Columbus Crew SC,10
+137,14/15,Montreal Impact,10
+138,14/15,Vancouver Whitecaps FC,10
+139,14/15,Rubin Kazan,6
+140,14/15,Al Nassr,20
+141,14/15,San Lorenzo de Almagro,18
+142,14/15,River Plate,18
+143,14/15,Chievo Verona,4
+144,14/15,Cagliari,4
+145,14/15,PEC Zwolle,14
+146,14/15,Standard de Liège,24
+147,14/15,Independiente Santa Fe,28
+148,14/15,Córdoba CF,0
+149,14/15,Deportivo de La Coruña,0
+150,14/15,Club Atlético Lanús,18
+151,14/15,Évian Thonon Gaillard FC,2
+152,14/15,Vitesse,14
+153,14/15,FC Twente,14
+154,14/15,FC Utrecht,14
+155,14/15,Crystal Palace,3
+156,14/15,Monterrey,12
+157,14/15,FC Lorient,2
+158,14/15,SD Eibar,0
+159,14/15,CA Osasuna,16
+160,14/15,Gaziantepspor,5
+161,14/15,PAOK,15
+162,14/15,Cruz Azul,12
+163,14/15,Club Tijuana,12
+164,14/15,Eskişehirspor,5
+165,14/15,Kasimpaşa SK,5
+166,14/15,Tigres U.A.N.L.,12
+167,14/15,Estoril Praia,7
+168,14/15,En Avant de Guingamp,2
+169,14/15,CD Nacional,7
+170,14/15,FC Zürich,25
+171,14/15,Vitória Guimarães,7
+172,14/15,Sporting Club de Bastia,2
+173,14/15,Cesena,4
+174,14/15,AZ Alkmaar,14
+175,14/15,Atlético Nacional,28
+176,14/15,Club Brugge KV,24
+177,14/15,UD Almería,0
+178,14/15,Orlando Pirates,22
+179,14/15,Middlesbrough,19
+180,14/15,Wolverhampton Wanderers,19
+181,14/15,Blackburn Rovers,19
+182,14/15,Rio Ave FC,7
+183,14/15,Club Atlético Tigre,18
+184,14/15,Molde FK,29
+185,14/15,Universidad Católica,27
+186,14/15,FC Groningen,14
+187,14/15,Club León,12
+188,14/15,Sporting de Charleroi,24
+189,14/15,FC København,9
+190,14/15,Palermo,4
+191,14/15,Watford,19
+192,14/15,FC Rostov,6
+193,14/15,Wigan Athletic,19
+194,14/15,Club Atlas,12
+195,14/15,Al Ahli,20
+196,14/15,Catania,30
+197,14/15,Sheffield Wednesday,19
+198,14/15,San Jose Earthquakes,10
+199,14/15,Wisła Kraków,31
+200,14/15,Universidad de Chile,27
+201,14/15,Al Fateh,20
+202,14/15,Sporting Lokeren,24
+203,14/15,KV Oostende,24
+204,14/15,Estudiantes de La Plata,18
+205,14/15,Chivas USA,10
+206,14/15,Terek Grozny,6
+207,14/15,Ulsan Hyundai FC,17
+208,14/15,Pachuca,12
+209,14/15,Kardemir Karabükspor,5
+210,14/15,Sporting Kansas City,10
+211,14/15,AIK,32
+212,14/15,KRC Genk,24
+213,14/15,Independiente Medellín,28
+214,14/15,UD Las Palmas,16
+215,14/15,Melbourne Victory,13
+216,14/15,AC Arles Avignon,33
+217,14/15,Akhisar Belediyespor,5
+218,14/15,Atiker Konyaspor,5
+219,14/15,Malmö FF,32
+220,14/15,Rosenborg BK,29
+221,14/15,Kayseri Erciyesspor,5
+222,14/15,Real Zaragoza,16
+223,14/15,Fortuna Düsseldorf,26
+224,14/15,Sydney FC,13
+225,14/15,Belgrano de Córdoba,18
+226,14/15,Medipol Başakşehir FK,5
+227,14/15,Deportivo Toluca,12
+228,14/15,Junior FC,28
+229,14/15,Stade Malherbe Caen,2
+230,14/15,Philadelphia Union,10
+231,14/15,Brighton & Hove Albion,19
+232,14/15,KVC Westerlo,24
+233,14/15,SpVgg Greuther Fürth,26
+234,14/15,Aalesunds FK,29
+235,14/15,Houston Dynamo,10
+236,14/15,FC Luzern,25
+237,14/15,Clube Sport Marítimo,7
+238,14/15,Independiente,18
+239,14/15,Mersin İdman Yurdu,5
+240,14/15,Burnley,3
+241,14/15,Bari,30
+242,14/15,Bournemouth,19
+243,14/15,FC Arouca,7
+244,14/15,FC Paços de Ferreira,7
+245,14/15,1. FC Kaiserslautern,26
+246,14/15,Real Sporting de Gijón,16
+247,14/15,FC Dallas,10
+248,14/15,RCD Mallorca,16
+249,14/15,Bolton Wanderers,19
+250,14/15,Torpedo Moscow,6
+251,14/15,Strømsgodset IF,29
+252,14/15,TSV 1860 München,26
+253,14/15,Arsenal de Sarandí,18
+254,14/15,Reading,19
+255,14/15,Santos Laguna,12
+256,14/15,Gil Vicente FC,7
+257,14/15,Grasshopper Club Zürich,25
+258,14/15,AC Ajaccio,33
+259,14/15,Empoli,4
+260,14/15,FC Sochaux-Montbéliard,33
+261,14/15,Valenciennes FC,33
+262,14/15,Suwon Samsung Bluewings,17
+263,14/15,Monarcas Morelia,12
+264,14/15,Once Caldas,28
+265,14/15,CD Tenerife,16
+266,14/15,AJ Auxerre,33
+267,14/15,Kilmarnock,23
+268,14/15,Derby County,19
+269,14/15,Unión Española,27
+270,14/15,VfL Bochum 1848,26
+271,14/15,CD O'Higgins,27
+272,14/15,Jaguares de Chiapas,12
+273,14/15,Brescia,30
+274,14/15,Legia Warszawa,31
+275,14/15,RB Leipzig,26
+276,14/15,SC Paderborn 07,1
+277,14/15,Racing Club de Lens,2
+278,14/15,Associação Académica de Coimbra,7
+279,14/15,Millonarios FC,28
+280,14/15,Livorno,30
+281,14/15,Perugia,30
+282,14/15,Os Belenenses,7
+283,14/15,Nottingham Forest,19
+284,14/15,Carpi,30
+285,14/15,Vålerenga Fotball,29
+286,14/15,Ipswich Town,19
+287,14/15,Pescara,30
+288,14/15,Inverness Caledonian Thistle,23
+289,14/15,Viking FK,29
+290,14/15,Gençlerbirliği SK,5
+291,14/15,FC Ingolstadt 04,26
+292,14/15,Lech Poznań,31
+293,14/15,Atlético de Rafaela,18
+294,14/15,Birmingham City,19
+295,14/15,Charlton Athletic,19
+296,14/15,SC Heerenveen,14
+297,14/15,Santiago Wanderers,27
+298,14/15,IFK Göteborg,32
+299,14/15,FC Nordsjælland,9
+300,14/15,Leeds United,19
+301,14/15,Eintracht Braunschweig,26
+302,14/15,Unión La Calera,27
+303,14/15,CD Cobreloa,27
+304,14/15,Esbjerg fB,9
+305,14/15,SV Zulte-Waregem,24
+306,14/15,BSC Young Boys,25
+307,14/15,Rangers FC,34
+308,14/15,Brisbane Roar,13
+309,14/15,Puebla FC,12
+310,14/15,Bologna,30
+311,14/15,Deportivo Cali,28
+312,14/15,Colorado Rapids,10
+313,14/15,U.N.A.M.,12
+314,14/15,FC St. Gallen,25
+315,14/15,Deportivo Alavés,16
+316,14/15,Stade Brestois 29,33
+317,14/15,Virtus Entella,30
+318,14/15,Guadalajara,12
+319,14/15,KAA Gent,24
+320,14/15,Pogoń Szczecin,31
+321,14/15,Stade Lavallois Mayenne FC,33
+322,14/15,Trapani,30
+323,14/15,FC Barcelona B,16
+324,14/15,Dundee United,23
+325,14/15,Moreirense FC,7
+326,14/15,FC Sion,25
+327,14/15,Heracles Almelo,14
+328,14/15,DC United,10
+329,14/15,Dijon FCO,33
+330,14/15,Rosario Central,18
+331,14/15,FC Ural Yekaterinburg,6
+332,14/15,Spezia,30
+333,14/15,Willem II,14
+334,14/15,FC Seoul,17
+335,14/15,Modena,30
+336,14/15,Balıkesirspor,5
+337,14/15,ADO Den Haag,14
+338,14/15,Odense Boldklub,9
+339,14/15,Gimnasia y Esgrima La Plata,18
+340,14/15,Millwall,19
+341,14/15,CD Palestino,27
+342,14/15,FC Penafiel,7
+343,14/15,Huddersfield Town,19
+344,14/15,Nîmes Olympique,33
+345,14/15,Godoy Cruz,18
+346,14/15,SD Ponferradina,16
+347,14/15,Le Havre AC,33
+348,14/15,IF Elfsborg,32
+349,14/15,NAC Breda,14
+350,14/15,Western Sydney Wanderers,13
+351,14/15,FSV Frankfurt,26
+352,14/15,SK Rapid Wien,21
+353,14/15,Girona FC,16
+354,14/15,AS Nancy Lorraine,33
+355,14/15,Aalborg BK,9
+356,14/15,Uniautónoma FC,28
+357,14/15,RC Recreativo de Huelva,16
+358,14/15,CD Lugo,16
+359,14/15,Ternana,30
+360,14/15,Śląsk Wrocław,31
+361,14/15,CD Numancia,16
+362,14/15,FC St. Pauli,26
+363,14/15,Boavista FC,7
+364,14/15,Brentford,19
+365,14/15,Tiburones Rojos de Veracruz,12
+366,14/15,Randers FC,9
+367,14/15,Jeju United FC,17
+368,14/15,Club Atlético Banfield,18
+369,14/15,Helsingborgs IF,32
+370,14/15,Deportivo Pasto,28
+371,14/15,CD Cobresal,27
+372,14/15,FC Ufa,6
+373,14/15,Deportivo Ñublense,27
+374,14/15,US Créteil-Lusitanos,33
+375,14/15,Sandnes Ulf,29
+376,14/15,Lechia Gdańsk,31
+377,14/15,Deportes Tolima,28
+378,14/15,Royal Excel Mouscron,24
+379,14/15,Latina,30
+380,14/15,Club Olimpo,18
+381,14/15,Angers SCO,33
+382,14/15,FK Austria Wien,21
+383,14/15,KV Mechelen,24
+384,14/15,Frosinone,30
+385,14/15,1. FC Union Berlin,26
+386,14/15,SV Sandhausen,26
+387,14/15,FK Haugesund,29
+388,14/15,Alianza Petrolera,28
+389,14/15,SK Brann,29
+390,14/15,Quilmes Atlético Club,18
+391,14/15,Odds BK,29
+392,14/15,FC Thun,25
+393,14/15,CE Sabadell FC,16
+394,14/15,KV Kortrijk,24
+395,14/15,FC Midtjylland,9
+396,14/15,Vitória de Setúbal,7
+397,14/15,Rionegro Águilas,28
+398,14/15,Aberdeen,23
+399,14/15,Coventry City,35
+400,14/15,Jagiellonia Białystok,31
+401,14/15,ESTAC Troyes,33
+402,14/15,La Berrichonne de Châteauroux,33
+403,14/15,Leyton Orient,35
+404,14/15,Incheon United FC,17
+405,14/15,Leones Negros de la UdeG,12
+406,14/15,GFC Ajaccio,33
+407,14/15,Audax Italiano,27
+408,14/15,Fleetwood Town,35
+409,14/15,Al Faisaly,20
+410,14/15,Jeonnam Dragons,17
+411,14/15,Gyeongnam FC,17
+412,14/15,Chicago Fire,10
+413,14/15,Al Raed,20
+414,14/15,Tours FC,33
+415,14/15,Lierse SK,24
+416,14/15,Blackpool,19
+417,14/15,Fortaleza CEIF,28
+418,14/15,Kalmar FF,32
+419,14/15,Amkar Perm,6
+420,14/15,Arsenal Tula,6
+421,14/15,Rotherham United,19
+422,14/15,Barnsley,35
+423,14/15,AD Alcorcón,16
+424,14/15,Adelaide United,13
+425,14/15,CD Huachipato,27
+426,14/15,Al Orobah,20
+427,14/15,Crotone,30
+428,14/15,Karlsruher SC,26
+429,14/15,Patriotas Boyacá FC,28
+430,14/15,CD Universidad de Concepción,27
+431,14/15,Clermont Foot 63,33
+432,14/15,BK Häcken,32
+433,14/15,FC Dordrecht,14
+434,14/15,UE Llagostera,16
+435,14/15,Waasland-Beveren,24
+436,14/15,Avellino,30
+437,14/15,Go Ahead Eagles,14
+438,14/15,CD Antofagasta,27
+439,14/15,Boyacá Chicó FC,28
+440,14/15,Busan IPark,17
+441,14/15,SK Sturm Graz,21
+442,14/15,Motherwell,23
+443,14/15,Envigado FC,28
+444,14/15,SC Cambuur,14
+445,14/15,Notts County,35
+446,14/15,Varese,30
+447,14/15,FC Vestsjælland,9
+448,14/15,Deportes Iquique,27
+449,14/15,SønderjyskE,9
+450,14/15,Mordovia Saransk,6
+451,14/15,Pohang Steelers,17
+452,14/15,Piast Gliwice,31
+453,14/15,Seongnam FC,17
+454,14/15,La Equidad,28
+455,14/15,Cittadella,30
+456,14/15,Al Taawoun,20
+457,14/15,KSV Cercle Brugge,24
+458,14/15,Defensa y Justicia,18
+459,14/15,Bristol City,35
+460,14/15,FK Bodø/Glimt,29
+461,14/15,SS Virtus Lanciano,30
+462,14/15,Deportivo San Marcos de Arica,27
+463,14/15,Partick Thistle FC,23
+464,14/15,SV Darmstadt 98,26
+465,14/15,IK Start,29
+466,14/15,CD Mirandés,16
+467,14/15,Wellington Phoenix,13
+468,14/15,Górnik Zabrze,31
+469,14/15,Perth Glory,13
+470,14/15,Korona Kielce,31
+471,14/15,St. Mirren,23
+472,14/15,Djurgårdens IF,32
+473,14/15,Lillestrøm SK,29
+474,14/15,Åtvidabergs FF,32
+475,14/15,VfR Aalen,26
+476,14/15,FC Aarau,25
+477,14/15,Excelsior,14
+478,14/15,Mjällby AIF,32
+479,14/15,Sarpsborg 08 FF,29
+480,14/15,SV Ried,21
+481,14/15,Sheffield United,35
+482,14/15,Cracovia,31
+483,14/15,Sogndal Fotball,29
+484,14/15,Sangju Sangmu FC,17
+485,14/15,FC Pro Vercelli 1892,30
+486,14/15,Hobro IK,9
+487,14/15,Racing Santander,16
+488,14/15,1. FC Heidenheim 1846,26
+489,14/15,Chamois Niortais Football Club,33
+490,14/15,FC Erzgebirge Aue,26
+491,14/15,GKS Bełchatów,31
+492,14/15,Crewe Alexandra,35
+493,14/15,Albacete BP,16
+494,14/15,Peterborough United,35
+495,14/15,Gefle IF,32
+496,14/15,CD Leganés,16
+497,14/15,Central Coast Mariners,13
+498,14/15,St. Johnstone FC,23
+499,14/15,Vicenza,30
+500,14/15,Stabæk Fotball,29
+501,14/15,Shrewsbury,36
+502,14/15,Milton Keynes Dons,35
+503,14/15,Walsall,35
+504,14/15,St. Patrick's Athletic,37
+505,14/15,Górnik Łęczna,31
+506,14/15,Preston North End,35
+507,14/15,US Orléans Loiret Football,33
+508,14/15,Dundee FC,23
+509,14/15,Podbeskidzie Bielsko-Biała,31
+510,14/15,Chesterfield,35
+511,14/15,SV Grödig,21
+512,14/15,Doncaster Rovers,35
+513,14/15,Crawley Town,35
+514,14/15,IFK Norrköping,32
+515,14/15,Swindon Town,35
+516,14/15,Ruch Chorzów,31
+517,14/15,Colchester United,35
+518,14/15,Yeovil Town,35
+519,14/15,Oldham Athletic,35
+520,14/15,FC Admira Wacker Mödling,21
+521,14/15,Wolfsberger AC,21
+522,14/15,Al Shoulla,20
+523,14/15,Portsmouth,36
+524,14/15,Newcastle Jets,13
+525,14/15,Ross County FC,23
+526,14/15,Carlisle United,36
+527,14/15,Plymouth Argyle,36
+528,14/15,Rochdale,35
+529,14/15,Bradford City,35
+530,14/15,Hartlepool United,36
+531,14/15,Hamilton Academical FC,23
+532,14/15,Cheltenham Town,36
+533,14/15,Halmstads BK,32
+534,14/15,Oxford United,36
+535,14/15,IF Brommapojkarna,32
+536,14/15,Dundalk,37
+537,14/15,AC Barnechea,27
+538,14/15,SC Wiener Neustadt,21
+539,14/15,Najran SC,20
+540,14/15,Port Vale,35
+541,14/15,Scunthorpe United,35
+542,14/15,Bury,36
+543,14/15,Atlético Huila,28
+544,14/15,Dagenham and Redbridge,36
+545,14/15,Luton Town,36
+546,14/15,Falkenbergs FF,32
+547,14/15,Gillingham,35
+548,14/15,Northampton Town,36
+549,14/15,Örebro SK,32
+550,14/15,SCR Altach,21
+551,14/15,AFC Wimbledon,36
+552,14/15,Hajer,20
+553,14/15,Southend United,36
+554,14/15,York City,36
+555,14/15,Cambridge United,36
+556,14/15,FC Vaduz,25
+557,14/15,Morecambe,36
+558,14/15,Silkeborg IF,9
+559,14/15,Burton Albion,36
+560,14/15,Mansfield Town,36
+561,14/15,Cork City,37
+562,14/15,Exeter City,36
+563,14/15,Shamrock Rovers,37
+564,14/15,Tranmere Rovers,36
+565,14/15,Derry City,37
+566,14/15,Newport County,36
+567,14/15,Al Khaleej,20
+568,14/15,Stevenage,36
+569,14/15,Wycombe Wanderers,36
+570,14/15,Sligo Rovers,37
+571,14/15,Limerick FC,37
+572,14/15,Accrington Stanley,36
+573,14/15,Bohemian FC,37
+574,14/15,Drogheda United,37
+575,14/15,UCD AFC,37
+576,14/15,Athlone Town,37
+577,14/15,Bray Wanderers,37
+0,15/16,FC Barcelona,0
+1,15/16,Real Madrid,0
+2,15/16,FC Bayern München,1
+4,15/16,Chelsea,3
+3,15/16,Paris Saint-Germain,2
+6,15/16,Manchester City,3
+8,15/16,Arsenal,3
+9,15/16,Juventus,4
+5,15/16,Manchester United,3
+7,15/16,Borussia Dortmund,1
+133,15/16,Boca Juniors,18
+10,15/16,Tottenham Hotspur,3
+31,15/16,VfL Wolfsburg,1
+11,15/16,Atlético Madrid,0
+17,15/16,Liverpool,3
+27,15/16,Bayer 04 Leverkusen,1
+53,15/16,Olympique Lyonnais,2
+12,15/16,Napoli,4
+13,15/16,Roma,4
+28,15/16,FC Porto,7
+578,15/16,New York City FC,10
+34,15/16,Fenerbahçe SK,5
+73,15/16,LA Galaxy,10
+14,15/16,Galatasaray SK,5
+22,15/16,Inter,4
+18,15/16,Zenit St. Petersburg,6
+37,15/16,Athletic Club de Bilbao,0
+19,15/16,AS Saint-Étienne,2
+15,15/16,FC Schalke 04,1
+30,15/16,SL Benfica,7
+21,15/16,AS Monaco,2
+32,15/16,Everton,3
+35,15/16,Olympique de Marseille,2
+23,15/16,Valencia CF,0
+20,15/16,Lazio,4
+48,15/16,Sevilla FC,0
+26,15/16,Real Sociedad,0
+49,15/16,Shakhtar Donetsk,11
+71,15/16,Ajax,14
+63,15/16,Borussia Mönchengladbach,1
+72,15/16,Torino,4
+25,15/16,PFC CSKA Moscow,6
+24,15/16,Milan,4
+16,15/16,Fiorentina,4
+94,15/16,RC Celta,0
+120,15/16,Genoa,4
+41,15/16,Sporting CP,7
+39,15/16,Villarreal CF,0
+29,15/16,Stoke City,3
+62,15/16,Málaga CF,0
+36,15/16,,8
+80,15/16,Stade Rennais FC,2
+112,15/16,Sampdoria,4
+43,15/16,Beşiktaş JK,5
+137,15/16,Montreal Impact,10
+579,15/16,Orlando City SC,10
+56,15/16,LOSC Lille,2
+166,15/16,Tigres U.A.N.L.,12
+45,15/16,Seattle Sounders FC,10
+40,15/16,Swansea City,3
+51,15/16,Southampton,3
+64,15/16,West Ham United,3
+60,15/16,Toronto FC,10
+55,15/16,Spartak Moscow,6
+38,15/16,TSG 1899 Hoffenheim,1
+77,15/16,Sassuolo,4
+65,15/16,Newcastle United,3
+75,15/16,West Bromwich Albion,3
+66,15/16,Hannover 96,1
+57,15/16,Trabzonspor,5
+42,15/16,FC Girondins de Bordeaux,2
+47,15/16,Dinamo Moscow,6
+44,15/16,Brøndby IF,9
+85,15/16,Leicester City,3
+91,15/16,Rayo Vallecano,0
+46,15/16,Lokomotiv Moscow,6
+76,15/16,PSV,14
+127,15/16,Bursaspor,5
+78,15/16,Olympiacos CFP,15
+111,15/16,1. FC Köln,1
+70,15/16,VfB Stuttgart,1
+418,15/16,Kalmar FF,32
+242,15/16,Bournemouth,3
+107,15/16,Stade de Reims,2
+79,15/16,FC Krasnodar,6
+190,15/16,Palermo,4
+238,15/16,Independiente,18
+125,15/16,SV Werder Bremen,1
+580,15/16,Antalyaspor,5
+110,15/16,Sunderland,3
+82,15/16,Real Betis,0
+83,15/16,Udinese,4
+52,15/16,Eintracht Frankfurt,1
+33,15/16,Hamburger SV,1
+106,15/16,FC Augsburg,1
+86,15/16,Racing Club,18
+135,15/16,OGC Nice,2
+108,15/16,Atalanta,4
+155,15/16,Crystal Palace,3
+93,15/16,FC Nantes,2
+50,15/16,Aston Villa,3
+119,15/16,1. FSV Mainz 05,1
+90,15/16,SC Braga,7
+95,15/16,Toulouse Football Club,2
+104,15/16,Levante UD,0
+310,15/16,Bologna,4
+191,15/16,Watford,3
+54,15/16,RCD Espanyol,0
+69,15/16,Hertha BSC,1
+282,15/16,Os Belenenses,7
+97,15/16,Kaizer Chiefs,22
+149,15/16,Deportivo de La Coruña,0
+113,15/16,Feyenoord,14
+84,15/16,Jeonbuk Hyundai Motors,17
+109,15/16,Montpellier HSC,2
+176,15/16,Club Brugge KV,24
+136,15/16,Columbus Crew SC,10
+325,15/16,Moreirense FC,7
+156,15/16,Monterrey,12
+114,15/16,Portland Timbers,10
+67,15/16,Getafe CF,0
+115,15/16,Panathinaikos FC,15
+99,15/16,Norwich City,3
+123,15/16,Cardiff City,19
+124,15/16,RSC Anderlecht,24
+169,15/16,CD Nacional,7
+153,15/16,FC Twente,14
+143,15/16,Chievo Verona,4
+68,15/16,Queens Park Rangers,19
+182,15/16,Rio Ave FC,7
+237,15/16,Clube Sport Marítimo,7
+98,15/16,Kuban Krasnodar,6
+197,15/16,Sheffield Wednesday,19
+259,15/16,Empoli,4
+129,15/16,FC Basel 1893,25
+255,15/16,Santos Laguna,12
+88,15/16,Fulham,19
+130,15/16,Hellas Verona,4
+297,15/16,Santiago Wanderers,27
+132,15/16,Colo-Colo,27
+102,15/16,Newell's Old Boys,18
+105,15/16,New England Revolution,10
+74,15/16,Hull City,19
+142,15/16,River Plate,18
+141,15/16,San Lorenzo de Almagro,18
+87,15/16,Granada CF,0
+134,15/16,Club América,12
+227,15/16,Deportivo Toluca,12
+195,15/16,Al Ahli,20
+363,15/16,Boavista FC,7
+192,15/16,FC Rostov,6
+116,15/16,Sivasspor,5
+138,15/16,Vancouver Whitecaps FC,10
+152,15/16,Vitesse,14
+246,15/16,Real Sporting de Gijón,0
+157,15/16,FC Lorient,2
+171,15/16,Vitória Guimarães,7
+395,15/16,FC Midtjylland,9
+214,15/16,UD Las Palmas,0
+161,15/16,PAOK,15
+178,15/16,Orlando Pirates,22
+263,15/16,Monarcas Morelia,12
+187,15/16,Club León,12
+229,15/16,Stade Malherbe Caen,2
+128,15/16,Real Salt Lake,10
+230,15/16,Philadelphia Union,10
+122,15/16,Celtic,23
+168,15/16,En Avant de Guingamp,2
+354,15/16,AS Nancy Lorraine,33
+139,15/16,Rubin Kazan,6
+162,15/16,Cruz Azul,12
+163,15/16,Club Tijuana,12
+140,15/16,Al Nassr,20
+165,15/16,Kasimpaşa SK,5
+284,15/16,Carpi,4
+384,15/16,Frosinone,4
+117,15/16,Al Shabab,20
+364,15/16,Brentford,19
+158,15/16,SD Eibar,0
+89,15/16,Al Hilal,20
+92,15/16,FC Red Bull Salzburg,21
+154,15/16,FC Utrecht,14
+244,15/16,FC Paços de Ferreira,7
+581,15/16,Kayserispor,5
+410,15/16,Jeonnam Dragons,17
+247,15/16,FC Dallas,10
+254,15/16,Reading,19
+296,15/16,SC Heerenveen,14
+265,15/16,CD Tenerife,16
+218,15/16,Atiker Konyaspor,5
+206,15/16,Terek Grozny,6
+177,15/16,UD Almería,16
+207,15/16,Ulsan Hyundai FC,17
+189,15/16,FC København,9
+167,15/16,Estoril Praia,7
+172,15/16,Sporting Club de Bastia,2
+291,15/16,FC Ingolstadt 04,1
+174,15/16,AZ Alkmaar,14
+96,15/16,SC Freiburg,26
+59,15/16,Querétaro,12
+290,15/16,Gençlerbirliği SK,5
+582,15/16,Osmanlıspor,5
+160,15/16,Gaziantepspor,5
+319,15/16,KAA Gent,24
+226,15/16,Medipol Başakşehir FK,5
+583,15/16,Sint-Truidense VV,24
+257,15/16,Grasshopper Club Zürich,25
+295,15/16,Charlton Athletic,19
+179,15/16,Middlesbrough,19
+315,15/16,Deportivo Alavés,16
+103,15/16,Real Valladolid CF,16
+118,15/16,Al Ittihad,20
+232,15/16,KVC Westerlo,24
+584,15/16,CD Tondela,7
+144,15/16,Cagliari,30
+240,15/16,Burnley,19
+101,15/16,FC Metz,33
+268,15/16,Derby County,19
+164,15/16,Eskişehirspor,5
+330,15/16,Rosario Central,18
+585,15/16,FC Anzhi Makhachkala,6
+210,15/16,Sporting Kansas City,10
+200,15/16,Universidad de Chile,27
+586,15/16,União da Madeira,7
+243,15/16,FC Arouca,7
+401,15/16,ESTAC Troyes,2
+198,15/16,San Jose Earthquakes,10
+239,15/16,Mersin İdman Yurdu,5
+222,15/16,Real Zaragoza,16
+100,15/16,Vélez Sarsfield,18
+208,15/16,Pachuca,12
+275,15/16,RB Leipzig,26
+186,15/16,FC Groningen,14
+183,15/16,Club Atlético Tigre,18
+249,15/16,Bolton Wanderers,19
+368,15/16,Club Atlético Banfield,18
+220,15/16,Rosenborg BK,29
+283,15/16,Nottingham Forest,19
+147,15/16,Independiente Santa Fe,28
+213,15/16,Independiente Medellín,28
+485,15/16,FC Pro Vercelli 1892,30
+464,15/16,SV Darmstadt 98,1
+194,15/16,Club Atlas,12
+306,15/16,BSC Young Boys,25
+587,15/16,Krylya Sovetov Samara,6
+278,15/16,Associação Académica de Coimbra,7
+181,15/16,Blackburn Rovers,19
+353,15/16,Girona FC,16
+175,15/16,Atlético Nacional,28
+421,15/16,Rotherham United,19
+184,15/16,Molde FK,29
+212,15/16,KRC Genk,24
+339,15/16,Gimnasia y Esgrima La Plata,18
+217,15/16,Akhisar Belediyespor,5
+499,15/16,Vicenza,30
+406,15/16,GFC Ajaccio,2
+332,15/16,Spezia,30
+383,15/16,KV Mechelen,24
+223,15/16,Fortuna Düsseldorf,26
+203,15/16,KV Oostende,24
+266,15/16,AJ Auxerre,33
+170,15/16,FC Zürich,25
+286,15/16,Ipswich Town,19
+311,15/16,Deportivo Cali,28
+201,15/16,Al Fateh,20
+211,15/16,AIK,32
+148,15/16,Córdoba CF,16
+185,15/16,Universidad Católica,27
+204,15/16,Estudiantes de La Plata,18
+300,15/16,Leeds United,19
+396,15/16,Vitória de Setúbal,7
+285,15/16,Vålerenga Fotball,29
+231,15/16,Brighton & Hove Albion,19
+180,15/16,Wolverhampton Wanderers,19
+333,15/16,Willem II,14
+228,15/16,Junior FC,28
+225,15/16,Belgrano de Córdoba,18
+443,15/16,Envigado FC,28
+328,15/16,DC United,10
+398,15/16,Aberdeen,23
+419,15/16,Amkar Perm,6
+496,15/16,CD Leganés,16
+337,15/16,ADO Den Haag,14
+145,15/16,PEC Zwolle,14
+235,15/16,Houston Dynamo,10
+251,15/16,Strømsgodset IF,29
+146,15/16,Standard de Liège,24
+298,15/16,IFK Göteborg,32
+318,15/16,Guadalajara,12
+81,15/16,New York Red Bulls,10
+366,15/16,Randers FC,9
+262,15/16,Suwon Samsung Bluewings,17
+407,15/16,Audax Italiano,27
+365,15/16,Tiburones Rojos de Veracruz,12
+299,15/16,FC Nordsjælland,9
+131,15/16,1. FC Nürnberg,26
+277,15/16,Racing Club de Lens,33
+245,15/16,1. FC Kaiserslautern,26
+588,15/16,Club Atlético Sarmiento,18
+292,15/16,Lech Poznań,31
+412,15/16,Chicago Fire,10
+381,15/16,Angers SCO,2
+215,15/16,Melbourne Victory,13
+219,15/16,Malmö FF,32
+502,15/16,Milton Keynes Dons,19
+326,15/16,FC Sion,25
+248,15/16,RCD Mallorca,16
+589,15/16,Gimnàstic de Tarragona,16
+334,15/16,FC Seoul,17
+260,15/16,FC Sochaux-Montbéliard,33
+253,15/16,Arsenal de Sarandí,18
+159,15/16,CA Osasuna,16
+272,15/16,Jaguares de Chiapas,12
+309,15/16,Puebla FC,12
+241,15/16,Bari,30
+276,15/16,SC Paderborn 07,26
+312,15/16,Colorado Rapids,10
+347,15/16,Le Havre AC,33
+280,15/16,Livorno,30
+456,15/16,Al Taawoun,20
+590,15/16,Bilbao Athletic,16
+591,15/16,Como,30
+355,15/16,Aalborg BK,9
+352,15/16,SK Rapid Wien,21
+126,15/16,Elche CF,16
+372,15/16,FC Ufa,6
+202,15/16,Sporting Lokeren,24
+314,15/16,FC St. Gallen,25
+458,15/16,Defensa y Justicia,18
+121,15/16,Çaykur Rizespor,5
+264,15/16,Once Caldas,28
+459,15/16,Bristol City,19
+338,15/16,Odense Boldklub,9
+150,15/16,Club Atlético Lanús,18
+592,15/16,Fluminense,38
+301,15/16,Eintracht Braunschweig,26
+450,15/16,Mordovia Saransk,6
+173,15/16,Cesena,30
+236,15/16,FC Luzern,25
+193,15/16,Wigan Athletic,35
+188,15/16,Sporting de Charleroi,24
+151,15/16,Évian Thonon Gaillard FC,33
+514,15/16,IFK Norrköping,32
+563,15/16,Shamrock Rovers,37
+436,15/16,Avellino,30
+308,15/16,Brisbane Roar,13
+252,15/16,TSV 1860 München,26
+313,15/16,U.N.A.M.,12
+305,15/16,SV Zulte-Waregem,24
+358,15/16,CD Lugo,16
+593,15/16,Real Oviedo,16
+391,15/16,Odds BK,29
+399,15/16,Coventry City,35
+594,15/16,Club Atlético Huracán,18
+271,15/16,CD O'Higgins,27
+317,15/16,Virtus Entella,30
+270,15/16,VfL Bochum 1848,26
+233,15/16,SpVgg Greuther Fürth,26
+350,15/16,Western Sydney Wanderers,13
+423,15/16,AD Alcorcón,16
+335,15/16,Modena,30
+543,15/16,Atlético Huila,28
+428,15/16,Karlsruher SC,26
+595,15/16,DSC Arminia Bielefeld,26
+274,15/16,Legia Warszawa,31
+331,15/16,FC Ural Yekaterinburg,6
+224,15/16,Sydney FC,13
+596,15/16,San Luis de Quillota,27
+597,15/16,Novara,30
+427,15/16,Crotone,30
+279,15/16,Millonarios FC,28
+488,15/16,1. FC Heidenheim 1846,26
+430,15/16,CD Universidad de Concepción,27
+400,15/16,Jagiellonia Białystok,31
+451,15/16,Pohang Steelers,17
+287,15/16,Pescara,30
+598,15/16,Roda JC Kerkrade,14
+377,15/16,Deportes Tolima,28
+414,15/16,Tours FC,33
+390,15/16,Quilmes Atlético Club,18
+599,15/16,SD Huesca,16
+600,15/16,NEC Nijmegen,14
+61,15/16,Melbourne City FC,13
+327,15/16,Heracles Almelo,14
+376,15/16,Lechia Gdańsk,31
+461,15/16,SS Virtus Lanciano,30
+362,15/16,FC St. Pauli,26
+329,15/16,Dijon FCO,33
+460,15/16,FK Bodø/Glimt,29
+601,15/16,Unión de Santa Fe,18
+341,15/16,CD Palestino,27
+345,15/16,Godoy Cruz,18
+269,15/16,Unión Española,27
+435,15/16,Waasland-Beveren,24
+500,15/16,Stabæk Fotball,29
+346,15/16,SD Ponferradina,16
+602,15/16,Oud-Heverlee Leuven,24
+506,15/16,Preston North End,19
+369,15/16,Helsingborgs IF,32
+385,15/16,1. FC Union Berlin,26
+472,15/16,Djurgårdens IF,32
+453,15/16,Seongnam FC,17
+348,15/16,IF Elfsborg,32
+603,15/16,Club Atlético Colón,18
+281,15/16,Perugia,30
+360,15/16,Śląsk Wrocław,31
+361,15/16,CD Numancia,16
+604,15/16,Paris FC,33
+529,15/16,Bradford City,35
+605,15/16,Hammarby IF,32
+382,15/16,FK Austria Wien,21
+316,15/16,Stade Brestois 29,33
+434,15/16,UE Llagostera,16
+493,15/16,Albacete BP,16
+394,15/16,KV Kortrijk,24
+479,15/16,Sarpsborg 08 FF,29
+606,15/16,US Salernitana 1919,30
+425,15/16,CD Huachipato,27
+413,15/16,Al Raed,20
+432,15/16,BK Häcken,32
+371,15/16,CD Cobresal,27
+320,15/16,Pogoń Szczecin,31
+438,15/16,CD Antofagasta,27
+392,15/16,FC Thun,25
+386,15/16,SV Sandhausen,26
+387,15/16,FK Haugesund,29
+367,15/16,Jeju United FC,17
+273,15/16,Brescia,30
+607,15/16,Red Star FC,33
+489,15/16,Chamois Niortais Football Club,33
+533,15/16,Halmstads BK,32
+304,15/16,Esbjerg fB,9
+477,15/16,Excelsior,14
+608,15/16,Nueva Chicago,18
+388,15/16,Alianza Petrolera,28
+343,15/16,Huddersfield Town,19
+444,15/16,SC Cambuur,14
+258,15/16,AC Ajaccio,33
+294,15/16,Birmingham City,19
+404,15/16,Incheon United FC,17
+609,15/16,Dorados de Sinaloa,12
+379,15/16,Latina,30
+454,15/16,La Equidad,28
+481,15/16,Sheffield United,35
+321,15/16,Stade Lavallois Mayenne FC,33
+397,15/16,Rionegro Águilas,28
+610,15/16,Daejeon Citizen,17
+611,15/16,Club Atlético Aldosivi,18
+261,15/16,Valenciennes FC,33
+359,15/16,Ternana,30
+288,15/16,Inverness Caledonian Thistle,23
+234,15/16,Aalesunds FK,29
+549,15/16,Örebro SK,32
+612,15/16,Jaguares de Córdoba,28
+356,15/16,Uniautónoma FC,28
+409,15/16,Al Faisaly,20
+613,15/16,Tromsø IL,29
+441,15/16,SK Sturm Graz,21
+449,15/16,SønderjyskE,9
+440,15/16,Busan IPark,17
+344,15/16,Nîmes Olympique,33
+340,15/16,Millwall,35
+614,15/16,MSV Duisburg,26
+424,15/16,Adelaide United,13
+289,15/16,Viking FK,29
+267,15/16,Kilmarnock,23
+465,15/16,IK Start,29
+322,15/16,Trapani,30
+293,15/16,Atlético de Rafaela,18
+462,15/16,Deportivo San Marcos de Arica,27
+517,15/16,Colchester United,35
+351,15/16,FSV Frankfurt,26
+380,15/16,Club Olimpo,18
+431,15/16,Clermont Foot 63,33
+442,15/16,Motherwell,23
+429,15/16,Patriotas Boyacá FC,28
+466,15/16,CD Mirandés,16
+370,15/16,Deportivo Pasto,28
+448,15/16,Deportes Iquique,27
+556,15/16,FC Vaduz,25
+553,15/16,Southend United,35
+615,15/16,Aarhus GF,9
+616,15/16,De Graafschap,14
+617,15/16,Argentinos Juniors,18
+498,15/16,St. Johnstone FC,23
+510,15/16,Chesterfield,35
+467,15/16,Wellington Phoenix,13
+469,15/16,Perth Glory,13
+378,15/16,Royal Excel Mouscron,24
+494,15/16,Peterborough United,35
+324,15/16,Dundee United,23
+199,15/16,Wisła Kraków,31
+473,15/16,Lillestrøm SK,29
+374,15/16,US Créteil-Lusitanos,33
+445,15/16,Notts County,36
+403,15/16,Leyton Orient,36
+618,15/16,GwangJu FC,17
+468,15/16,Górnik Zabrze,31
+480,15/16,SV Ried,21
+525,15/16,Ross County FC,23
+508,15/16,Dundee FC,23
+452,15/16,Piast Gliwice,31
+523,15/16,Portsmouth,36
+619,15/16,San Martín de San Juan,18
+486,15/16,Hobro IK,9
+620,15/16,Cúcuta Deportivo,28
+516,15/16,Ruch Chorzów,31
+302,15/16,Unión La Calera,27
+439,15/16,Boyacá Chicó FC,28
+621,15/16,Cortuluá,28
+482,15/16,Cracovia,31
+622,15/16,Bristol Rovers,36
+503,15/16,Walsall,35
+545,15/16,Luton Town,36
+422,15/16,Barnsley,35
+539,15/16,Najran SC,20
+547,15/16,Gillingham,35
+548,15/16,Northampton Town,36
+623,15/16,Viborg FF,9
+624,15/16,Ascoli,30
+527,15/16,Plymouth Argyle,36
+550,15/16,SCR Altach,21
+552,15/16,Hajer,20
+625,15/16,Zagłębie Lubin,31
+515,15/16,Swindon Town,35
+626,15/16,FC Lugano,25
+542,15/16,Bury,35
+627,15/16,Heart of Midlothian,23
+567,15/16,Al Khaleej,20
+628,15/16,Football Bourg En Bresse Peronnas 01,33
+512,15/16,Doncaster Rovers,35
+470,15/16,Korona Kielce,31
+463,15/16,Partick Thistle FC,23
+536,15/16,Dundalk,37
+408,15/16,Fleetwood Town,35
+509,15/16,Podbeskidzie Bielsko-Biała,31
+519,15/16,Oldham Athletic,35
+521,15/16,Wolfsberger AC,21
+629,15/16,Mjøndalen IF,29
+630,15/16,Club Atlético Temperley,18
+501,15/16,Shrewsbury,35
+528,15/16,Rochdale,35
+631,15/16,Crucero del Norte,18
+632,15/16,Bruk-Bet Termalica Nieciecza,31
+541,15/16,Scunthorpe United,35
+551,15/16,AFC Wimbledon,36
+555,15/16,Cambridge United,36
+562,15/16,Exeter City,36
+524,15/16,Newcastle Jets,13
+518,15/16,Yeovil Town,36
+416,15/16,Blackpool,35
+633,15/16,SV Mattersburg,21
+505,15/16,Górnik Łęczna,31
+520,15/16,FC Admira Wacker Mödling,21
+634,15/16,GIF Sundsvall,32
+497,15/16,Central Coast Mariners,13
+495,15/16,Gefle IF,32
+546,15/16,Falkenbergs FF,32
+534,15/16,Oxford United,36
+574,15/16,Drogheda United,37
+540,15/16,Port Vale,35
+511,15/16,SV Grödig,21
+568,15/16,Stevenage,36
+544,15/16,Dagenham and Redbridge,36
+492,15/16,Crewe Alexandra,35
+635,15/16,Barnet,36
+531,15/16,Hamilton Academical FC,23
+474,15/16,Åtvidabergs FF,32
+559,15/16,Burton Albion,35
+513,15/16,Crawley Town,36
+569,15/16,Wycombe Wanderers,36
+636,15/16,Al Qadisiyah,20
+526,15/16,Carlisle United,36
+637,15/16,Al Wehda,20
+638,15/16,Sandefjord Fotball,29
+557,15/16,Morecambe,36
+530,15/16,Hartlepool United,36
+560,15/16,Mansfield Town,36
+504,15/16,St. Patrick's Athletic,37
+561,15/16,Cork City,37
+554,15/16,York City,36
+572,15/16,Accrington Stanley,36
+566,15/16,Newport County,36
+570,15/16,Sligo Rovers,37
+573,15/16,Bohemian FC,37
+565,15/16,Derry City,37
+571,15/16,Limerick FC,37
+639,15/16,Galway United,37
+577,15/16,Bray Wanderers,37
+640,15/16,Longford Town,37
+1,16/17,Real Madrid,0
+0,16/17,FC Barcelona,0
+2,16/17,FC Bayern München,1
+5,16/17,Manchester United,3
+4,16/17,Chelsea,3
+8,16/17,Arsenal,3
+6,16/17,Manchester City,3
+3,16/17,Paris Saint-Germain,2
+11,16/17,Atlético Madrid,0
+9,16/17,Juventus,4
+10,16/17,Tottenham Hotspur,3
+7,16/17,Borussia Dortmund,1
+22,16/17,Inter,4
+27,16/17,Bayer 04 Leverkusen,1
+64,16/17,West Ham United,3
+17,16/17,Liverpool,3
+53,16/17,Olympique Lyonnais,2
+85,16/17,Leicester City,3
+155,16/17,Crystal Palace,3
+19,16/17,AS Saint-Étienne,2
+12,16/17,Napoli,4
+32,16/17,Everton,3
+41,16/17,Sporting CP,7
+37,16/17,Athletic Club de Bilbao,0
+13,16/17,Roma,4
+31,16/17,VfL Wolfsburg,1
+63,16/17,Borussia Mönchengladbach,1
+15,16/17,FC Schalke 04,1
+72,16/17,Torino,4
+23,16/17,Valencia CF,0
+30,16/17,SL Benfica,7
+24,16/17,Milan,4
+120,16/17,Genoa,4
+39,16/17,Villarreal CF,0
+28,16/17,FC Porto,7
+43,16/17,Beşiktaş JK,5
+18,16/17,Zenit St. Petersburg,6
+42,16/17,FC Girondins de Bordeaux,2
+14,16/17,Galatasaray SK,5
+56,16/17,LOSC Lille,2
+16,16/17,Fiorentina,4
+133,16/17,Boca Juniors,18
+21,16/17,AS Monaco,2
+77,16/17,Sassuolo,4
+35,16/17,Olympique de Marseille,2
+51,16/17,Southampton,3
+60,16/17,Toronto FC,10
+29,16/17,Stoke City,3
+26,16/17,Real Sociedad,0
+20,16/17,Lazio,4
+111,16/17,1. FC Köln,1
+242,16/17,Bournemouth,3
+108,16/17,Atalanta,4
+34,16/17,Fenerbahçe SK,5
+48,16/17,Sevilla FC,0
+578,16/17,New York City FC,10
+179,16/17,Middlesbrough,3
+579,16/17,Orlando City SC,10
+166,16/17,Tigres U.A.N.L.,12
+80,16/17,Stade Rennais FC,2
+112,16/17,Sampdoria,4
+76,16/17,PSV,14
+46,16/17,Lokomotiv Moscow,6
+83,16/17,Udinese,4
+40,16/17,Swansea City,3
+38,16/17,TSG 1899 Hoffenheim,1
+55,16/17,Spartak Moscow,6
+62,16/17,Málaga CF,0
+191,16/17,Watford,3
+25,16/17,PFC CSKA Moscow,6
+57,16/17,Trabzonspor,5
+36,16/17,,8
+580,16/17,Antalyaspor,5
+73,16/17,LA Galaxy,10
+312,16/17,Colorado Rapids,10
+137,16/17,Montreal Impact,10
+82,16/17,Real Betis,0
+33,16/17,Hamburger SV,1
+49,16/17,Shakhtar Donetsk,11
+310,16/17,Bologna,4
+54,16/17,RCD Espanyol,0
+69,16/17,Hertha BSC,1
+94,16/17,RC Celta,0
+214,16/17,UD Las Palmas,0
+259,16/17,Empoli,4
+71,16/17,Ajax,14
+149,16/17,Deportivo de La Coruña,0
+75,16/17,West Bromwich Albion,3
+143,16/17,Chievo Verona,4
+110,16/17,Sunderland,3
+106,16/17,FC Augsburg,1
+87,16/17,Granada CF,0
+79,16/17,FC Krasnodar,6
+135,16/17,OGC Nice,2
+115,16/17,Panathinaikos FC,15
+125,16/17,SV Werder Bremen,1
+192,16/17,FC Rostov,6
+157,16/17,FC Lorient,2
+275,16/17,RB Leipzig,1
+139,16/17,Rubin Kazan,6
+119,16/17,1. FSV Mainz 05,1
+109,16/17,Montpellier HSC,2
+226,16/17,Medipol Başakşehir FK,5
+122,16/17,Celtic,23
+52,16/17,Eintracht Frankfurt,1
+144,16/17,Cagliari,4
+142,16/17,River Plate,18
+127,16/17,Bursaspor,5
+45,16/17,Seattle Sounders FC,10
+91,16/17,Rayo Vallecano,16
+113,16/17,Feyenoord,14
+240,16/17,Burnley,3
+114,16/17,Portland Timbers,10
+74,16/17,Hull City,3
+129,16/17,FC Basel 1893,25
+330,16/17,Rosario Central,18
+176,16/17,Club Brugge KV,24
+156,16/17,Monterrey,12
+158,16/17,SD Eibar,0
+78,16/17,Olympiacos CFP,15
+88,16/17,Fulham,19
+95,16/17,Toulouse Football Club,2
+255,16/17,Santos Laguna,12
+66,16/17,Hannover 96,26
+68,16/17,Queens Park Rangers,19
+182,16/17,Rio Ave FC,7
+195,16/17,Al Ahli,20
+287,16/17,Pescara,4
+132,16/17,Colo-Colo,27
+641,16/17,Alanyaspor,5
+86,16/17,Racing Club,18
+642,16/17,Club Necaxa,12
+141,16/17,San Lorenzo de Almagro,18
+246,16/17,Real Sporting de Gijón,0
+582,16/17,Osmanlıspor,5
+70,16/17,VfB Stuttgart,26
+65,16/17,Newcastle United,19
+418,16/17,Kalmar FF,32
+174,16/17,AZ Alkmaar,14
+93,16/17,FC Nantes,2
+334,16/17,FC Seoul,17
+217,16/17,Akhisar Belediyespor,5
+585,16/17,FC Anzhi Makhachkala,6
+152,16/17,Vitesse,14
+104,16/17,Levante UD,16
+464,16/17,SV Darmstadt 98,1
+124,16/17,RSC Anderlecht,24
+363,16/17,Boavista FC,7
+189,16/17,FC København,9
+154,16/17,FC Utrecht,14
+50,16/17,Aston Villa,19
+247,16/17,FC Dallas,10
+643,16/17,Goiás,39
+496,16/17,CD Leganés,0
+180,16/17,Wolverhampton Wanderers,19
+315,16/17,Deportivo Alavés,0
+238,16/17,Independiente,18
+644,16/17,Ponte Preta,38
+229,16/17,Stade Malherbe Caen,2
+90,16/17,SC Braga,7
+228,16/17,Junior FC,28
+187,16/17,Club León,12
+150,16/17,Club Atlético Lanús,18
+203,16/17,KV Oostende,24
+230,16/17,Philadelphia Union,10
+101,16/17,FC Metz,2
+99,16/17,Norwich City,19
+134,16/17,Club América,12
+172,16/17,Sporting Club de Bastia,2
+227,16/17,Deportivo Toluca,12
+291,16/17,FC Ingolstadt 04,1
+136,16/17,Columbus Crew SC,10
+204,16/17,Estudiantes de La Plata,18
+105,16/17,New England Revolution,10
+252,16/17,TSV 1860 München,26
+381,16/17,Angers SCO,2
+163,16/17,Club Tijuana,12
+190,16/17,Palermo,4
+175,16/17,Atlético Nacional,28
+645,16/17,Club Athletico Paranaense,38
+646,16/17,Botafogo,38
+647,16/17,Chapecoense,38
+648,16/17,Coritiba,38
+649,16/17,Internacional,38
+208,16/17,Pachuca,12
+328,16/17,DC United,10
+162,16/17,Cruz Azul,12
+384,16/17,Frosinone,30
+283,16/17,Nottingham Forest,19
+300,16/17,Leeds United,19
+274,16/17,Legia Warszawa,31
+168,16/17,En Avant de Guingamp,2
+343,16/17,Huddersfield Town,19
+169,16/17,CD Nacional,7
+650,16/17,Grêmio,38
+177,16/17,UD Almería,16
+59,16/17,Querétaro,12
+218,16/17,Atiker Konyaspor,5
+159,16/17,CA Osasuna,0
+171,16/17,Vitória Guimarães,7
+103,16/17,Real Valladolid CF,16
+128,16/17,Real Salt Lake,10
+236,16/17,FC Luzern,25
+92,16/17,FC Red Bull Salzburg,21
+277,16/17,Racing Club de Lens,33
+241,16/17,Bari,30
+130,16/17,Hellas Verona,30
+307,16/17,Rangers FC,23
+84,16/17,Jeonbuk Hyundai Motors,17
+326,16/17,FC Sion,25
+651,16/17,Sanfrecce Hiroshima,40
+200,16/17,Universidad de Chile,27
+206,16/17,Terek Grozny,6
+231,16/17,Brighton & Hove Albion,19
+97,16/17,Kaizer Chiefs,22
+319,16/17,KAA Gent,24
+197,16/17,Sheffield Wednesday,19
+185,16/17,Universidad Católica,27
+306,16/17,BSC Young Boys,25
+160,16/17,Gaziantepspor,5
+96,16/17,SC Freiburg,1
+237,16/17,Clube Sport Marítimo,7
+364,16/17,Brentford,19
+146,16/17,Standard de Liège,24
+167,16/17,Estoril Praia,7
+225,16/17,Belgrano de Córdoba,18
+178,16/17,Orlando Pirates,22
+313,16/17,U.N.A.M.,12
+61,16/17,Melbourne City FC,13
+121,16/17,Çaykur Rizespor,5
+138,16/17,Vancouver Whitecaps FC,10
+282,16/17,Os Belenenses,7
+331,16/17,FC Ural Yekaterinburg,6
+290,16/17,Gençlerbirliği SK,5
+271,16/17,CD O'Higgins,27
+652,16/17,América FC (Minas Gerais),38
+653,16/17,Palmeiras,38
+654,16/17,Figueirense,38
+655,16/17,Santos,38
+656,16/17,Sport Club do Recife,38
+657,16/17,Criciúma,39
+311,16/17,Deportivo Cali,28
+89,16/17,Al Hilal,20
+161,16/17,PAOK,15
+107,16/17,Stade de Reims,33
+396,16/17,Vitória de Setúbal,7
+658,16/17,Cruzeiro,38
+659,16/17,Vitória,38
+581,16/17,Kayserispor,5
+186,16/17,FC Groningen,14
+507,16/17,US Orléans Loiret Football,33
+353,16/17,Girona FC,16
+395,16/17,FC Midtjylland,9
+147,16/17,Independiente Santa Fe,28
+365,16/17,Tiburones Rojos de Veracruz,12
+123,16/17,Cardiff City,19
+257,16/17,Grasshopper Club Zürich,25
+266,16/17,AJ Auxerre,33
+329,16/17,Dijon FCO,2
+102,16/17,Newell's Old Boys,18
+223,16/17,Fortuna Düsseldorf,26
+355,16/17,Aalborg BK,9
+506,16/17,Preston North End,19
+268,16/17,Derby County,19
+469,16/17,Perth Glory,13
+248,16/17,RCD Mallorca,16
+660,16/17,Júbilo Iwata,40
+224,16/17,Sydney FC,13
+420,16/17,Arsenal Tula,6
+67,16/17,Getafe CF,16
+423,16/17,AD Alcorcón,16
+210,16/17,Sporting Kansas City,10
+262,16/17,Suwon Samsung Bluewings,17
+213,16/17,Independiente Medellín,28
+183,16/17,Club Atlético Tigre,18
+165,16/17,Kasimpaşa SK,5
+100,16/17,Vélez Sarsfield,18
+318,16/17,Guadalajara,12
+279,16/17,Millonarios FC,28
+592,16/17,Fluminense,38
+661,16/17,São Paulo,38
+662,16/17,Joinville,39
+663,16/17,Santa Cruz,38
+212,16/17,KRC Genk,24
+354,16/17,AS Nancy Lorraine,2
+220,16/17,Rosenborg BK,29
+664,16/17,Gamba Osaka,40
+296,16/17,SC Heerenveen,14
+345,16/17,Godoy Cruz,18
+587,16/17,Krylya Sovetov Samara,6
+131,16/17,1. FC Nürnberg,26
+362,16/17,FC St. Pauli,26
+305,16/17,SV Zulte-Waregem,24
+209,16/17,Kardemir Karabükspor,5
+245,16/17,1. FC Kaiserslautern,26
+270,16/17,VfL Bochum 1848,26
+148,16/17,Córdoba CF,16
+194,16/17,Club Atlas,12
+385,16/17,1. FC Union Berlin,26
+514,16/17,IFK Norrköping,32
+219,16/17,Malmö FF,32
+499,16/17,Vicenza,30
+281,16/17,Perugia,30
+126,16/17,Elche CF,16
+222,16/17,Real Zaragoza,16
+406,16/17,GFC Ajaccio,33
+441,16/17,SK Sturm Graz,21
+202,16/17,Sporting Lokeren,24
+253,16/17,Arsenal de Sarandí,18
+589,16/17,Gimnàstic de Tarragona,16
+286,16/17,Ipswich Town,19
+593,16/17,Real Oviedo,16
+244,16/17,FC Paços de Ferreira,7
+215,16/17,Melbourne Victory,13
+309,16/17,Puebla FC,12
+665,16/17,FC Tokyo,40
+243,16/17,FC Arouca,7
+211,16/17,AIK,32
+325,16/17,Moreirense FC,7
+666,16/17,CD Feirense,7
+81,16/17,New York Red Bulls,10
+321,16/17,Stade Lavallois Mayenne FC,33
+292,16/17,Lech Poznań,31
+667,16/17,Kawasaki Frontale,40
+668,16/17,GD Chaves,7
+184,16/17,Molde FK,29
+258,16/17,AC Ajaccio,33
+235,16/17,Houston Dynamo,10
+118,16/17,Al Ittihad,20
+339,16/17,Gimnasia y Esgrima La Plata,18
+669,16/17,Urawa Red Diamonds,40
+332,16/17,Spezia,30
+201,16/17,Al Fateh,20
+670,16/17,FC Tom Tomsk,6
+263,16/17,Monarcas Morelia,12
+430,16/17,CD Universidad de Concepción,27
+671,16/17,Kashiwa Reysol,40
+672,16/17,Atlético Mineiro,38
+352,16/17,SK Rapid Wien,21
+361,16/17,CD Numancia,16
+453,16/17,Seongnam FC,17
+419,16/17,Amkar Perm,6
+673,16/17,Adanaspor,5
+117,16/17,Al Shabab,20
+327,16/17,Heracles Almelo,14
+251,16/17,Strømsgodset IF,29
+273,16/17,Brescia,30
+298,16/17,IFK Göteborg,32
+674,16/17,Vissel Kobe,40
+427,16/17,Crotone,4
+398,16/17,Aberdeen,23
+598,16/17,Roda JC Kerkrade,14
+428,16/17,Karlsruher SC,26
+264,16/17,Once Caldas,28
+153,16/17,FC Twente,14
+412,16/17,Chicago Fire,10
+284,16/17,Carpi,30
+583,16/17,Sint-Truidense VV,24
+394,16/17,KV Kortrijk,24
+269,16/17,Unión Española,27
+188,16/17,Sporting de Charleroi,24
+372,16/17,FC Ufa,6
+301,16/17,Eintracht Braunschweig,26
+458,16/17,Defensa y Justicia,18
+401,16/17,ESTAC Troyes,33
+675,16/17,CF Reus Deportiu,16
+676,16/17,Yokohama F. Marinos,40
+432,16/17,BK Häcken,32
+677,16/17,RC Strasbourg Alsace,33
+606,16/17,US Salernitana 1919,30
+348,16/17,IF Elfsborg,32
+456,16/17,Al Taawoun,20
+308,16/17,Brisbane Roar,13
+265,16/17,CD Tenerife,16
+678,16/17,Club Atlético Talleres,18
+382,16/17,FK Austria Wien,21
+198,16/17,San Jose Earthquakes,10
+679,16/17,HJK Helsinki,41
+337,16/17,ADO Den Haag,14
+272,16/17,Jaguares de Chiapas,12
+254,16/17,Reading,19
+383,16/17,KV Mechelen,24
+595,16/17,DSC Arminia Bielefeld,26
+145,16/17,PEC Zwolle,14
+366,16/17,Randers FC,9
+619,16/17,San Martín de San Juan,18
+294,16/17,Birmingham City,19
+173,16/17,Cesena,30
+680,16/17,Sagan Tosu,40
+341,16/17,CD Palestino,27
+597,16/17,Novara,30
+44,16/17,Brøndby IF,9
+295,16/17,Charlton Athletic,35
+140,16/17,Al Nassr,20
+488,16/17,1. FC Heidenheim 1846,26
+388,16/17,Alianza Petrolera,28
+594,16/17,Club Atlético Huracán,18
+681,16/17,Vasco da Gama,39
+482,16/17,Cracovia,31
+285,16/17,Vålerenga Fotball,29
+360,16/17,Śląsk Wrocław,31
+314,16/17,FC St. Gallen,25
+358,16/17,CD Lugo,16
+584,16/17,CD Tondela,7
+400,16/17,Jagiellonia Białystok,31
+181,16/17,Blackburn Rovers,19
+459,16/17,Bristol City,19
+467,16/17,Wellington Phoenix,13
+376,16/17,Lechia Gdańsk,31
+621,16/17,Cortuluá,28
+449,16/17,SønderjyskE,9
+451,16/17,Pohang Steelers,17
+233,16/17,SpVgg Greuther Fürth,26
+407,16/17,Audax Italiano,27
+682,16/17,Patronato,18
+683,16/17,UCAM Murcia CF,16
+370,16/17,Deportivo Pasto,28
+472,16/17,Djurgårdens IF,32
+624,16/17,Ascoli,30
+553,16/17,Southend United,35
+232,16/17,KVC Westerlo,24
+304,16/17,Esbjerg fB,9
+368,16/17,Club Atlético Banfield,18
+603,16/17,Club Atlético Colón,18
+390,16/17,Quilmes Atlético Club,18
+391,16/17,Odds BK,29
+389,16/17,SK Brann,29
+448,16/17,Deportes Iquique,27
+347,16/17,Le Havre AC,33
+684,16/17,Ventforet Kofu,40
+436,16/17,Avellino,30
+199,16/17,Wisła Kraków,31
+685,16/17,Pisa,30
+379,16/17,Latina,30
+438,16/17,CD Antofagasta,27
+686,16/17,Albirex Niigata,40
+249,16/17,Bolton Wanderers,35
+378,16/17,Royal Excel Mouscron,24
+193,16/17,Wigan Athletic,19
+435,16/17,Waasland-Beveren,24
+367,16/17,Jeju United FC,17
+350,16/17,Western Sydney Wanderers,13
+687,16/17,Cádiz CF,16
+207,16/17,Ulsan Hyundai FC,17
+377,16/17,Deportes Tolima,28
+601,16/17,Unión de Santa Fe,18
+688,16/17,Avaí FC,39
+689,16/17,Sevilla Atlético,16
+322,16/17,Trapani,30
+627,16/17,Heart of Midlothian,23
+599,16/17,SD Huesca,16
+690,16/17,Kashima Antlers,40
+293,16/17,Atlético de Rafaela,18
+691,16/17,FC Lausanne-Sport,25
+692,16/17,FC Würzburger Kickers,26
+344,16/17,Nîmes Olympique,33
+359,16/17,Ternana,30
+386,16/17,SV Sandhausen,26
+693,16/17,Ettifaq FC,20
+615,16/17,Aarhus GF,9
+694,16/17,FC Orenburg,6
+424,16/17,Adelaide United,13
+605,16/17,Hammarby IF,32
+596,16/17,San Luis de Quillota,27
+380,16/17,Club Olimpo,18
+559,16/17,Burton Albion,19
+320,16/17,Pogoń Szczecin,31
+333,16/17,Willem II,14
+425,16/17,CD Huachipato,27
+317,16/17,Virtus Entella,30
+540,16/17,Port Vale,35
+429,16/17,Patriotas Boyacá FC,28
+695,16/17,Atlético Tucumán,18
+696,16/17,Club Deportes Temuco,27
+485,16/17,FC Pro Vercelli 1892,30
+399,16/17,Coventry City,35
+697,16/17,Nagoya Grampus,40
+698,16/17,CD Everton de Viña del Mar,27
+371,16/17,CD Cobresal,27
+397,16/17,Rionegro Águilas,28
+699,16/17,Atlético Bucaramanga,28
+443,16/17,Envigado FC,28
+289,16/17,Viking FK,29
+316,16/17,Stade Brestois 29,33
+500,16/17,Stabæk Fotball,29
+611,16/17,Club Atlético Aldosivi,18
+600,16/17,NEC Nijmegen,14
+297,16/17,Santiago Wanderers,27
+431,16/17,Clermont Foot 63,33
+625,16/17,Zagłębie Lubin,31
+547,16/17,Gillingham,35
+234,16/17,Aalesunds FK,29
+549,16/17,Örebro SK,32
+607,16/17,Red Star FC,33
+612,16/17,Jaguares de Córdoba,28
+700,16/17,KAS Eupen,24
+531,16/17,Hamilton Academical FC,23
+288,16/17,Inverness Caledonian Thistle,23
+421,16/17,Rotherham United,19
+261,16/17,Valenciennes FC,33
+701,16/17,Lyngby BK,9
+489,16/17,Chamois Niortais Football Club,33
+542,16/17,Bury,35
+466,16/17,CD Mirandés,16
+702,16/17,Benevento,30
+404,16/17,Incheon United FC,17
+556,16/17,FC Vaduz,25
+703,16/17,Shonan Bellmare,40
+490,16/17,FC Erzgebirge Aue,26
+338,16/17,Odense Boldklub,9
+260,16/17,FC Sochaux-Montbéliard,33
+477,16/17,Excelsior,14
+481,16/17,Sheffield United,35
+704,16/17,SPAL,30
+705,16/17,SG Dynamo Dresden,26
+454,16/17,La Equidad,28
+484,16/17,Sangju Sangmu FC,17
+410,16/17,Jeonnam Dragons,17
+409,16/17,Al Faisaly,20
+588,16/17,Club Atlético Sarmiento,18
+299,16/17,FC Nordsjælland,9
+422,16/17,Barnsley,19
+543,16/17,Atlético Huila,28
+387,16/17,FK Haugesund,29
+515,16/17,Swindon Town,35
+706,16/17,Sparta Rotterdam,14
+460,16/17,FK Bodø/Glimt,29
+452,16/17,Piast Gliwice,31
+437,16/17,Go Ahead Eagles,14
+340,16/17,Millwall,35
+403,16/17,Leyton Orient,36
+267,16/17,Kilmarnock,23
+548,16/17,Northampton Town,35
+618,16/17,GwangJu FC,17
+529,16/17,Bradford City,35
+414,16/17,Tours FC,33
+439,16/17,Boyacá Chicó FC,28
+572,16/17,Accrington Stanley,36
+508,16/17,Dundee FC,23
+502,16/17,Milton Keynes Dons,35
+442,16/17,Motherwell,23
+470,16/17,Korona Kielce,31
+473,16/17,Lillestrøm SK,29
+505,16/17,Górnik Łęczna,31
+510,16/17,Chesterfield,35
+408,16/17,Fleetwood Town,35
+525,16/17,Ross County FC,23
+707,16/17,Omiya Ardija,40
+708,16/17,AC Horsens,9
+417,16/17,Fortaleza CEIF,28
+709,16/17,Jönköpings Södra IF,32
+626,16/17,FC Lugano,25
+630,16/17,Club Atlético Temperley,18
+534,16/17,Oxford United,35
+613,16/17,Tromsø IL,29
+636,16/17,Al Qadisiyah,20
+558,16/17,Silkeborg IF,9
+710,16/17,Wisła Płock,31
+567,16/17,Al Khaleej,20
+623,16/17,Viborg FF,9
+527,16/17,Plymouth Argyle,36
+519,16/17,Oldham Athletic,35
+622,16/17,Bristol Rovers,35
+524,16/17,Newcastle Jets,13
+711,16/17,Vegalta Sendai,40
+492,16/17,Crewe Alexandra,36
+498,16/17,St. Johnstone FC,23
+413,16/17,Al Raed,20
+528,16/17,Rochdale,35
+523,16/17,Portsmouth,36
+550,16/17,SCR Altach,21
+494,16/17,Peterborough United,35
+512,16/17,Doncaster Rovers,36
+628,16/17,Football Bourg En Bresse Peronnas 01,33
+712,16/17,Avispa Fukuoka,40
+455,16/17,Cittadella,30
+479,16/17,Sarpsborg 08 FF,29
+516,16/17,Ruch Chorzów,31
+568,16/17,Stevenage,36
+713,16/17,Östersunds FK,32
+633,16/17,SV Mattersburg,21
+632,16/17,Bruk-Bet Termalica Nieciecza,31
+541,16/17,Scunthorpe United,35
+463,16/17,Partick Thistle FC,23
+369,16/17,Helsingborgs IF,32
+714,16/17,Suwon FC,17
+503,16/17,Walsall,35
+545,16/17,Luton Town,36
+501,16/17,Shrewsbury,35
+521,16/17,Wolfsberger AC,21
+715,16/17,Arka Gdynia,31
+465,16/17,IK Start,29
+445,16/17,Notts County,36
+716,16/17,SKN St. Pölten,21
+480,16/17,SV Ried,21
+551,16/17,AFC Wimbledon,35
+717,16/17,Amiens SC,33
+416,16/17,Blackpool,36
+392,16/17,FC Thun,25
+497,16/17,Central Coast Mariners,13
+526,16/17,Carlisle United,36
+483,16/17,Sogndal Fotball,29
+637,16/17,Al Wehda,20
+536,16/17,Dundalk,37
+562,16/17,Exeter City,36
+513,16/17,Crawley Town,36
+634,16/17,GIF Sundsvall,32
+518,16/17,Yeovil Town,36
+569,16/17,Wycombe Wanderers,36
+517,16/17,Colchester United,36
+520,16/17,FC Admira Wacker Mödling,21
+560,16/17,Mansfield Town,36
+532,16/17,Cheltenham Town,36
+495,16/17,Gefle IF,32
+555,16/17,Cambridge United,36
+565,16/17,Derry City,37
+557,16/17,Morecambe,36
+635,16/17,Barnet,36
+718,16/17,Grimsby Town,36
+530,16/17,Hartlepool United,36
+504,16/17,St. Patrick's Athletic,37
+546,16/17,Falkenbergs FF,32
+570,16/17,Sligo Rovers,37
+566,16/17,Newport County,36
+563,16/17,Shamrock Rovers,37
+719,16/17,Al Batin,20
+561,16/17,Cork City,37
+573,16/17,Bohemian FC,37
+639,16/17,Galway United,37
+577,16/17,Bray Wanderers,37
+640,16/17,Longford Town,37
+720,16/17,Wexford Youths,37
+721,16/17,Finn Harps,37
+1,17/18,Real Madrid,0
+0,17/18,FC Barcelona,0
+3,17/18,Paris Saint-Germain,2
+2,17/18,FC Bayern München,1
+5,17/18,Manchester United,3
+4,17/18,Chelsea,3
+9,17/18,Juventus,4
+6,17/18,Manchester City,3
+8,17/18,Arsenal,3
+11,17/18,Atlético Madrid,0
+10,17/18,Tottenham Hotspur,3
+24,17/18,Milan,4
+7,17/18,Borussia Dortmund,1
+22,17/18,Inter,4
+12,17/18,Napoli,4
+17,17/18,Liverpool,3
+43,17/18,Beşiktaş JK,5
+13,17/18,Roma,4
+27,17/18,Bayer 04 Leverkusen,1
+19,17/18,AS Saint-Étienne,2
+21,17/18,AS Monaco,2
+111,17/18,1. FC Köln,1
+37,17/18,Athletic Club de Bilbao,0
+39,17/18,Villarreal CF,0
+15,17/18,FC Schalke 04,1
+108,17/18,Atalanta,4
+35,17/18,Olympique de Marseille,2
+72,17/18,Torino,4
+26,17/18,Real Sociedad,0
+120,17/18,Genoa,4
+20,17/18,Lazio,4
+275,17/18,RB Leipzig,1
+36,17/18,,8
+53,17/18,Olympique Lyonnais,2
+28,17/18,FC Porto,7
+51,17/18,Southampton,3
+41,17/18,Sporting CP,7
+32,17/18,Everton,3
+85,17/18,Leicester City,3
+63,17/18,Borussia Mönchengladbach,1
+135,17/18,OGC Nice,2
+54,17/18,RCD Espanyol,0
+23,17/18,Valencia CF,0
+30,17/18,SL Benfica,7
+48,17/18,Sevilla FC,0
+60,17/18,Toronto FC,10
+94,17/18,RC Celta,0
+214,17/18,UD Las Palmas,0
+29,17/18,Stoke City,3
+55,17/18,Spartak Moscow,6
+38,17/18,TSG 1899 Hoffenheim,1
+69,17/18,Hertha BSC,1
+578,17/18,New York City FC,10
+31,17/18,VfL Wolfsburg,1
+64,17/18,West Ham United,3
+42,17/18,FC Girondins de Bordeaux,2
+77,17/18,Sassuolo,4
+580,17/18,Antalyaspor,5
+112,17/18,Sampdoria,4
+242,17/18,Bournemouth,3
+18,17/18,Zenit St. Petersburg,6
+46,17/18,Lokomotiv Moscow,6
+14,17/18,Galatasaray SK,5
+191,17/18,Watford,3
+125,17/18,SV Werder Bremen,1
+49,17/18,Shakhtar Donetsk,11
+40,17/18,Swansea City,3
+71,17/18,Ajax,14
+155,17/18,Crystal Palace,3
+52,17/18,Eintracht Frankfurt,1
+25,17/18,PFC CSKA Moscow,6
+75,17/18,West Bromwich Albion,3
+34,17/18,Fenerbahçe SK,5
+82,17/18,Real Betis,0
+158,17/18,SD Eibar,0
+412,17/18,Chicago Fire,10
+56,17/18,LOSC Lille,2
+141,17/18,San Lorenzo de Almagro,18
+166,17/18,Tigres U.A.N.L.,12
+240,17/18,Burnley,3
+16,17/18,Fiorentina,4
+149,17/18,Deportivo de La Coruña,0
+73,17/18,LA Galaxy,10
+79,17/18,FC Krasnodar,6
+579,17/18,Orlando City SC,10
+310,17/18,Bologna,4
+674,17/18,Vissel Kobe,40
+113,17/18,Feyenoord,14
+143,17/18,Chievo Verona,4
+137,17/18,Montreal Impact,10
+313,17/18,U.N.A.M.,12
+381,17/18,Angers SCO,2
+124,17/18,RSC Anderlecht,24
+238,17/18,Independiente,18
+65,17/18,Newcastle United,3
+722,17/18,Atlanta United,10
+33,17/18,Hamburger SV,1
+76,17/18,PSV,14
+62,17/18,Málaga CF,0
+150,17/18,Club Atlético Lanús,18
+66,17/18,Hannover 96,1
+315,17/18,Deportivo Alavés,0
+70,17/18,VfB Stuttgart,1
+226,17/18,Medipol Başakşehir FK,5
+163,17/18,Club Tijuana,12
+723,17/18,Sparta Praha,42
+119,17/18,1. FSV Mainz 05,1
+106,17/18,FC Augsburg,1
+641,17/18,Alanyaspor,5
+146,17/18,Standard de Liège,24
+83,17/18,Udinese,4
+581,17/18,Kayserispor,5
+114,17/18,Portland Timbers,10
+67,17/18,Getafe CF,0
+496,17/18,CD Leganés,0
+57,17/18,Trabzonspor,5
+129,17/18,FC Basel 1893,25
+93,17/18,FC Nantes,2
+109,17/18,Montpellier HSC,2
+78,17/18,Olympiacos CFP,15
+139,17/18,Rubin Kazan,6
+156,17/18,Monterrey,12
+212,17/18,KRC Genk,24
+180,17/18,Wolverhampton Wanderers,19
+329,17/18,Dijon FCO,2
+59,17/18,Querétaro,12
+231,17/18,Brighton & Hove Albion,3
+161,17/18,PAOK,15
+80,17/18,Stade Rennais FC,2
+134,17/18,Club América,12
+133,17/18,Boca Juniors,18
+90,17/18,SC Braga,7
+50,17/18,Aston Villa,19
+312,17/18,Colorado Rapids,10
+704,17/18,SPAL,4
+168,17/18,En Avant de Guingamp,2
+307,17/18,Rangers FC,23
+86,17/18,Racing Club,18
+642,17/18,Club Necaxa,12
+127,17/18,Bursaspor,5
+45,17/18,Seattle Sounders FC,10
+203,17/18,KV Oostende,24
+330,17/18,Rosario Central,18
+87,17/18,Granada CF,16
+208,17/18,Pachuca,12
+217,17/18,Akhisar Belediyespor,5
+228,17/18,Junior FC,28
+142,17/18,River Plate,18
+136,17/18,Columbus Crew SC,10
+104,17/18,Levante UD,0
+195,17/18,Al Ahli,20
+95,17/18,Toulouse Football Club,2
+213,17/18,Independiente Medellín,28
+171,17/18,Vitória Guimarães,7
+246,17/18,Real Sporting de Gijón,16
+179,17/18,Middlesbrough,19
+343,17/18,Huddersfield Town,3
+88,17/18,Fulham,19
+176,17/18,Club Brugge KV,24
+300,17/18,Leeds United,19
+319,17/18,KAA Gent,24
+229,17/18,Stade Malherbe Caen,2
+353,17/18,Girona FC,0
+472,17/18,Djurgårdens IF,32
+314,17/18,FC St. Gallen,25
+724,17/18,Royal Antwerp FC,24
+99,17/18,Norwich City,19
+258,17/18,AC Ajaccio,33
+306,17/18,BSC Young Boys,25
+200,17/18,Universidad de Chile,27
+132,17/18,Colo-Colo,27
+268,17/18,Derby County,19
+97,17/18,Kaizer Chiefs,22
+122,17/18,Celtic,23
+110,17/18,Sunderland,19
+144,17/18,Cagliari,4
+91,17/18,Rayo Vallecano,16
+204,17/18,Estudiantes de La Plata,18
+130,17/18,Hellas Verona,4
+187,17/18,Club León,12
+182,17/18,Rio Ave FC,7
+175,17/18,Atlético Nacional,28
+655,17/18,Santos,38
+658,17/18,Cruzeiro,38
+650,17/18,Grêmio,38
+592,17/18,Fluminense,38
+653,17/18,Palmeiras,38
+661,17/18,São Paulo,38
+257,17/18,Grasshopper Club Zürich,25
+154,17/18,FC Utrecht,14
+384,17/18,Frosinone,30
+92,17/18,FC Red Bull Salzburg,21
+186,17/18,FC Groningen,14
+89,17/18,Al Hilal,20
+582,17/18,Osmanlıspor,5
+677,17/18,RC Strasbourg Alsace,2
+263,17/18,Monarcas Morelia,12
+725,17/18,Cerezo Osaka,40
+96,17/18,SC Freiburg,1
+255,17/18,Santos Laguna,12
+594,17/18,Club Atlético Huracán,18
+273,17/18,Brescia,30
+368,17/18,Club Atlético Banfield,18
+350,17/18,Western Sydney Wanderers,13
+469,17/18,Perth Glory,13
+227,17/18,Deportivo Toluca,12
+372,17/18,FC Ufa,6
+162,17/18,Cruz Azul,12
+185,17/18,Universidad Católica,27
+271,17/18,CD O'Higgins,27
+291,17/18,FC Ingolstadt 04,26
+427,17/18,Crotone,4
+174,17/18,AZ Alkmaar,14
+74,17/18,Hull City,19
+105,17/18,New England Revolution,10
+726,17/18,Göztepe SK,5
+115,17/18,Panathinaikos FC,15
+274,17/18,Legia Warszawa,31
+717,17/18,Amiens SC,2
+194,17/18,Club Atlas,12
+47,17/18,Dinamo Moscow,6
+61,17/18,Melbourne City FC,13
+138,17/18,Vancouver Whitecaps FC,10
+152,17/18,Vitesse,14
+159,17/18,CA Osasuna,16
+668,17/18,GD Chaves,7
+318,17/18,Guadalajara,12
+294,17/18,Birmingham City,19
+464,17/18,SV Darmstadt 98,26
+237,17/18,Clube Sport Marítimo,7
+645,17/18,Club Athletico Paranaense,38
+672,17/18,Atlético Mineiro,38
+646,17/18,Botafogo,38
+688,17/18,Avaí FC,38
+648,17/18,Coritiba,38
+702,17/18,Benevento,4
+603,17/18,Club Atlético Colón,18
+337,17/18,ADO Den Haag,14
+118,17/18,Al Ittihad,20
+254,17/18,Reading,19
+244,17/18,FC Paços de Ferreira,7
+218,17/18,Atiker Konyaspor,5
+197,17/18,Sheffield Wednesday,19
+198,17/18,San Jose Earthquakes,10
+727,17/18,AEK Athens,15
+207,17/18,Ulsan Hyundai FC,17
+728,17/18,CD Aves,7
+385,17/18,1. FC Union Berlin,26
+102,17/18,Newell's Old Boys,18
+190,17/18,Palermo,30
+247,17/18,FC Dallas,10
+345,17/18,Godoy Cruz,18
+103,17/18,Real Valladolid CF,16
+147,17/18,Independiente Santa Fe,28
+308,17/18,Brisbane Roar,13
+296,17/18,SC Heerenveen,14
+241,17/18,Bari,30
+157,17/18,FC Lorient,33
+617,17/18,Argentinos Juniors,18
+269,17/18,Unión Española,27
+430,17/18,CD Universidad de Concepción,27
+297,17/18,Santiago Wanderers,27
+448,17/18,Deportes Iquique,27
+192,17/18,FC Rostov,6
+206,17/18,Terek Grozny,6
+81,17/18,New York Red Bulls,10
+418,17/18,Kalmar FF,32
+189,17/18,FC København,9
+222,17/18,Real Zaragoza,16
+210,17/18,Sporting Kansas City,10
+309,17/18,Puebla FC,12
+311,17/18,Deportivo Cali,28
+396,17/18,Vitória de Setúbal,7
+334,17/18,FC Seoul,17
+589,17/18,Gimnàstic de Tarragona,16
+183,17/18,Club Atlético Tigre,18
+225,17/18,Belgrano de Córdoba,18
+265,17/18,CD Tenerife,16
+140,17/18,Al Nassr,20
+224,17/18,Sydney FC,13
+101,17/18,FC Metz,2
+344,17/18,Nîmes Olympique,33
+488,17/18,1. FC Heidenheim 1846,26
+644,17/18,Ponte Preta,38
+656,17/18,Sport Club do Recife,38
+458,17/18,Defensa y Justicia,18
+729,17/18,Portimonense SC,7
+326,17/18,FC Sion,25
+420,17/18,Arsenal Tula,6
+352,17/18,SK Rapid Wien,21
+618,17/18,GwangJu FC,17
+128,17/18,Real Salt Lake,10
+325,17/18,Moreirense FC,7
+84,17/18,Jeonbuk Hyundai Motors,17
+687,17/18,Cádiz CF,16
+116,17/18,Sivasspor,5
+223,17/18,Fortuna Düsseldorf,26
+328,17/18,DC United,10
+669,17/18,Urawa Red Diamonds,40
+401,17/18,ESTAC Troyes,2
+484,17/18,Sangju Sangmu FC,17
+282,17/18,Os Belenenses,7
+259,17/18,Empoli,30
+167,17/18,Estoril Praia,7
+362,17/18,FC St. Pauli,26
+364,17/18,Brentford,19
+219,17/18,Malmö FF,32
+266,17/18,AJ Auxerre,33
+363,17/18,Boavista FC,7
+730,17/18,Lobos BUAP,12
+731,17/18,Minnesota United FC,10
+287,17/18,Pescara,30
+327,17/18,Heracles Almelo,14
+424,17/18,Adelaide United,13
+732,17/18,US Cremonese,30
+286,17/18,Ipswich Town,19
+215,17/18,Melbourne Victory,13
+301,17/18,Eintracht Braunschweig,26
+636,17/18,Al Qadisiyah,20
+438,17/18,CD Antofagasta,27
+698,17/18,CD Everton de Viña del Mar,27
+425,17/18,CD Huachipato,27
+354,17/18,AS Nancy Lorraine,33
+211,17/18,AIK,32
+395,17/18,FC Midtjylland,9
+270,17/18,VfL Bochum 1848,26
+220,17/18,Rosenborg BK,29
+262,17/18,Suwon Samsung Bluewings,17
+700,17/18,KAS Eupen,24
+277,17/18,Racing Club de Lens,33
+593,17/18,Real Oviedo,16
+177,17/18,UD Almería,16
+148,17/18,Córdoba CF,16
+209,17/18,Kardemir Karabükspor,5
+290,17/18,Gençlerbirliği SK,5
+585,17/18,FC Anzhi Makhachkala,6
+230,17/18,Philadelphia Union,10
+107,17/18,Stade de Reims,33
+733,17/18,Venezia FC,30
+131,17/18,1. FC Nürnberg,26
+671,17/18,Kashiwa Reysol,40
+178,17/18,Orlando Pirates,22
+331,17/18,FC Ural Yekaterinburg,6
+279,17/18,Millonarios FC,28
+264,17/18,Once Caldas,28
+734,17/18,Atlético Clube Goianiense,38
+659,17/18,Vitória,38
+44,17/18,Brøndby IF,9
+339,17/18,Gimnasia y Esgrima La Plata,18
+666,17/18,CD Feirense,7
+323,17/18,FC Barcelona B,16
+664,17/18,Gamba Osaka,40
+690,17/18,Kashima Antlers,40
+281,17/18,Perugia,30
+506,17/18,Preston North End,19
+68,17/18,Queens Park Rangers,19
+355,17/18,Aalborg BK,9
+382,17/18,FK Austria Wien,21
+459,17/18,Bristol City,19
+184,17/18,Molde FK,29
+365,17/18,Tiburones Rojos de Veracruz,12
+284,17/18,Carpi,30
+298,17/18,IFK Göteborg,32
+283,17/18,Nottingham Forest,19
+735,17/18,Yeni Malatyaspor,5
+245,17/18,1. FC Kaiserslautern,26
+736,17/18,Shimizu S-Pulse,40
+621,17/18,Cortuluá,28
+188,17/18,Sporting de Charleroi,24
+514,17/18,IFK Norrköping,32
+332,17/18,Spezia,30
+406,17/18,GFC Ajaccio,33
+606,17/18,US Salernitana 1919,30
+678,17/18,Club Atlético Talleres,18
+493,17/18,Albacete BP,16
+737,17/18,FC Tosno,6
+394,17/18,KV Kortrijk,24
+348,17/18,IF Elfsborg,32
+691,17/18,FC Lausanne-Sport,25
+165,17/18,Kasimpaşa SK,5
+333,17/18,Willem II,14
+534,17/18,Oxford United,35
+305,17/18,SV Zulte-Waregem,24
+58,17/18,Parma,30
+360,17/18,Śląsk Wrocław,31
+485,17/18,FC Pro Vercelli 1892,30
+667,17/18,Kawasaki Frontale,40
+626,17/18,FC Lugano,25
+397,17/18,Rionegro Águilas,28
+423,17/18,AD Alcorcón,16
+153,17/18,FC Twente,14
+597,17/18,Novara,30
+595,17/18,DSC Arminia Bielefeld,26
+419,17/18,Amkar Perm,6
+377,17/18,Deportes Tolima,28
+665,17/18,FC Tokyo,40
+601,17/18,Unión de Santa Fe,18
+409,17/18,Al Faisaly,20
+647,17/18,Chapecoense,38
+599,17/18,SD Huesca,16
+367,17/18,Jeju United FC,17
+235,17/18,Houston Dynamo,10
+675,17/18,CF Reus Deportiu,16
+388,17/18,Alianza Petrolera,28
+383,17/18,KV Mechelen,24
+477,17/18,Excelsior,14
+482,17/18,Cracovia,31
+711,17/18,Vegalta Sendai,40
+292,17/18,Lech Poznań,31
+236,17/18,FC Luzern,25
+605,17/18,Hammarby IF,32
+233,17/18,SpVgg Greuther Fürth,26
+398,17/18,Aberdeen,23
+389,17/18,SK Brann,29
+386,17/18,SV Sandhausen,26
+738,17/18,Cultural Leonesa,16
+584,17/18,CD Tondela,7
+173,17/18,Cesena,30
+432,17/18,BK Häcken,32
+317,17/18,Virtus Entella,30
+449,17/18,SønderjyskE,9
+202,17/18,Sporting Lokeren,24
+739,17/18,Al Fayha,20
+361,17/18,CD Numancia,16
+627,17/18,Heart of Midlothian,23
+740,17/18,Chacarita Juniors,18
+741,17/18,Curicó Unido,27
+596,17/18,San Luis de Quillota,27
+407,17/18,Audax Italiano,27
+696,17/18,Club Deportes Temuco,27
+341,17/18,CD Palestino,27
+376,17/18,Lechia Gdańsk,31
+436,17/18,Avellino,30
+123,17/18,Cardiff City,19
+497,17/18,Central Coast Mariners,13
+632,17/18,Bruk-Bet Termalica Nieciecza,31
+451,17/18,Pohang Steelers,17
+452,17/18,Piast Gliwice,31
+260,17/18,FC Sochaux-Montbéliard,33
+619,17/18,San Martín de San Juan,18
+454,17/18,La Equidad,28
+707,17/18,Omiya Ardija,40
+251,17/18,Strømsgodset IF,29
+742,17/18,US Quevilly Rouen Métropole,33
+695,17/18,Atlético Tucumán,18
+680,17/18,Sagan Tosu,40
+456,17/18,Al Taawoun,20
+170,17/18,FC Zürich,25
+676,17/18,Yokohama F. Marinos,40
+199,17/18,Wisła Kraków,31
+410,17/18,Jeonnam Dragons,17
+689,17/18,Sevilla Atlético,16
+705,17/18,SG Dynamo Dresden,26
+145,17/18,PEC Zwolle,14
+378,17/18,Royal Excel Mouscron,24
+559,17/18,Burton Albion,19
+628,17/18,Football Bourg En Bresse Peronnas 01,33
+713,17/18,Östersunds FK,32
+583,17/18,Sint-Truidense VV,24
+743,17/18,América de Cali,28
+435,17/18,Waasland-Beveren,24
+744,17/18,Daegu FC,17
+358,17/18,CD Lugo,16
+615,17/18,Aarhus GF,9
+745,17/18,VVV-Venlo,14
+701,17/18,Lyngby BK,9
+320,17/18,Pogoń Szczecin,31
+660,17/18,Júbilo Iwata,40
+507,17/18,US Orléans Loiret Football,33
+441,17/18,SK Sturm Graz,21
+746,17/18,Gangwon FC,17
+553,17/18,Southend United,35
+359,17/18,Ternana,30
+391,17/18,Odds BK,29
+614,17/18,MSV Duisburg,26
+402,17/18,La Berrichonne de Châteauroux,33
+747,17/18,AFC Eskilstuna,32
+413,17/18,Al Raed,20
+100,17/18,Vélez Sarsfield,18
+380,17/18,Club Olimpo,18
+470,17/18,Korona Kielce,31
+392,17/18,FC Thun,25
+181,17/18,Blackburn Rovers,35
+249,17/18,Bolton Wanderers,19
+490,17/18,FC Erzgebirge Aue,26
+338,17/18,Odense Boldklub,9
+638,17/18,Sandefjord Fotball,29
+295,17/18,Charlton Athletic,35
+316,17/18,Stade Brestois 29,33
+400,17/18,Jagiellonia Białystok,31
+527,17/18,Plymouth Argyle,35
+651,17/18,Sanfrecce Hiroshima,40
+117,17/18,Al Shabab,20
+684,17/18,Ventforet Kofu,40
+299,17/18,FC Nordsjælland,9
+253,17/18,Arsenal de Sarandí,18
+682,17/18,Patronato,18
+479,17/18,Sarpsborg 08 FF,29
+748,17/18,VfL Osnabrück,43
+749,17/18,Lorca FC,16
+500,17/18,Stabæk Fotball,29
+422,17/18,Barnsley,19
+598,17/18,Roda JC Kerkrade,14
+366,17/18,Randers FC,9
+429,17/18,Patriotas Boyacá FC,28
+404,17/18,Incheon United FC,17
+706,17/18,Sparta Rotterdam,14
+481,17/18,Sheffield United,19
+612,17/18,Jaguares de Córdoba,28
+630,17/18,Club Atlético Temperley,18
+503,17/18,Walsall,35
+541,17/18,Scunthorpe United,35
+692,17/18,FC Würzburger Kickers,43
+234,17/18,Aalesunds FK,29
+414,17/18,Tours FC,33
+750,17/18,Holstein Kiel,26
+370,17/18,Deportivo Pasto,28
+751,17/18,Hibernian,23
+468,17/18,Górnik Zabrze,31
+752,17/18,SSV Jahn Regensburg,26
+347,17/18,Le Havre AC,33
+699,17/18,Atlético Bucaramanga,28
+489,17/18,Chamois Niortais Football Club,33
+550,17/18,SCR Altach,21
+285,17/18,Vålerenga Fotball,29
+455,17/18,Cittadella,30
+710,17/18,Wisła Płock,31
+475,17/18,VfR Aalen,43
+753,17/18,Sandecja Nowy Sącz,31
+428,17/18,Karlsruher SC,43
+442,17/18,Motherwell,23
+686,17/18,Albirex Niigata,40
+543,17/18,Atlético Huila,28
+431,17/18,Clermont Foot 63,33
+349,17/18,NAC Breda,14
+754,17/18,Hokkaido Consadole Sapporo,40
+193,17/18,Wigan Athletic,35
+604,17/18,Paris FC,33
+755,17/18,Foggia,30
+340,17/18,Millwall,19
+261,17/18,Valenciennes FC,33
+531,17/18,Hamilton Academical FC,23
+756,17/18,VfL Sportfreunde Lotte,43
+625,17/18,Zagłębie Lubin,31
+757,17/18,SKA Khabarovsk,6
+267,17/18,Kilmarnock,23
+529,17/18,Bradford City,35
+494,17/18,Peterborough United,35
+545,17/18,Luton Town,36
+525,17/18,Ross County FC,23
+715,17/18,Arka Gdynia,31
+523,17/18,Portsmouth,35
+622,17/18,Bristol Rovers,35
+624,17/18,Ascoli,30
+542,17/18,Bury,35
+473,17/18,Lillestrøm SK,29
+201,17/18,Al Fateh,20
+758,17/18,SpVgg Unterhaching,43
+718,17/18,Grimsby Town,36
+759,17/18,FC Hansa Rostock,43
+467,17/18,Wellington Phoenix,13
+760,17/18,Chemnitzer FC,43
+486,17/18,Hobro IK,9
+761,17/18,1. FC Magdeburg,43
+708,17/18,AC Horsens,9
+387,17/18,FK Haugesund,29
+519,17/18,Oldham Athletic,35
+483,17/18,Sogndal Fotball,29
+443,17/18,Envigado FC,28
+502,17/18,Milton Keynes Dons,35
+762,17/18,SV Wehen Wiesbaden,43
+763,17/18,SC Preußen Münster,43
+764,17/18,SC Fortuna Köln,43
+765,17/18,LASK Linz,21
+498,17/18,St. Johnstone FC,23
+508,17/18,Dundee FC,23
+421,17/18,Rotherham United,35
+528,17/18,Rochdale,35
+549,17/18,Örebro SK,32
+766,17/18,Ohod Club,20
+416,17/18,Blackpool,35
+767,17/18,SG Sonnenhof Großaspach,43
+679,17/18,HJK Helsinki,41
+768,17/18,Hallescher FC,43
+399,17/18,Coventry City,36
+558,17/18,Silkeborg IF,9
+445,17/18,Notts County,36
+769,17/18,SV Werder Bremen II,43
+492,17/18,Crewe Alexandra,36
+289,17/18,Viking FK,29
+520,17/18,FC Admira Wacker Mödling,21
+517,17/18,Colchester United,36
+613,17/18,Tromsø IL,29
+560,17/18,Mansfield Town,36
+633,17/18,SV Mattersburg,21
+276,17/18,SC Paderborn 07,43
+770,17/18,Kristiansund BK,29
+709,17/18,Jönköpings Södra IF,32
+771,17/18,SV Meppen,43
+693,17/18,Ettifaq FC,20
+772,17/18,Tigres FC,28
+551,17/18,AFC Wimbledon,35
+548,17/18,Northampton Town,35
+555,17/18,Cambridge United,36
+463,17/18,Partick Thistle FC,23
+515,17/18,Swindon Town,36
+773,17/18,IK Sirius,32
+774,17/18,Lincoln City,36
+775,17/18,FSV Zwickau,43
+513,17/18,Crawley Town,36
+512,17/18,Doncaster Rovers,35
+719,17/18,Al Batin,20
+562,17/18,Exeter City,36
+776,17/18,FC Rot-Weiß Erfurt,43
+408,17/18,Fleetwood Town,35
+536,17/18,Dundalk,37
+557,17/18,Morecambe,36
+521,17/18,Wolfsberger AC,21
+524,17/18,Newcastle Jets,13
+634,17/18,GIF Sundsvall,32
+518,17/18,Yeovil Town,36
+547,17/18,Gillingham,35
+777,17/18,FC Carl Zeiss Jena,43
+569,17/18,Wycombe Wanderers,36
+510,17/18,Chesterfield,36
+504,17/18,St. Patrick's Athletic,37
+526,17/18,Carlisle United,36
+561,17/18,Cork City,37
+716,17/18,SKN St. Pölten,21
+572,17/18,Accrington Stanley,36
+778,17/18,Forest Green Rovers,36
+532,17/18,Cheltenham Town,36
+540,17/18,Port Vale,36
+566,17/18,Newport County,36
+573,17/18,Bohemian FC,37
+635,17/18,Barnet,36
+501,17/18,Shrewsbury,35
+533,17/18,Halmstads BK,32
+565,17/18,Derry City,37
+570,17/18,Sligo Rovers,37
+563,17/18,Shamrock Rovers,37
+568,17/18,Stevenage,36
+721,17/18,Finn Harps,37
+779,17/18,FC Helsingør,9
+577,17/18,Bray Wanderers,37
+571,17/18,Limerick FC,37
+639,17/18,Galway United,37
+574,17/18,Drogheda United,37
+9,18/19,Juventus,4
+0,18/19,FC Barcelona,0
+3,18/19,Paris Saint-Germain,2
+5,18/19,Manchester United,3
+6,18/19,Manchester City,3
+1,18/19,Real Madrid,0
+4,18/19,Chelsea,3
+11,18/19,Atlético Madrid,0
+2,18/19,FC Bayern München,1
+10,18/19,Tottenham Hotspur,3
+17,18/19,Liverpool,3
+22,18/19,Inter,4
+24,18/19,Milan,4
+12,18/19,Napoli,4
+674,18/19,Vissel Kobe,40
+8,18/19,Arsenal,3
+20,18/19,Lazio,4
+15,18/19,FC Schalke 04,1
+23,18/19,Valencia CF,0
+53,18/19,Olympique Lyonnais,2
+13,18/19,Roma,4
+73,18/19,LA Galaxy,10
+43,18/19,Beşiktaş JK,5
+21,18/19,AS Monaco,2
+28,18/19,FC Porto,7
+780,18/19,Guangzhou Evergrande Taobao FC,44
+7,18/19,Borussia Dortmund,1
+94,18/19,RC Celta,0
+35,18/19,Olympique de Marseille,2
+82,18/19,Real Betis,0
+39,18/19,Villarreal CF,0
+108,18/19,Atalanta,4
+85,18/19,Leicester City,3
+19,18/19,AS Saint-Étienne,2
+30,18/19,SL Benfica,7
+26,18/19,Real Sociedad,0
+27,18/19,Bayer 04 Leverkusen,1
+781,18/19,Dalian YiFang FC,44
+111,18/19,1. FC Köln,26
+275,18/19,RB Leipzig,1
+41,18/19,Sporting CP,7
+32,18/19,Everton,3
+38,18/19,TSG 1899 Hoffenheim,1
+55,18/19,Spartak Moscow,6
+37,18/19,Athletic Club de Bilbao,0
+180,18/19,Wolverhampton Wanderers,3
+48,18/19,Sevilla FC,0
+135,18/19,OGC Nice,2
+672,18/19,Atlético Mineiro,38
+650,18/19,Grêmio,38
+72,18/19,Torino,4
+71,18/19,Ajax,14
+31,18/19,VfL Wolfsburg,1
+155,18/19,Crystal Palace,3
+64,18/19,West Ham United,3
+125,18/19,SV Werder Bremen,1
+782,18/19,Shanghai SIPG FC,44
+63,18/19,Borussia Mönchengladbach,1
+783,18/19,Beijing Sinobo Guoan FC,44
+88,18/19,Fulham,3
+69,18/19,Hertha BSC,1
+578,18/19,New York City FC,10
+77,18/19,Sassuolo,4
+46,18/19,Lokomotiv Moscow,6
+60,18/19,Toronto FC,10
+49,18/19,Shakhtar Donetsk,11
+226,18/19,Medipol Başakşehir FK,5
+658,18/19,Cruzeiro,38
+191,18/19,Watford,3
+29,18/19,Stoke City,19
+109,18/19,Montpellier HSC,2
+722,18/19,Atlanta United,10
+70,18/19,VfB Stuttgart,1
+14,18/19,Galatasaray SK,5
+34,18/19,Fenerbahçe SK,5
+784,18/19,Los Angeles FC,10
+120,18/19,Genoa,4
+158,18/19,SD Eibar,0
+785,18/19,Tianjin Quanjian FC,44
+25,18/19,PFC CSKA Moscow,6
+104,18/19,Levante UD,0
+592,18/19,Fluminense,38
+76,18/19,PSV,14
+36,18/19,,8
+133,18/19,Boca Juniors,18
+240,18/19,Burnley,3
+51,18/19,Southampton,3
+353,18/19,Girona FC,0
+143,18/19,Chievo Verona,4
+680,18/19,Sagan Tosu,40
+328,18/19,DC United,10
+412,18/19,Chicago Fire,10
+786,18/19,Hebei China Fortune FC,44
+54,18/19,RCD Espanyol,0
+166,18/19,Tigres U.A.N.L.,12
+112,18/19,Sampdoria,4
+114,18/19,Portland Timbers,10
+137,18/19,Montreal Impact,10
+787,18/19,Beijing Renhe FC,44
+67,18/19,Getafe CF,0
+788,18/19,Guangzhou R&F FC,44
+90,18/19,SC Braga,7
+789,18/19,Dynamo Kyiv,11
+242,18/19,Bournemouth,3
+119,18/19,1. FSV Mainz 05,1
+106,18/19,FC Augsburg,1
+315,18/19,Deportivo Alavés,0
+52,18/19,Eintracht Frankfurt,1
+16,18/19,Fiorentina,4
+86,18/19,Racing Club,18
+343,18/19,Huddersfield Town,3
+113,18/19,Feyenoord,14
+162,18/19,Cruz Azul,12
+238,18/19,Independiente,18
+57,18/19,Trabzonspor,5
+161,18/19,PAOK,15
+790,18/19,Jiangsu Suning FC,44
+176,18/19,Club Brugge KV,24
+96,18/19,SC Freiburg,1
+142,18/19,River Plate,18
+649,18/19,Internacional,38
+652,18/19,América FC (Minas Gerais),38
+655,18/19,Santos,38
+93,18/19,FC Nantes,2
+78,18/19,Olympiacos CFP,15
+65,18/19,Newcastle United,3
+584,18/19,CD Tondela,7
+231,18/19,Brighton & Hove Albion,3
+80,18/19,Stade Rennais FC,2
+384,18/19,Frosinone,4
+33,18/19,Hamburger SV,26
+95,18/19,Toulouse Football Club,2
+59,18/19,Querétaro,12
+124,18/19,RSC Anderlecht,24
+345,18/19,Godoy Cruz,18
+66,18/19,Hannover 96,1
+237,18/19,Clube Sport Marítimo,7
+214,18/19,UD Las Palmas,16
+156,18/19,Monterrey,12
+141,18/19,San Lorenzo de Almagro,18
+311,18/19,Deportivo Cali,28
+42,18/19,FC Girondins de Bordeaux,2
+195,18/19,Al Ahli,20
+118,18/19,Al Ittihad,20
+791,18/19,Shandong Luneng TaiShan FC,44
+97,18/19,Kaizer Chiefs,22
+56,18/19,LOSC Lille,2
+92,18/19,FC Red Bull Salzburg,21
+310,18/19,Bologna,4
+140,18/19,Al Nassr,20
+146,18/19,Standard de Liège,24
+215,18/19,Melbourne Victory,13
+217,18/19,Akhisar Belediyespor,5
+792,18/19,Shanghai Greenland Shenhua FC,44
+75,18/19,West Bromwich Albion,19
+89,18/19,Al Hilal,20
+229,18/19,Stade Malherbe Caen,2
+144,18/19,Cagliari,4
+496,18/19,CD Leganés,0
+594,18/19,Club Atlético Huracán,18
+208,18/19,Pachuca,12
+729,18/19,Portimonense SC,7
+83,18/19,Udinese,4
+58,18/19,Parma,4
+165,18/19,Kasimpaşa SK,5
+186,18/19,FC Groningen,14
+319,18/19,KAA Gent,24
+62,18/19,Málaga CF,16
+122,18/19,Celtic,23
+368,18/19,Club Atlético Banfield,18
+227,18/19,Deportivo Toluca,12
+306,18/19,BSC Young Boys,25
+268,18/19,Derby County,19
+81,18/19,New York Red Bulls,10
+136,18/19,Columbus Crew SC,10
+185,18/19,Universidad Católica,27
+793,18/19,Guizhou Hengfeng FC,44
+91,18/19,Rayo Vallecano,0
+717,18/19,Amiens SC,2
+149,18/19,Deportivo de La Coruña,16
+129,18/19,FC Basel 1893,25
+794,18/19,Changchun Yatai FC,44
+40,18/19,Swansea City,19
+150,18/19,Club Atlético Lanús,18
+726,18/19,Göztepe SK,5
+228,18/19,Junior FC,28
+45,18/19,Seattle Sounders FC,10
+637,18/19,Al Wehda,20
+134,18/19,Club América,12
+168,18/19,En Avant de Guingamp,2
+283,18/19,Nottingham Forest,19
+646,18/19,Botafogo,38
+50,18/19,Aston Villa,19
+123,18/19,Cardiff City,3
+189,18/19,FC København,9
+212,18/19,KRC Genk,24
+329,18/19,Dijon FCO,2
+171,18/19,Vitória Guimarães,7
+121,18/19,Çaykur Rizespor,5
+704,18/19,SPAL,4
+727,18/19,AEK Athens,15
+313,18/19,U.N.A.M.,12
+603,18/19,Club Atlético Colón,18
+300,18/19,Leeds United,19
+677,18/19,RC Strasbourg Alsace,2
+179,18/19,Middlesbrough,19
+599,18/19,SD Huesca,0
+246,18/19,Real Sporting de Gijón,16
+755,18/19,Foggia,30
+697,18/19,Nagoya Grampus,40
+641,18/19,Alanyaspor,5
+132,18/19,Colo-Colo,27
+259,18/19,Empoli,4
+187,18/19,Club León,12
+255,18/19,Santos Laguna,12
+795,18/19,Viktoria Plzeň,42
+230,18/19,Philadelphia Union,10
+381,18/19,Angers SCO,2
+580,18/19,Antalyaspor,5
+668,18/19,GD Chaves,7
+796,18/19,MKE Ankaragücü,5
+797,18/19,Chongqing Dangdai Lifan FC SWM Team,44
+175,18/19,Atlético Nacional,28
+61,18/19,Melbourne City FC,13
+198,18/19,San Jose Earthquakes,10
+456,18/19,Al Taawoun,20
+163,18/19,Club Tijuana,12
+798,18/19,Bahia,38
+645,18/19,Club Athletico Paranaense,38
+659,18/19,Vitória,38
+656,18/19,Sport Club do Recife,38
+799,18/19,Paraná,38
+667,18/19,Kawasaki Frontale,40
+800,18/19,Dinamo Zagreb,45
+318,18/19,Guadalajara,12
+801,18/19,SK Slavia Praha,42
+44,18/19,Brøndby IF,9
+107,18/19,Stade de Reims,2
+174,18/19,AZ Alkmaar,14
+235,18/19,Houston Dynamo,10
+305,18/19,SV Zulte-Waregem,24
+103,18/19,Real Valladolid CF,0
+254,18/19,Reading,19
+223,18/19,Fortuna Düsseldorf,1
+128,18/19,Real Salt Lake,10
+802,18/19,Tianjin TEDA FC,44
+581,18/19,Kayserispor,5
+395,18/19,FC Midtjylland,9
+678,18/19,Club Atlético Talleres,18
+750,18/19,Holstein Kiel,26
+327,18/19,Heracles Almelo,14
+745,18/19,VVV-Venlo,14
+291,18/19,FC Ingolstadt 04,26
+210,18/19,Sporting Kansas City,10
+127,18/19,Bursaspor,5
+218,18/19,Atiker Konyaspor,5
+182,18/19,Rio Ave FC,7
+469,18/19,Perth Glory,13
+702,18/19,Benevento,30
+277,18/19,Racing Club de Lens,33
+286,18/19,Ipswich Town,19
+326,18/19,FC Sion,25
+203,18/19,KV Oostende,24
+99,18/19,Norwich City,19
+197,18/19,Sheffield Wednesday,19
+642,18/19,Club Necaxa,12
+87,18/19,Granada CF,16
+396,18/19,Vitória de Setúbal,7
+617,18/19,Argentinos Juniors,18
+190,18/19,Palermo,30
+115,18/19,Panathinaikos FC,15
+593,18/19,Real Oviedo,16
+698,18/19,CD Everton de Viña del Mar,27
+330,18/19,Rosario Central,18
+731,18/19,Minnesota United FC,10
+352,18/19,SK Rapid Wien,21
+430,18/19,CD Universidad de Concepción,27
+579,18/19,Orlando City SC,10
+131,18/19,1. FC Nürnberg,1
+363,18/19,Boavista FC,7
+224,18/19,Sydney FC,13
+669,18/19,Urawa Red Diamonds,40
+152,18/19,Vitesse,14
+273,18/19,Brescia,30
+194,18/19,Club Atlas,12
+728,18/19,CD Aves,7
+263,18/19,Monarcas Morelia,12
+488,18/19,1. FC Heidenheim 1846,26
+264,18/19,Once Caldas,28
+693,18/19,Ettifaq FC,20
+117,18/19,Al Shabab,20
+647,18/19,Chapecoense,38
+274,18/19,Legia Warszawa,31
+364,18/19,Brentford,19
+803,18/19,Henan Jianye FC,44
+110,18/19,Sunderland,35
+723,18/19,Sparta Praha,42
+506,18/19,Preston North End,19
+307,18/19,Rangers FC,23
+281,18/19,Perugia,30
+154,18/19,FC Utrecht,14
+204,18/19,Estudiantes de La Plata,18
+441,18/19,SK Sturm Graz,21
+296,18/19,SC Heerenveen,14
+257,18/19,Grasshopper Club Zürich,25
+68,18/19,Queens Park Rangers,19
+666,18/19,CD Feirense,7
+687,18/19,Cádiz CF,16
+347,18/19,Le Havre AC,33
+333,18/19,Willem II,14
+744,18/19,Daegu FC,17
+398,18/19,Aberdeen,23
+200,18/19,Universidad de Chile,27
+292,18/19,Lech Poznań,31
+280,18/19,Livorno,30
+101,18/19,FC Metz,33
+116,18/19,Sivasspor,5
+130,18/19,Hellas Verona,30
+606,18/19,US Salernitana 1919,30
+183,18/19,Club Atlético Tigre,18
+627,18/19,Heart of Midlothian,23
+348,18/19,IF Elfsborg,32
+220,18/19,Rosenborg BK,29
+138,18/19,Vancouver Whitecaps FC,10
+74,18/19,Hull City,19
+325,18/19,Moreirense FC,7
+225,18/19,Belgrano de Córdoba,18
+222,18/19,Real Zaragoza,16
+339,18/19,Gimnasia y Esgrima La Plata,18
+100,18/19,Vélez Sarsfield,18
+308,18/19,Brisbane Roar,13
+733,18/19,Venezia FC,30
+651,18/19,Sanfrecce Hiroshima,40
+361,18/19,CD Numancia,16
+247,18/19,FC Dallas,10
+178,18/19,Orlando Pirates,22
+735,18/19,Yeni Malatyaspor,5
+266,18/19,AJ Auxerre,33
+309,18/19,Puebla FC,12
+279,18/19,Millonarios FC,28
+464,18/19,SV Darmstadt 98,26
+804,18/19,Ceará Sporting Club,38
+682,18/19,Patronato,18
+481,18/19,Sheffield United,19
+284,18/19,Carpi,30
+159,18/19,CA Osasuna,16
+265,18/19,CD Tenerife,16
+675,18/19,CF Reus Deportiu,16
+211,18/19,AIK,32
+188,18/19,Sporting de Charleroi,24
+181,18/19,Blackburn Rovers,19
+147,18/19,Independiente Santa Fe,28
+690,18/19,Kashima Antlers,40
+595,18/19,DSC Arminia Bielefeld,26
+105,18/19,New England Revolution,10
+340,18/19,Millwall,19
+337,18/19,ADO Den Haag,14
+145,18/19,PEC Zwolle,14
+362,18/19,FC St. Pauli,26
+219,18/19,Malmö FF,32
+725,18/19,Cerezo Osaka,40
+423,18/19,AD Alcorcón,16
+207,18/19,Ulsan Hyundai FC,17
+805,18/19,Santa Clara,7
+671,18/19,Kashiwa Reysol,40
+389,18/19,SK Brann,29
+270,18/19,VfL Bochum 1848,26
+365,18/19,Tiburones Rojos de Veracruz,12
+358,18/19,CD Lugo,16
+312,18/19,Colorado Rapids,10
+458,18/19,Defensa y Justicia,18
+611,18/19,Club Atlético Aldosivi,18
+262,18/19,Suwon Samsung Bluewings,17
+385,18/19,1. FC Union Berlin,26
+350,18/19,Western Sydney Wanderers,13
+636,18/19,Al Qadisiyah,20
+700,18/19,KAS Eupen,24
+743,18/19,América de Cali,28
+102,18/19,Newell's Old Boys,18
+157,18/19,FC Lorient,33
+382,18/19,FK Austria Wien,21
+394,18/19,KV Kortrijk,24
+614,18/19,MSV Duisburg,26
+619,18/19,San Martín de San Juan,18
+184,18/19,Molde FK,29
+724,18/19,Royal Antwerp FC,24
+258,18/19,AC Ajaccio,33
+341,18/19,CD Palestino,27
+201,18/19,Al Fateh,20
+665,18/19,FC Tokyo,40
+472,18/19,Djurgårdens IF,32
+676,18/19,Yokohama F. Marinos,40
+739,18/19,Al Fayha,20
+695,18/19,Atlético Tucumán,18
+601,18/19,Unión de Santa Fe,18
+344,18/19,Nîmes Olympique,2
+543,18/19,Atlético Huila,28
+267,18/19,Kilmarnock,23
+84,18/19,Jeonbuk Hyundai Motors,17
+170,18/19,FC Zürich,25
+193,18/19,Wigan Athletic,19
+713,18/19,Östersunds FK,32
+626,18/19,FC Lugano,25
+459,18/19,Bristol City,19
+514,18/19,IFK Norrköping,32
+355,18/19,Aalborg BK,9
+411,18/19,Gyeongnam FC,17
+301,18/19,Eintracht Braunschweig,43
+376,18/19,Lechia Gdańsk,31
+435,18/19,Waasland-Beveren,24
+251,18/19,Strømsgodset IF,29
+477,18/19,Excelsior,14
+386,18/19,SV Sandhausen,26
+427,18/19,Crotone,30
+202,18/19,Sporting Lokeren,24
+332,18/19,Spezia,30
+282,18/19,Os Belenenses,7
+605,18/19,Hammarby IF,32
+400,18/19,Jagiellonia Białystok,31
+338,18/19,Odense Boldklub,9
+401,18/19,ESTAC Troyes,33
+719,18/19,Al Batin,20
+299,18/19,FC Nordsjælland,9
+660,18/19,Júbilo Iwata,40
+314,18/19,FC St. Gallen,25
+429,18/19,Patriotas Boyacá FC,28
+589,18/19,Gimnàstic de Tarragona,16
+148,18/19,Córdoba CF,16
+448,18/19,Deportes Iquique,27
+730,18/19,Lobos BUAP,12
+418,18/19,Kalmar FF,32
+806,18/19,CF Rayo Majadahonda,16
+615,18/19,Aarhus GF,9
+751,18/19,Hibernian,23
+807,18/19,BB Erzurumspor,5
+736,18/19,Shimizu S-Pulse,40
+732,18/19,US Cremonese,30
+334,18/19,FC Seoul,17
+177,18/19,UD Almería,16
+455,18/19,Cittadella,30
+424,18/19,Adelaide United,13
+409,18/19,Al Faisaly,20
+432,18/19,BK Häcken,32
+467,18/19,Wellington Phoenix,13
+377,18/19,Deportes Tolima,28
+294,18/19,Birmingham City,19
+213,18/19,Independiente Medellín,28
+699,18/19,Atlético Bucaramanga,28
+397,18/19,Rionegro Águilas,28
+169,18/19,CD Nacional,7
+451,18/19,Pohang Steelers,17
+664,18/19,Gamba Osaka,40
+354,18/19,AS Nancy Lorraine,33
+431,18/19,Clermont Foot 63,33
+500,18/19,Stabæk Fotball,29
+808,18/19,Fortuna Sittard,14
+457,18/19,KSV Cercle Brugge,24
+809,18/19,Cosenza,30
+367,18/19,Jeju United FC,17
+287,18/19,Pescara,30
+705,18/19,SG Dynamo Dresden,26
+524,18/19,Newcastle Jets,13
+425,18/19,CD Huachipato,27
+746,18/19,Gangwon FC,17
+549,18/19,Örebro SK,32
+392,18/19,FC Thun,25
+249,18/19,Bolton Wanderers,19
+596,18/19,San Luis de Quillota,27
+269,18/19,Unión Española,27
+810,18/19,Neuchâtel Xamax,25
+233,18/19,SpVgg Greuther Fürth,26
+468,18/19,Górnik Zabrze,31
+413,18/19,Al Raed,20
+761,18/19,1. FC Magdeburg,26
+295,18/19,Charlton Athletic,35
+811,18/19,KFC Uerdingen 05,43
+126,18/19,Elche CF,16
+490,18/19,FC Erzgebirge Aue,26
+261,18/19,Valenciennes FC,33
+710,18/19,Wisła Płock,31
+245,18/19,1. FC Kaiserslautern,43
+402,18/19,La Berrichonne de Châteauroux,33
+583,18/19,Sint-Truidense VV,24
+493,18/19,Albacete BP,16
+388,18/19,Alianza Petrolera,28
+320,18/19,Pogoń Szczecin,31
+752,18/19,SSV Jahn Regensburg,26
+370,18/19,Deportivo Pasto,28
+260,18/19,FC Sochaux-Montbéliard,33
+438,18/19,CD Antofagasta,27
+494,18/19,Peterborough United,35
+812,18/19,Lecce,30
+813,18/19,San Martin de Tucumán,18
+410,18/19,Jeonnam Dragons,17
+604,18/19,Paris FC,33
+759,18/19,FC Hansa Rostock,43
+541,18/19,Scunthorpe United,35
+814,18/19,Al Hazem,20
+559,18/19,Burton Albion,35
+349,18/19,NAC Breda,14
+236,18/19,FC Luzern,25
+302,18/19,Unión La Calera,27
+815,18/19,Padova,30
+774,18/19,Lincoln City,36
+406,18/19,GFC Ajaccio,33
+199,18/19,Wisła Kraków,31
+408,18/19,Fleetwood Town,35
+248,18/19,RCD Mallorca,16
+276,18/19,SC Paderborn 07,26
+407,18/19,Audax Italiano,27
+442,18/19,Motherwell,23
+816,18/19,Extremadura UD,16
+624,18/19,Ascoli,30
+271,18/19,CD O'Higgins,27
+360,18/19,Śląsk Wrocław,31
+817,18/19,Grenoble Foot 38,33
+607,18/19,Red Star FC,33
+316,18/19,Stade Brestois 29,33
+497,18/19,Central Coast Mariners,13
+818,18/19,AS Béziers,33
+475,18/19,VfR Aalen,43
+762,18/19,SV Wehen Wiesbaden,43
+527,18/19,Plymouth Argyle,35
+764,18/19,SC Fortuna Köln,43
+454,18/19,La Equidad,28
+703,18/19,Shonan Bellmare,40
+612,18/19,Jaguares de Córdoba,28
+696,18/19,Club Deportes Temuco,27
+391,18/19,Odds BK,29
+473,18/19,Lillestrøm SK,29
+443,18/19,Envigado FC,28
+387,18/19,FK Haugesund,29
+422,18/19,Barnsley,35
+479,18/19,Sarpsborg 08 FF,29
+428,18/19,Karlsruher SC,43
+616,18/19,De Graafschap,14
+534,18/19,Oxford United,35
+508,18/19,Dundee FC,23
+482,18/19,Cracovia,31
+366,18/19,Randers FC,9
+708,18/19,AC Horsens,9
+613,18/19,Tromsø IL,29
+421,18/19,Rotherham United,19
+766,18/19,Ohod Club,20
+404,18/19,Incheon United FC,17
+285,18/19,Vålerenga Fotball,29
+625,18/19,Zagłębie Lubin,31
+452,18/19,Piast Gliwice,31
+486,18/19,Hobro IK,9
+561,18/19,Cork City,37
+523,18/19,Portsmouth,35
+819,18/19,V-Varen Nagasaki,40
+520,18/19,FC Admira Wacker Mödling,21
+715,18/19,Arka Gdynia,31
+820,18/19,FC Emmen,14
+758,18/19,SpVgg Unterhaching,43
+521,18/19,Wolfsberger AC,21
+484,18/19,Sangju Sangmu FC,17
+711,18/19,Vegalta Sendai,40
+754,18/19,Hokkaido Consadole Sapporo,40
+692,18/19,FC Würzburger Kickers,43
+821,18/19,FC Wacker Innsbruck,21
+545,18/19,Luton Town,35
+378,18/19,Royal Excel Mouscron,24
+498,18/19,St. Johnstone FC,23
+622,18/19,Bristol Rovers,35
+529,18/19,Bradford City,35
+572,18/19,Accrington Stanley,35
+633,18/19,SV Mattersburg,21
+560,18/19,Mansfield Town,36
+765,18/19,LASK Linz,21
+449,18/19,SønderjyskE,9
+252,18/19,TSV 1860 München,43
+470,18/19,Korona Kielce,31
+298,18/19,IFK Göteborg,32
+507,18/19,US Orléans Loiret Football,33
+553,18/19,Southend United,35
+568,18/19,Stevenage,36
+501,18/19,Shrewsbury,35
+513,18/19,Crawley Town,36
+489,18/19,Chamois Niortais Football Club,33
+767,18/19,SG Sonnenhof Großaspach,43
+679,18/19,HJK Helsinki,41
+741,18/19,Curicó Unido,27
+550,18/19,SCR Altach,21
+634,18/19,GIF Sundsvall,32
+519,18/19,Oldham Athletic,36
+503,18/19,Walsall,35
+502,18/19,Milton Keynes Dons,36
+822,18/19,Vejle Boldklub,9
+763,18/19,SC Preußen Münster,43
+536,18/19,Dundalk,37
+775,18/19,FSV Zwickau,43
+460,18/19,FK Bodø/Glimt,29
+471,18/19,St. Mirren,23
+638,18/19,Sandefjord Fotball,29
+439,18/19,Boyacá Chicó FC,28
+748,18/19,VfL Osnabrück,43
+517,18/19,Colchester United,36
+512,18/19,Doncaster Rovers,35
+777,18/19,FC Carl Zeiss Jena,43
+770,18/19,Kristiansund BK,29
+445,18/19,Notts County,36
+304,18/19,Esbjerg fB,9
+465,18/19,IK Start,29
+718,18/19,Grimsby Town,36
+569,18/19,Wycombe Wanderers,35
+573,18/19,Bohemian FC,37
+773,18/19,IK Sirius,32
+528,18/19,Rochdale,35
+416,18/19,Blackpool,35
+823,18/19,Ranheim Fotball,29
+824,18/19,Miedź Legnica,31
+825,18/19,Waterford FC,37
+399,18/19,Coventry City,35
+551,18/19,AFC Wimbledon,35
+515,18/19,Swindon Town,36
+771,18/19,SV Meppen,43
+768,18/19,Hallescher FC,43
+548,18/19,Northampton Town,36
+562,18/19,Exeter City,36
+826,18/19,Livingston FC,23
+555,18/19,Cambridge United,36
+542,18/19,Bury,36
+827,18/19,Vendsyssel FF,9
+756,18/19,VfL Sportfreunde Lotte,43
+532,18/19,Cheltenham Town,36
+716,18/19,SKN St. Pölten,21
+778,18/19,Forest Green Rovers,36
+828,18/19,FC Energie Cottbus,43
+557,18/19,Morecambe,36
+547,18/19,Gillingham,35
+829,18/19,Dalkurd FF,32
+563,18/19,Shamrock Rovers,37
+540,18/19,Port Vale,36
+526,18/19,Carlisle United,36
+830,18/19,Zagłębie Sosnowiec,31
+504,18/19,St. Patrick's Athletic,37
+831,18/19,Trelleborgs FF,32
+832,18/19,TSV Hartberg,21
+833,18/19,Itagüí Leones FC,28
+518,18/19,Yeovil Town,36
+531,18/19,Hamilton Academical FC,23
+492,18/19,Crewe Alexandra,36
+564,18/19,Tranmere Rovers,36
+566,18/19,Newport County,36
+577,18/19,Bray Wanderers,37
+565,18/19,Derry City,37
+535,18/19,IF Brommapojkarna,32
+570,18/19,Sligo Rovers,37
+834,18/19,Macclesfield Town,36
+571,18/19,Limerick FC,37
+0,19/20,FC Barcelona,0
+9,19/20,Juventus,4
+3,19/20,Paris Saint-Germain,2
+11,19/20,Atlético Madrid,0
+1,19/20,Real Madrid,0
+6,19/20,Manchester City,3
+17,19/20,Liverpool,3
+12,19/20,Napoli,4
+10,19/20,Tottenham Hotspur,3
+5,19/20,Manchester United,3
+4,19/20,Chelsea,3
+2,19/20,FC Bayern München,1
+22,19/20,Inter,4
+7,19/20,Borussia Dortmund,1
+8,19/20,Arsenal,3
+23,19/20,Valencia CF,0
+20,19/20,Lazio,4
+24,19/20,Milan,4
+41,19/20,Sporting CP,7
+53,19/20,Olympique Lyonnais,2
+275,19/20,RB Leipzig,1
+71,19/20,Ajax,14
+73,19/20,LA Galaxy,10
+108,19/20,Atalanta,4
+94,19/20,RC Celta,0
+27,19/20,Bayer 04 Leverkusen,1
+82,19/20,Real Betis,0
+28,19/20,FC Porto,7
+125,19/20,SV Werder Bremen,1
+64,19/20,West Ham United,3
+180,19/20,Wolverhampton Wanderers,3
+19,19/20,AS Saint-Étienne,2
+72,19/20,Torino,4
+781,19/20,Dalian YiFang FC,44
+63,19/20,Borussia Mönchengladbach,1
+13,19/20,Roma,4
+780,19/20,Guangzhou Evergrande Taobao FC,44
+30,19/20,SL Benfica,7
+226,19/20,Medipol Başakşehir FK,5
+32,19/20,Everton,3
+31,19/20,VfL Wolfsburg,1
+155,19/20,Crystal Palace,3
+67,19/20,Getafe CF,0
+782,19/20,Shanghai SIPG FC,44
+52,19/20,Eintracht Frankfurt,1
+35,19/20,Olympique de Marseille,2
+674,19/20,Vissel Kobe,40
+69,19/20,Hertha BSC,1
+124,19/20,RSC Anderlecht,24
+39,19/20,Villarreal CF,0
+112,19/20,Sampdoria,4
+85,19/20,Leicester City,3
+21,19/20,AS Monaco,2
+790,19/20,Jiangsu Suning FC,44
+784,19/20,Los Angeles FC,10
+144,19/20,Cagliari,4
+48,19/20,Sevilla FC,0
+34,19/20,Fenerbahçe SK,5
+26,19/20,Real Sociedad,0
+38,19/20,TSG 1899 Hoffenheim,1
+672,19/20,Atlético Mineiro,38
+650,19/20,Grêmio,38
+76,19/20,PSV,14
+37,19/20,Athletic Club de Bilbao,0
+315,19/20,Deportivo Alavés,0
+133,19/20,Boca Juniors,18
+46,19/20,Lokomotiv Moscow,46
+140,19/20,Al Nassr,20
+273,19/20,Brescia,4
+49,19/20,Shakhtar Donetsk,46
+792,19/20,Shanghai Greenland Shenhua FC,44
+25,19/20,PFC CSKA Moscow,46
+783,19/20,Beijing Sinobo Guoan FC,44
+104,19/20,Levante UD,0
+658,19/20,Cruzeiro,38
+36,19/20,,8
+109,19/20,Montpellier HSC,2
+722,19/20,Atlanta United,10
+191,19/20,Watford,3
+111,19/20,1. FC Köln,1
+242,19/20,Bournemouth,3
+43,19/20,Beşiktaş JK,5
+103,19/20,Real Valladolid CF,0
+86,19/20,Racing Club,18
+89,19/20,Al Hilal,20
+788,19/20,Guangzhou R&F FC,44
+77,19/20,Sassuolo,4
+42,19/20,FC Girondins de Bordeaux,2
+56,19/20,LOSC Lille,2
+14,19/20,Galatasaray SK,5
+412,19/20,Chicago Fire,10
+592,19/20,Fluminense,38
+54,19/20,RCD Espanyol,0
+800,19/20,Dinamo Zagreb,46
+93,19/20,FC Nantes,2
+142,19/20,River Plate,18
+135,19/20,OGC Nice,2
+65,19/20,Newcastle United,3
+231,19/20,Brighton & Hove Albion,3
+176,19/20,Club Brugge KV,24
+15,19/20,FC Schalke 04,1
+158,19/20,SD Eibar,0
+328,19/20,DC United,10
+579,19/20,Orlando City SC,10
+786,19/20,Hebei China Fortune FC,44
+166,19/20,Tigres U.A.N.L.,12
+50,19/20,Aston Villa,3
+137,19/20,Montreal Impact,10
+78,19/20,Olympiacos CFP,46
+99,19/20,Norwich City,3
+113,19/20,Feyenoord,14
+60,19/20,Toronto FC,10
+212,19/20,KRC Genk,24
+16,19/20,Fiorentina,4
+55,19/20,Spartak Moscow,46
+789,19/20,Dynamo Kyiv,46
+801,19/20,SK Slavia Praha,42
+51,19/20,Southampton,3
+240,19/20,Burnley,3
+90,19/20,SC Braga,7
+677,19/20,RC Strasbourg Alsace,2
+835,19/20,Wuhan Zall,44
+114,19/20,Portland Timbers,10
+120,19/20,Genoa,4
+787,19/20,Beijing Renhe FC,44
+95,19/20,Toulouse Football Club,2
+353,19/20,Girona FC,16
+222,19/20,Real Zaragoza,16
+496,19/20,CD Leganés,0
+836,19/20,Shenzhen FC,44
+649,19/20,Internacional,38
+837,19/20,CSA - AL,38
+655,19/20,Santos,38
+119,19/20,1. FSV Mainz 05,1
+29,19/20,Stoke City,19
+83,19/20,Udinese,4
+381,19/20,Angers SCO,2
+106,19/20,FC Augsburg,1
+88,19/20,Fulham,19
+189,19/20,FC København,9
+319,19/20,KAA Gent,24
+96,19/20,SC Freiburg,1
+80,19/20,Stade Rennais FC,2
+134,19/20,Club América,12
+57,19/20,Trabzonspor,5
+306,19/20,BSC Young Boys,25
+369,19/20,Helsingborgs IF,32
+97,19/20,Kaizer Chiefs,46
+58,19/20,Parma,4
+724,19/20,Royal Antwerp FC,24
+802,19/20,Tianjin TEDA FC,44
+66,19/20,Hannover 96,26
+785,19/20,Tianjin Quanjian FC,44
+195,19/20,Al Ahli,20
+310,19/20,Bologna,4
+70,19/20,VfB Stuttgart,26
+45,19/20,Seattle Sounders FC,10
+345,19/20,Godoy Cruz,18
+723,19/20,Sparta Praha,42
+213,19/20,Independiente Medellín,28
+116,19/20,Sivasspor,5
+238,19/20,Independiente,18
+344,19/20,Nîmes Olympique,2
+163,19/20,Club Tijuana,12
+704,19/20,SPAL,4
+156,19/20,Monterrey,12
+584,19/20,CD Tondela,7
+223,19/20,Fortuna Düsseldorf,1
+171,19/20,Vitória Guimarães,7
+174,19/20,AZ Alkmaar,14
+838,19/20,Atlético de San Luis,12
+161,19/20,PAOK,46
+697,19/20,Nagoya Grampus,40
+368,19/20,Club Atlético Banfield,18
+791,19/20,Shandong Luneng TaiShan FC,44
+81,19/20,New York Red Bulls,10
+92,19/20,FC Red Bull Salzburg,21
+717,19/20,Amiens SC,2
+130,19/20,Hellas Verona,4
+162,19/20,Cruz Azul,12
+290,19/20,Gençlerbirliği SK,5
+385,19/20,1. FC Union Berlin,1
+146,19/20,Standard de Liège,24
+797,19/20,Chongqing Dangdai Lifan FC SWM Team,44
+105,19/20,New England Revolution,10
+603,19/20,Club Atlético Colón,18
+122,19/20,Celtic,23
+194,19/20,Club Atlas,12
+646,19/20,Botafogo,38
+168,19/20,En Avant de Guingamp,33
+75,19/20,West Bromwich Albion,19
+208,19/20,Pachuca,12
+727,19/20,AEK Athens,46
+729,19/20,Portimonense SC,7
+128,19/20,Real Salt Lake,10
+154,19/20,FC Utrecht,14
+481,19/20,Sheffield United,3
+102,19/20,Newell's Old Boys,18
+678,19/20,Club Atlético Talleres,18
+230,19/20,Philadelphia Union,10
+220,19/20,Rosenborg BK,29
+129,19/20,FC Basel 1893,25
+364,19/20,Brentford,19
+187,19/20,Club León,12
+601,19/20,Unión de Santa Fe,18
+149,19/20,Deportivo de La Coruña,16
+307,19/20,Rangers FC,23
+218,19/20,Atiker Konyaspor,5
+87,19/20,Granada CF,0
+469,19/20,Perth Glory,13
+150,19/20,Club Atlético Lanús,18
+33,19/20,Hamburger SV,26
+118,19/20,Al Ittihad,20
+255,19/20,Santos Laguna,12
+839,19/20,Western United FC,13
+136,19/20,Columbus Crew SC,10
+227,19/20,Deportivo Toluca,12
+123,19/20,Cardiff City,19
+159,19/20,CA Osasuna,0
+40,19/20,Swansea City,19
+215,19/20,Melbourne Victory,13
+300,19/20,Leeds United,19
+726,19/20,Göztepe SK,5
+578,19/20,New York City FC,10
+581,19/20,Kayserispor,5
+731,19/20,Minnesota United FC,10
+318,19/20,Guadalajara,12
+186,19/20,FC Groningen,14
+228,19/20,Junior FC,28
+456,19/20,Al Taawoun,20
+343,19/20,Huddersfield Town,19
+693,19/20,Ettifaq FC,20
+107,19/20,Stade de Reims,2
+91,19/20,Rayo Vallecano,16
+141,19/20,San Lorenzo de Almagro,18
+798,19/20,Bahia,38
+645,19/20,Club Athletico Paranaense,38
+643,19/20,Goiás,38
+688,19/20,Avaí FC,38
+840,19/20,Fortaleza,38
+667,19/20,Kawasaki Frontale,40
+100,19/20,Vélez Sarsfield,18
+74,19/20,Hull City,19
+235,19/20,Houston Dynamo,10
+294,19/20,Birmingham City,19
+637,19/20,Al Wehda,20
+283,19/20,Nottingham Forest,19
+265,19/20,CD Tenerife,16
+355,19/20,Aalborg BK,9
+506,19/20,Preston North End,19
+459,19/20,Bristol City,19
+812,19/20,Lecce,4
+339,19/20,Gimnasia y Esgrima La Plata,18
+728,19/20,CD Aves,7
+795,19/20,Viktoria Plzeň,42
+131,19/20,1. FC Nürnberg,26
+138,19/20,Vancouver Whitecaps FC,10
+101,19/20,FC Metz,2
+395,19/20,FC Midtjylland,9
+184,19/20,Molde FK,29
+132,19/20,Colo-Colo,27
+248,19/20,RCD Mallorca,0
+326,19/20,FC Sion,25
+199,19/20,Wisła Kraków,31
+841,19/20,Denizlispor,5
+179,19/20,Middlesbrough,19
+185,19/20,Universidad Católica,27
+641,19/20,Alanyaspor,5
+325,19/20,Moreirense FC,7
+316,19/20,Stade Brestois 29,2
+143,19/20,Chievo Verona,30
+363,19/20,Boavista FC,7
+796,19/20,MKE Ankaragücü,5
+224,19/20,Sydney FC,13
+842,19/20,Al Ain FC,46
+735,19/20,Yeni Malatyaspor,5
+669,19/20,Urawa Red Diamonds,40
+59,19/20,Querétaro,12
+210,19/20,Sporting Kansas City,10
+62,19/20,Málaga CF,16
+488,19/20,1. FC Heidenheim 1846,26
+695,19/20,Atlético Tucumán,18
+843,19/20,Gazişehir Gaziantep F.K.,5
+237,19/20,Clube Sport Marítimo,7
+647,19/20,Chapecoense,38
+175,19/20,Atlético Nacional,28
+152,19/20,Vitesse,14
+803,19/20,Henan Jianye FC,44
+115,19/20,Panathinaikos FC,46
+181,19/20,Blackburn Rovers,19
+805,19/20,Santa Clara,7
+309,19/20,Puebla FC,12
+313,19/20,U.N.A.M.,12
+599,19/20,SD Huesca,16
+204,19/20,Estudiantes de La Plata,18
+700,19/20,KAS Eupen,24
+765,19/20,LASK Linz,21
+188,19/20,Sporting de Charleroi,24
+744,19/20,Daegu FC,17
+246,19/20,Real Sporting de Gijón,16
+268,19/20,Derby County,19
+182,19/20,Rio Ave FC,7
+844,19/20,Famalicão,7
+810,19/20,Neuchâtel Xamax,25
+702,19/20,Benevento,30
+350,19/20,Western Sydney Wanderers,13
+687,19/20,Cádiz CF,16
+211,19/20,AIK,32
+197,19/20,Sheffield Wednesday,19
+259,19/20,Empoli,30
+312,19/20,Colorado Rapids,10
+282,19/20,Os Belenenses,7
+845,19/20,Unión Magdalena,28
+593,19/20,Real Oviedo,16
+580,19/20,Antalyaspor,5
+329,19/20,Dijon FCO,2
+386,19/20,SV Sandhausen,26
+330,19/20,Rosario Central,18
+254,19/20,Reading,19
+595,19/20,DSC Arminia Bielefeld,26
+219,19/20,Malmö FF,32
+84,19/20,Jeonbuk Hyundai Motors,17
+384,19/20,Frosinone,30
+665,19/20,FC Tokyo,40
+121,19/20,Çaykur Rizespor,5
+846,19/20,FCSB (Steaua),47
+458,19/20,Defensa y Justicia,18
+263,19/20,Monarcas Morelia,12
+594,19/20,Club Atlético Huracán,18
+804,19/20,Ceará Sporting Club,38
+617,19/20,Argentinos Juniors,18
+117,19/20,Al Shabab,20
+274,19/20,Legia Warszawa,31
+736,19/20,Shimizu S-Pulse,40
+279,19/20,Millonarios FC,28
+376,19/20,Lechia Gdańsk,31
+44,19/20,Brøndby IF,9
+493,19/20,Albacete BP,16
+157,19/20,FC Lorient,33
+847,19/20,Universitatea Craiova,47
+311,19/20,Deportivo Cali,28
+352,19/20,SK Rapid Wien,21
+690,19/20,Kashima Antlers,40
+126,19/20,Elche CF,16
+611,19/20,Club Atlético Aldosivi,18
+377,19/20,Deportes Tolima,28
+620,19/20,Cúcuta Deportivo,28
+642,19/20,Club Necaxa,12
+452,19/20,Piast Gliwice,31
+287,19/20,Pescara,30
+165,19/20,Kasimpaşa SK,5
+750,19/20,Holstein Kiel,26
+280,19/20,Livorno,30
+848,19/20,Coquimbo Unido,27
+214,19/20,UD Las Palmas,16
+468,19/20,Górnik Zabrze,31
+153,19/20,FC Twente,14
+604,19/20,Paris FC,33
+277,19/20,Racing Club de Lens,33
+270,19/20,VfL Bochum 1848,26
+110,19/20,Sunderland,35
+398,19/20,Aberdeen,23
+627,19/20,Heart of Midlothian,23
+427,19/20,Crotone,30
+849,19/20,CFR Cluj,47
+382,19/20,FK Austria Wien,21
+177,19/20,UD Almería,16
+389,19/20,SK Brann,29
+432,19/20,BK Häcken,32
+201,19/20,Al Fateh,20
+698,19/20,CD Everton de Viña del Mar,27
+362,19/20,FC St. Pauli,26
+664,19/20,Gamba Osaka,40
+676,19/20,Yokohama F. Marinos,40
+472,19/20,Djurgårdens IF,32
+247,19/20,FC Dallas,10
+680,19/20,Sagan Tosu,40
+739,19/20,Al Fayha,20
+264,19/20,Once Caldas,28
+699,19/20,Atlético Bucaramanga,28
+850,19/20,FC Cincinnati,10
+198,19/20,San Jose Earthquakes,10
+743,19/20,América de Cali,28
+281,19/20,Perugia,30
+454,19/20,La Equidad,28
+464,19/20,SV Darmstadt 98,26
+170,19/20,FC Zürich,25
+276,19/20,SC Paderborn 07,1
+305,19/20,SV Zulte-Waregem,24
+514,19/20,IFK Norrköping,32
+851,19/20,FC Viitorul,47
+852,19/20,Pordenone,30
+423,19/20,AD Alcorcón,16
+583,19/20,Sint-Truidense VV,24
+394,19/20,KV Kortrijk,24
+378,19/20,Royal Excel Mouscron,24
+626,19/20,FC Lugano,25
+754,19/20,Hokkaido Consadole Sapporo,40
+332,19/20,Spezia,30
+244,19/20,FC Paços de Ferreira,7
+853,19/20,Servette FC,25
+606,19/20,US Salernitana 1919,30
+292,19/20,Lech Poznań,31
+401,19/20,ESTAC Troyes,33
+808,19/20,Fortuna Sittard,14
+203,19/20,KV Oostende,24
+745,19/20,VVV-Venlo,14
+457,19/20,KSV Cercle Brugge,24
+334,19/20,FC Seoul,17
+725,19/20,Cerezo Osaka,40
+229,19/20,Stade Malherbe Caen,33
+200,19/20,Universidad de Chile,27
+418,19/20,Kalmar FF,32
+383,19/20,KV Mechelen,24
+448,19/20,Deportes Iquique,27
+732,19/20,US Cremonese,30
+261,19/20,Valenciennes FC,33
+207,19/20,Ulsan Hyundai FC,17
+711,19/20,Vegalta Sendai,40
+337,19/20,ADO Den Haag,14
+341,19/20,CD Palestino,27
+455,19/20,Cittadella,30
+396,19/20,Vitória de Setúbal,7
+299,19/20,FC Nordsjælland,9
+295,19/20,Charlton Athletic,19
+413,19/20,Al Raed,20
+400,19/20,Jagiellonia Białystok,31
+338,19/20,Odense Boldklub,9
+392,19/20,FC Thun,25
+705,19/20,SG Dynamo Dresden,26
+605,19/20,Hammarby IF,32
+854,19/20,Central Córdoba,18
+68,19/20,Queens Park Rangers,19
+752,19/20,SSV Jahn Regensburg,26
+365,19/20,Tiburones Rojos de Veracruz,12
+682,19/20,Patronato,18
+317,19/20,Virtus Entella,30
+441,19/20,SK Sturm Graz,21
+267,19/20,Kilmarnock,23
+816,19/20,Extremadura UD,16
+333,19/20,Willem II,14
+256,19/20,Gil Vicente FC,7
+453,19/20,Seongnam FC,17
+366,19/20,Randers FC,9
+624,19/20,Ascoli,30
+340,19/20,Millwall,19
+451,19/20,Pohang Steelers,17
+262,19/20,Suwon Samsung Bluewings,17
+327,19/20,Heracles Almelo,14
+814,19/20,Al Hazem,20
+855,19/20,FC Juárez,12
+296,19/20,SC Heerenveen,14
+856,19/20,Dinamo Bucureşti,47
+411,19/20,Gyeongnam FC,17
+811,19/20,KFC Uerdingen 05,43
+145,19/20,PEC Zwolle,14
+409,19/20,Al Faisaly,20
+253,19/20,Arsenal de Sarandí,18
+291,19/20,FC Ingolstadt 04,43
+521,19/20,Wolfsberger AC,21
+193,19/20,Wigan Athletic,19
+660,19/20,Júbilo Iwata,40
+358,19/20,CD Lugo,16
+233,19/20,SpVgg Greuther Fürth,26
+820,19/20,FC Emmen,14
+809,19/20,Cosenza,30
+266,19/20,AJ Auxerre,33
+482,19/20,Cracovia,31
+490,19/20,FC Erzgebirge Aue,26
+817,19/20,Grenoble Foot 38,33
+470,19/20,Korona Kielce,31
+388,19/20,Alianza Petrolera,28
+430,19/20,CD Universidad de Concepción,27
+61,19/20,Melbourne City FC,13
+438,19/20,CD Antofagasta,27
+147,19/20,Independiente Santa Fe,28
+651,19/20,Sanfrecce Hiroshima,40
+857,19/20,Damac FC,20
+489,19/20,Chamois Niortais Football Club,33
+543,19/20,Atlético Huila,28
+361,19/20,CD Numancia,16
+545,19/20,Luton Town,19
+302,19/20,Unión La Calera,27
+347,19/20,Le Havre AC,33
+354,19/20,AS Nancy Lorraine,33
+407,19/20,Audax Italiano,27
+751,19/20,Hibernian,23
+422,19/20,Barnsley,19
+320,19/20,Pogoń Szczecin,31
+479,19/20,Sarpsborg 08 FF,29
+770,19/20,Kristiansund BK,29
+236,19/20,FC Luzern,25
+269,19/20,Unión Española,27
+298,19/20,IFK Göteborg,32
+443,19/20,Envigado FC,28
+367,19/20,Jeju United FC,17
+429,19/20,Patriotas Boyacá FC,28
+494,19/20,Peterborough United,35
+370,19/20,Deportivo Pasto,28
+431,19/20,Clermont Foot 63,33
+858,19/20,Astra Giurgiu,47
+487,19/20,Racing Santander,16
+685,19/20,Pisa,30
+524,19/20,Newcastle Jets,13
+859,19/20,Castellammare di Stabia,30
+397,19/20,Rionegro Águilas,28
+285,19/20,Vålerenga Fotball,29
+271,19/20,CD O'Higgins,27
+258,19/20,AC Ajaccio,33
+860,19/20,CF Fuenlabrada,16
+748,19/20,VfL Osnabrück,26
+715,19/20,Arka Gdynia,31
+260,19/20,FC Sochaux-Montbéliard,33
+758,19/20,SpVgg Unterhaching,43
+497,19/20,Central Coast Mariners,13
+762,19/20,SV Wehen Wiesbaden,26
+408,19/20,Fleetwood Town,35
+733,19/20,Venezia FC,30
+428,19/20,Karlsruher SC,26
+710,19/20,Wisła Płock,31
+746,19/20,Gangwon FC,17
+348,19/20,IF Elfsborg,32
+484,19/20,Sangju Sangmu FC,17
+625,19/20,Zagłębie Lubin,31
+861,19/20,Abha Club,20
+612,19/20,Jaguares de Córdoba,28
+634,19/20,GIF Sundsvall,32
+862,19/20,FC Botoşani,47
+442,19/20,Motherwell,23
+314,19/20,FC St. Gallen,25
+863,19/20,Bayern München II,43
+466,19/20,CD Mirandés,16
+498,19/20,St. Johnstone FC,23
+473,19/20,Lillestrøm SK,29
+391,19/20,Odds BK,29
+346,19/20,SD Ponferradina,16
+512,19/20,Doncaster Rovers,35
+549,19/20,Örebro SK,32
+563,19/20,Shamrock Rovers,37
+775,19/20,FSV Zwickau,43
+245,19/20,1. FC Kaiserslautern,43
+523,19/20,Portsmouth,35
+435,19/20,Waasland-Beveren,24
+286,19/20,Ipswich Town,35
+536,19/20,Dundalk,37
+425,19/20,CD Huachipato,27
+864,19/20,Le Mans FC,33
+251,19/20,Strømsgodset IF,29
+865,19/20,Sepsi OSK,47
+706,19/20,Sparta Rotterdam,14
+520,19/20,FC Admira Wacker Mödling,21
+449,19/20,SønderjyskE,9
+768,19/20,Hallescher FC,43
+716,19/20,SKN St. Pölten,21
+614,19/20,MSV Duisburg,43
+402,19/20,La Berrichonne de Châteauroux,33
+759,19/20,FC Hansa Rostock,43
+404,19/20,Incheon United FC,17
+703,19/20,Shonan Bellmare,40
+178,19/20,Orlando Pirates,46
+460,19/20,FK Bodø/Glimt,29
+774,19/20,Lincoln City,35
+467,19/20,Wellington Phoenix,13
+308,19/20,Brisbane Roar,13
+301,19/20,Eintracht Braunschweig,43
+741,19/20,Curicó Unido,27
+546,19/20,Falkenbergs FF,32
+761,19/20,1. FC Magdeburg,43
+371,19/20,CD Cobresal,27
+615,19/20,Aarhus GF,9
+866,19/20,Salford City,36
+679,19/20,HJK Helsinki,46
+534,19/20,Oxford United,35
+486,19/20,Hobro IK,9
+304,19/20,Esbjerg fB,9
+249,19/20,Bolton Wanderers,35
+633,19/20,SV Mattersburg,21
+421,19/20,Rotherham United,35
+360,19/20,Śląsk Wrocław,31
+550,19/20,SCR Altach,21
+867,19/20,Gaz Metan Mediaş,47
+613,19/20,Tromsø IL,29
+868,19/20,WSG Tirol,21
+773,19/20,IK Sirius,32
+501,19/20,Shrewsbury,35
+519,19/20,Oldham Athletic,36
+553,19/20,Southend United,35
+416,19/20,Blackpool,35
+399,19/20,Coventry City,35
+424,19/20,Adelaide United,13
+823,19/20,Ranheim Fotball,29
+767,19/20,SG Sonnenhof Großaspach,43
+869,19/20,Matsumoto Yamaga,40
+559,19/20,Burton Albion,35
+870,19/20,FC Hermannstadt,47
+252,19/20,TSV 1860 München,43
+871,19/20,LKS Lodz,31
+692,19/20,FC Würzburger Kickers,43
+832,19/20,TSV Hartberg,21
+872,19/20,Politehnica Iaşi,47
+502,19/20,Milton Keynes Dons,35
+500,19/20,Stabæk Fotball,29
+569,19/20,Wycombe Wanderers,35
+873,19/20,SV Waldhof Mannheim,43
+507,19/20,US Orléans Loiret Football,33
+708,19/20,AC Horsens,9
+541,19/20,Scunthorpe United,36
+874,19/20,RKC Waalwijk,14
+875,19/20,Oita Trinita,40
+471,19/20,St. Mirren,23
+622,19/20,Bristol Rovers,35
+876,19/20,Rodez Aveyron Football,33
+771,19/20,SV Meppen,43
+289,19/20,Viking FK,29
+713,19/20,Östersunds FK,32
+387,19/20,FK Haugesund,29
+528,19/20,Rochdale,35
+517,19/20,Colchester United,36
+322,19/20,Trapani,30
+568,19/20,Stevenage,36
+529,19/20,Bradford City,36
+826,19/20,Livingston FC,23
+877,19/20,FC Chambly Oise,33
+560,19/20,Mansfield Town,36
+763,19/20,SC Preußen Münster,43
+878,19/20,FC Voluntari,47
+572,19/20,Accrington Stanley,35
+879,19/20,Al Adalah,20
+701,19/20,Lyngby BK,9
+777,19/20,FC Carl Zeiss Jena,43
+880,19/20,Viktoria Köln,43
+564,19/20,Tranmere Rovers,35
+558,19/20,Silkeborg IF,9
+547,19/20,Gillingham,35
+527,19/20,Plymouth Argyle,36
+760,19/20,Chemnitzer FC,43
+629,19/20,Mjøndalen IF,29
+503,19/20,Walsall,36
+548,19/20,Northampton Town,36
+531,19/20,Hamilton Academical FC,23
+718,19/20,Grimsby Town,36
+562,19/20,Exeter City,36
+515,19/20,Swindon Town,36
+881,19/20,Raków Częstochowa,31
+882,19/20,Chindia Târgovişte,47
+778,19/20,Forest Green Rovers,36
+551,19/20,AFC Wimbledon,35
+526,19/20,Carlisle United,36
+557,19/20,Morecambe,36
+540,19/20,Port Vale,36
+532,19/20,Cheltenham Town,36
+883,19/20,Academica Clinceni,47
+513,19/20,Crawley Town,36
+525,19/20,Ross County FC,23
+747,19/20,AFC Eskilstuna,32
+834,19/20,Macclesfield Town,36
+561,19/20,Cork City,37
+566,19/20,Newport County,36
+492,19/20,Crewe Alexandra,36
+403,19/20,Leyton Orient,36
+555,19/20,Cambridge United,36
+504,19/20,St. Patrick's Athletic,37
+573,19/20,Bohemian FC,37
+825,19/20,Waterford FC,37
+565,19/20,Derry City,37
+542,19/20,Bury,35
+570,19/20,Sligo Rovers,37
+721,19/20,Finn Harps,37
+575,19/20,UCD AFC,37
+0,20/21,FC Barcelona,0
+9,20/21,Juventus,4
+11,20/21,Atlético Madrid,0
+2,20/21,FC Bayern München,1
+3,20/21,Paris Saint-Germain,2
+6,20/21,Manchester City,3
+17,20/21,Liverpool,3
+1,20/21,Real Madrid,0
+10,20/21,Tottenham Hotspur,3
+22,20/21,Inter,4
+12,20/21,Napoli,4
+4,20/21,Chelsea,3
+7,20/21,Borussia Dortmund,1
+5,20/21,Manchester United,3
+8,20/21,Arsenal,3
+20,20/21,Lazio,4
+108,20/21,Atalanta,4
+26,20/21,Real Sociedad,0
+63,20/21,Borussia Mönchengladbach,1
+85,20/21,Leicester City,3
+24,20/21,Milan,4
+53,20/21,Olympique Lyonnais,2
+275,20/21,RB Leipzig,1
+39,20/21,Villarreal CF,0
+30,20/21,SL Benfica,7
+71,20/21,Ajax,14
+32,20/21,Everton,3
+28,20/21,FC Porto,7
+48,20/21,Sevilla FC,0
+72,20/21,Torino,4
+180,20/21,Wolverhampton Wanderers,3
+94,20/21,RC Celta,0
+21,20/21,AS Monaco,2
+23,20/21,Valencia CF,0
+13,20/21,Roma,4
+31,20/21,VfL Wolfsburg,1
+82,20/21,Real Betis,0
+35,20/21,Olympique de Marseille,2
+884,20/21,Inter Miami,10
+783,20/21,Beijing Sinobo Guoan FC,44
+784,20/21,Los Angeles FC,10
+117,20/21,Al Shabab,20
+37,20/21,Athletic Club de Bilbao,0
+780,20/21,Guangzhou Evergrande Taobao FC,44
+782,20/21,Shanghai SIPG FC,44
+52,20/21,Eintracht Frankfurt,1
+27,20/21,Bayer 04 Leverkusen,1
+104,20/21,Levante UD,0
+155,20/21,Crystal Palace,3
+226,20/21,Medipol Başakşehir FK,5
+65,20/21,Newcastle United,3
+650,20/21,Grêmio,38
+88,20/21,Fulham,3
+56,20/21,LOSC Lille,2
+120,20/21,Genoa,4
+315,20/21,Deportivo Alavés,0
+67,20/21,Getafe CF,0
+240,20/21,Burnley,3
+125,20/21,SV Werder Bremen,1
+14,20/21,Galatasaray SK,5
+25,20/21,PFC CSKA Moscow,6
+38,20/21,TSG 1899 Hoffenheim,1
+300,20/21,Leeds United,3
+64,20/21,West Ham United,3
+144,20/21,Cagliari,4
+80,20/21,Stade Rennais FC,2
+135,20/21,OGC Nice,2
+133,20/21,Boca Juniors,18
+722,20/21,Atlanta United,10
+158,20/21,SD Eibar,0
+674,20/21,Vissel Kobe,40
+166,20/21,Tigres U.A.N.L.,12
+16,20/21,Fiorentina,4
+77,20/21,Sassuolo,4
+19,20/21,AS Saint-Étienne,2
+781,20/21,Dalian YiFang FC,44
+176,20/21,Club Brugge KV,24
+385,20/21,1. FC Union Berlin,1
+49,20/21,Shakhtar Donetsk,11
+41,20/21,Sporting CP,7
+103,20/21,Real Valladolid CF,0
+113,20/21,Feyenoord,14
+76,20/21,PSV,14
+142,20/21,River Plate,18
+36,20/21,,8
+661,20/21,São Paulo,38
+672,20/21,Atlético Mineiro,38
+653,20/21,Palmeiras,38
+885,20/21,Flamengo,38
+800,20/21,Dinamo Zagreb,45
+789,20/21,Dynamo Kyiv,11
+50,20/21,Aston Villa,3
+83,20/21,Udinese,4
+231,20/21,Brighton & Hove Albion,3
+191,20/21,Watford,19
+186,20/21,FC Groningen,14
+579,20/21,Orlando City SC,10
+89,20/21,Al Hilal,20
+112,20/21,Sampdoria,4
+788,20/21,Guangzhou R&F FC,44
+790,20/21,Jiangsu Suning FC,44
+75,20/21,West Bromwich Albion,3
+140,20/21,Al Nassr,20
+34,20/21,Fenerbahçe SK,5
+43,20/21,Beşiktaş JK,5
+786,20/21,Hebei China Fortune FC,44
+51,20/21,Southampton,3
+46,20/21,Lokomotiv Moscow,6
+592,20/21,Fluminense,38
+481,20/21,Sheffield United,3
+73,20/21,LA Galaxy,10
+107,20/21,Stade de Reims,2
+87,20/21,Granada CF,0
+90,20/21,SC Braga,7
+96,20/21,SC Freiburg,1
+159,20/21,CA Osasuna,0
+677,20/21,RC Strasbourg Alsace,2
+174,20/21,AZ Alkmaar,14
+69,20/21,Hertha BSC,1
+15,20/21,FC Schalke 04,1
+171,20/21,Vitória Guimarães,7
+134,20/21,Club América,12
+204,20/21,Estudiantes de La Plata,18
+42,20/21,FC Girondins de Bordeaux,2
+78,20/21,Olympiacos CFP,15
+114,20/21,Portland Timbers,10
+86,20/21,Racing Club,18
+353,20/21,Girona FC,16
+792,20/21,Shanghai Greenland Shenhua FC,44
+109,20/21,Montpellier HSC,2
+60,20/21,Toronto FC,10
+648,20/21,Coritiba,38
+649,20/21,Internacional,38
+655,20/21,Santos,38
+381,20/21,Angers SCO,2
+93,20/21,FC Nantes,2
+54,20/21,RCD Espanyol,16
+801,20/21,SK Slavia Praha,42
+55,20/21,Spartak Moscow,6
+306,20/21,BSC Young Boys,25
+162,20/21,Cruz Azul,12
+599,20/21,SD Huesca,0
+58,20/21,Parma,4
+141,20/21,San Lorenzo de Almagro,18
+724,20/21,Royal Antwerp FC,24
+150,20/21,Club Atlético Lanús,18
+45,20/21,Seattle Sounders FC,10
+156,20/21,Monterrey,12
+835,20/21,Wuhan Zall,44
+106,20/21,FC Augsburg,1
+116,20/21,Sivasspor,5
+187,20/21,Club León,12
+57,20/21,Trabzonspor,5
+99,20/21,Norwich City,19
+316,20/21,Stade Brestois 29,2
+111,20/21,1. FC Köln,1
+242,20/21,Bournemouth,19
+364,20/21,Brentford,19
+124,20/21,RSC Anderlecht,24
+122,20/21,Celtic,23
+268,20/21,Derby County,19
+496,20/21,CD Leganés,16
+886,20/21,Fatih Karagümrük S.K.,5
+168,20/21,En Avant de Guingamp,33
+163,20/21,Club Tijuana,12
+887,20/21,Shijiazhuang Ever Bright F.C.,44
+717,20/21,Amiens SC,33
+130,20/21,Hellas Verona,4
+888,20/21,Qingdao Huanghai F.C.,44
+294,20/21,Birmingham City,19
+802,20/21,Tianjin TEDA FC,44
+310,20/21,Bologna,4
+185,20/21,Universidad Católica,27
+100,20/21,Vélez Sarsfield,18
+194,20/21,Club Atlas,12
+238,20/21,Independiente,18
+195,20/21,Al Ahli,20
+643,20/21,Goiás,38
+641,20/21,Alanyaspor,5
+92,20/21,FC Red Bull Salzburg,21
+119,20/21,1. FSV Mainz 05,1
+212,20/21,KRC Genk,24
+812,20/21,Lecce,30
+277,20/21,Racing Club de Lens,2
+101,20/21,FC Metz,2
+182,20/21,Rio Ave FC,7
+329,20/21,Dijon FCO,2
+889,20/21,Nacional de Montevideo,48
+154,20/21,FC Utrecht,14
+189,20/21,FC København,9
+177,20/21,UD Almería,16
+332,20/21,Spezia,4
+395,20/21,FC Midtjylland,9
+355,20/21,Aalborg BK,9
+727,20/21,AEK Athens,15
+890,20/21,Olimpia Asunción,49
+129,20/21,FC Basel 1893,25
+228,20/21,Junior FC,28
+33,20/21,Hamburger SV,26
+255,20/21,Santos Laguna,12
+687,20/21,Cádiz CF,0
+469,20/21,Perth Glory,13
+227,20/21,Deportivo Toluca,12
+220,20/21,Rosenborg BK,29
+319,20/21,KAA Gent,24
+40,20/21,Swansea City,19
+121,20/21,Çaykur Rizespor,5
+797,20/21,Chongqing Dangdai Lifan FC SWM Team,44
+248,20/21,RCD Mallorca,16
+137,20/21,Montreal Impact,10
+105,20/21,New England Revolution,10
+704,20/21,SPAL,30
+222,20/21,Real Zaragoza,16
+595,20/21,DSC Arminia Bielefeld,1
+637,20/21,Al Wehda,20
+208,20/21,Pachuca,12
+229,20/21,Stade Malherbe Caen,33
+842,20/21,Al Ain FC,50
+345,20/21,Godoy Cruz,18
+132,20/21,Colo-Colo,27
+136,20/21,Columbus Crew SC,10
+681,20/21,Vasco da Gama,38
+645,20/21,Club Athletico Paranaense,38
+646,20/21,Botafogo,38
+840,20/21,Fortaleza,38
+318,20/21,Guadalajara,12
+844,20/21,Famalicão,7
+729,20/21,Portimonense SC,7
+70,20/21,VfB Stuttgart,1
+296,20/21,SC Heerenveen,14
+307,20/21,Rangers FC,23
+344,20/21,Nîmes Olympique,2
+363,20/21,Boavista FC,7
+313,20/21,U.N.A.M.,12
+175,20/21,Atlético Nacional,28
+378,20/21,Royal Excel Mouscron,24
+283,20/21,Nottingham Forest,19
+236,20/21,FC Luzern,25
+506,20/21,Preston North End,19
+765,20/21,LASK Linz,21
+95,20/21,Toulouse Football Club,33
+458,20/21,Defensa y Justicia,18
+850,20/21,FC Cincinnati,10
+128,20/21,Real Salt Lake,10
+81,20/21,New York Red Bulls,10
+325,20/21,Moreirense FC,7
+578,20/21,New York City FC,10
+328,20/21,DC United,10
+273,20/21,Brescia,30
+207,20/21,Ulsan Hyundai FC,17
+735,20/21,Yeni Malatyaspor,5
+230,20/21,Philadelphia Union,10
+891,20/21,Hatayspor,5
+340,20/21,Millwall,19
+138,20/21,Vancouver Whitecaps FC,10
+157,20/21,FC Lorient,2
+218,20/21,Atiker Konyaspor,5
+580,20/21,Antalyaspor,5
+184,20/21,Molde FK,29
+161,20/21,PAOK,15
+839,20/21,Western United FC,13
+791,20/21,Shandong Luneng TaiShan FC,44
+199,20/21,Wisła Kraków,31
+841,20/21,Denizlispor,5
+102,20/21,Newell's Old Boys,18
+210,20/21,Sporting Kansas City,10
+219,20/21,Malmö FF,32
+803,20/21,Henan Jianye FC,44
+223,20/21,Fortuna Düsseldorf,26
+723,20/21,Sparta Praha,42
+581,20/21,Kayserispor,5
+386,20/21,SV Sandhausen,26
+702,20/21,Benevento,4
+731,20/21,Minnesota United FC,10
+235,20/21,Houston Dynamo,10
+330,20/21,Rosario Central,18
+603,20/21,Club Atlético Colón,18
+334,20/21,FC Seoul,17
+604,20/21,Paris FC,33
+796,20/21,MKE Ankaragücü,5
+456,20/21,Al Taawoun,20
+247,20/21,FC Dallas,10
+838,20/21,Atlético de San Luis,12
+126,20/21,Elche CF,0
+617,20/21,Argentinos Juniors,18
+892,20/21,Independiente del Valle,51
+412,20/21,Chicago Fire,10
+309,20/21,Puebla FC,12
+311,20/21,Deportivo Cali,28
+270,20/21,VfL Bochum 1848,26
+237,20/21,Clube Sport Marítimo,7
+97,20/21,Kaizer Chiefs,22
+115,20/21,Panathinaikos FC,15
+858,20/21,Astra Giurgiu,47
+744,20/21,Daegu FC,17
+798,20/21,Bahia,38
+734,20/21,Atlético Clube Goianiense,38
+893,20/21,Peñarol,48
+678,20/21,Club Atlético Talleres,18
+846,20/21,FCSB (Steaua),47
+131,20/21,1. FC Nürnberg,26
+188,20/21,Sporting de Charleroi,24
+146,20/21,Standard de Liège,24
+795,20/21,Viktoria Plzeň,42
+29,20/21,Stoke City,19
+254,20/21,Reading,19
+836,20/21,Shenzhen FC,44
+314,20/21,FC St. Gallen,25
+181,20/21,Blackburn Rovers,19
+198,20/21,San Jose Earthquakes,10
+671,20/21,Kashiwa Reysol,40
+246,20/21,Real Sporting de Gijón,16
+152,20/21,Vitesse,14
+894,20/21,Club Libertad,49
+333,20/21,Willem II,14
+895,20/21,Club Guaraní,49
+326,20/21,FC Sion,25
+118,20/21,Al Ittihad,20
+290,20/21,Gençlerbirliği SK,5
+700,20/21,KAS Eupen,24
+91,20/21,Rayo Vallecano,16
+726,20/21,Göztepe SK,5
+350,20/21,Western Sydney Wanderers,13
+401,20/21,ESTAC Troyes,33
+224,20/21,Sydney FC,13
+84,20/21,Jeonbuk Hyundai Motors,17
+66,20/21,Hannover 96,26
+855,20/21,FC Juárez,12
+693,20/21,Ettifaq FC,20
+676,20/21,Yokohama F. Marinos,40
+611,20/21,Club Atlético Aldosivi,18
+178,20/21,Orlando Pirates,22
+750,20/21,Holstein Kiel,26
+601,20/21,Unión de Santa Fe,18
+256,20/21,Gil Vicente FC,7
+368,20/21,Club Atlético Banfield,18
+583,20/21,Sint-Truidense VV,24
+343,20/21,Huddersfield Town,19
+514,20/21,IFK Norrköping,32
+244,20/21,FC Paços de Ferreira,7
+593,20/21,Real Oviedo,16
+584,20/21,CD Tondela,7
+743,20/21,América de Cali,28
+179,20/21,Middlesbrough,19
+457,20/21,KSV Cercle Brugge,24
+820,20/21,FC Emmen,14
+352,20/21,SK Rapid Wien,21
+605,20/21,Hammarby IF,32
+259,20/21,Empoli,30
+460,20/21,FK Bodø/Glimt,29
+423,20/21,AD Alcorcón,16
+312,20/21,Colorado Rapids,10
+409,20/21,Al Faisaly,20
+327,20/21,Heracles Almelo,14
+427,20/21,Crotone,4
+896,20/21,Nashville SC,10
+488,20/21,1. FC Heidenheim 1846,26
+664,20/21,Gamba Osaka,40
+61,20/21,Melbourne City FC,13
+279,20/21,Millonarios FC,28
+274,20/21,Legia Warszawa,31
+521,20/21,Wolfsberger AC,21
+897,20/21,Mazatlán FC,12
+211,20/21,AIK,32
+382,20/21,FK Austria Wien,21
+898,20/21,River Plate Asunción,49
+282,20/21,Os Belenenses,7
+899,20/21,LDU Quito,51
+849,20/21,CFR Cluj,47
+197,20/21,Sheffield Wednesday,19
+123,20/21,Cardiff City,19
+900,20/21,AC Monza,30
+667,20/21,Kawasaki Frontale,40
+725,20/21,Cerezo Osaka,40
+665,20/21,FC Tokyo,40
+853,20/21,Servette FC,25
+847,20/21,Universitatea Craiova,47
+339,20/21,Gimnasia y Esgrima La Plata,18
+213,20/21,Independiente Medellín,28
+804,20/21,Ceará Sporting Club,38
+843,20/21,Gazişehir Gaziantep F.K.,5
+642,20/21,Club Necaxa,12
+594,20/21,Club Atlético Huracán,18
+459,20/21,Bristol City,19
+466,20/21,CD Mirandés,16
+68,20/21,Queens Park Rangers,19
+153,20/21,FC Twente,14
+261,20/21,Valenciennes FC,33
+276,20/21,SC Paderborn 07,26
+805,20/21,Santa Clara,7
+394,20/21,KV Kortrijk,24
+265,20/21,CD Tenerife,16
+302,20/21,Unión La Calera,27
+901,20/21,Farense,7
+383,20/21,KV Mechelen,24
+754,20/21,Hokkaido Consadole Sapporo,40
+59,20/21,Querétaro,12
+881,20/21,Raków Częstochowa,31
+165,20/21,Kasimpaşa SK,5
+292,20/21,Lech Poznań,31
+169,20/21,CD Nacional,7
+305,20/21,SV Zulte-Waregem,24
+398,20/21,Aberdeen,23
+807,20/21,BB Erzurumspor,5
+369,20/21,Helsingborgs IF,32
+902,20/21,FC Cartagena,16
+245,20/21,1. FC Kaiserslautern,43
+298,20/21,IFK Göteborg,32
+854,20/21,Central Córdoba,18
+695,20/21,Atlético Tucumán,18
+233,20/21,SpVgg Greuther Fürth,26
+493,20/21,Albacete BP,16
+856,20/21,Dinamo Bucureşti,47
+467,20/21,Wellington Phoenix,13
+464,20/21,SV Darmstadt 98,26
+143,20/21,Chievo Verona,30
+472,20/21,Djurgårdens IF,32
+258,20/21,AC Ajaccio,33
+266,20/21,AJ Auxerre,33
+490,20/21,FC Erzgebirge Aue,26
+201,20/21,Al Fateh,20
+337,20/21,ADO Den Haag,14
+903,20/21,El Nacional,51
+697,20/21,Nagoya Grampus,40
+739,20/21,Al Fayha,20
+452,20/21,Piast Gliwice,31
+857,20/21,Damac FC,20
+904,20/21,Deportivo Binacional,52
+690,20/21,Kashima Antlers,40
+814,20/21,Al Hazem,20
+682,20/21,Patronato,18
+484,20/21,Sangju Sangmu FC,17
+905,20/21,Oceânico FC,38
+422,20/21,Barnsley,19
+860,20/21,CF Fuenlabrada,16
+424,20/21,Adelaide United,13
+346,20/21,SD Ponferradina,16
+291,20/21,FC Ingolstadt 04,43
+563,20/21,Shamrock Rovers,37
+295,20/21,Charlton Athletic,35
+651,20/21,Sanfrecce Hiroshima,40
+44,20/21,Brøndby IF,9
+362,20/21,FC St. Pauli,26
+441,20/21,SK Sturm Graz,21
+906,20/21,Emelec,51
+74,20/21,Hull City,35
+615,20/21,Aarhus GF,9
+907,20/21,Beerschot AC,24
+214,20/21,UD Las Palmas,16
+748,20/21,VfL Osnabrück,26
+62,20/21,Málaga CF,16
+431,20/21,Clermont Foot 63,33
+851,20/21,FC Viitorul,47
+618,20/21,GwangJu FC,17
+848,20/21,Coquimbo Unido,27
+253,20/21,Arsenal de Sarandí,18
+358,20/21,CD Lugo,16
+376,20/21,Lechia Gdańsk,31
+880,20/21,Viktoria Köln,43
+299,20/21,FC Nordsjælland,9
+428,20/21,Karlsruher SC,26
+170,20/21,FC Zürich,25
+348,20/21,IF Elfsborg,32
+705,20/21,SG Dynamo Dresden,43
+736,20/21,Shimizu S-Pulse,40
+746,20/21,Gangwon FC,17
+679,20/21,HJK Helsinki,41
+285,20/21,Vålerenga Fotball,29
+400,20/21,Jagiellonia Białystok,31
+908,20/21,Club Atlético Grau,52
+909,20/21,Melgar FBC,52
+413,20/21,Al Raed,20
+626,20/21,FC Lugano,25
+910,20/21,Barcelona Sporting Club,51
+399,20/21,Coventry City,19
+512,20/21,Doncaster Rovers,35
+301,20/21,Eintracht Braunschweig,26
+489,20/21,Chamois Niortais Football Club,33
+911,20/21,Nacional Asunción,49
+745,20/21,VVV-Venlo,14
+912,20/21,Club Plaza Colonia,48
+669,20/21,Urawa Red Diamonds,40
+770,20/21,Kristiansund BK,29
+451,20/21,Pohang Steelers,17
+262,20/21,Suwon Samsung Bluewings,17
+861,20/21,Abha Club,20
+389,20/21,SK Brann,29
+602,20/21,Oud-Heverlee Leuven,24
+875,20/21,Oita Trinita,40
+320,20/21,Pogoń Szczecin,31
+449,20/21,SønderjyskE,9
+536,20/21,Dundalk,37
+183,20/21,Club Atlético Tigre,53
+145,20/21,PEC Zwolle,14
+468,20/21,Górnik Zabrze,31
+110,20/21,Sunderland,35
+913,20/21,Macarthur FC,13
+267,20/21,Kilmarnock,23
+703,20/21,Shonan Bellmare,40
+347,20/21,Le Havre AC,33
+817,20/21,Grenoble Foot 38,33
+808,20/21,Fortuna Sittard,14
+215,20/21,Melbourne Victory,13
+692,20/21,FC Würzburger Kickers,26
+545,20/21,Luton Town,19
+752,20/21,SSV Jahn Regensburg,26
+402,20/21,La Berrichonne de Châteauroux,33
+914,20/21,Cusco FC,52
+360,20/21,Śląsk Wrocław,31
+432,20/21,BK Häcken,32
+915,20/21,Club Bolívar,54
+916,20/21,Liverpool Fútbol Club,48
+625,20/21,Zagłębie Lubin,31
+917,20/21,Alianza Lima,52
+918,20/21,Sol de América,49
+919,20/21,SD Aucas,51
+404,20/21,Incheon United FC,17
+482,20/21,Cracovia,31
+758,20/21,SpVgg Unterhaching,43
+920,20/21,Oriente Petrolero,54
+921,20/21,Universidad Católica del Ecuador,51
+442,20/21,Motherwell,23
+338,20/21,Odense Boldklub,9
+500,20/21,Stabæk Fotball,29
+203,20/21,KV Oostende,24
+391,20/21,Odds BK,29
+922,20/21,UD Logroñés,16
+762,20/21,SV Wehen Wiesbaden,43
+523,20/21,Portsmouth,35
+706,20/21,Sparta Rotterdam,14
+865,20/21,Sepsi OSK,47
+193,20/21,Wigan Athletic,35
+421,20/21,Rotherham United,19
+407,20/21,Audax Italiano,27
+498,20/21,St. Johnstone FC,23
+366,20/21,Randers FC,9
+711,20/21,Vegalta Sendai,40
+289,20/21,Viking FK,29
+759,20/21,FC Hansa Rostock,43
+876,20/21,Rodez Aveyron Football,33
+260,20/21,FC Sochaux-Montbéliard,33
+867,20/21,Gaz Metan Mediaş,47
+614,20/21,MSV Duisburg,43
+923,20/21,River Plate Montevideo,48
+502,20/21,Milton Keynes Dons,35
+550,20/21,SCR Altach,21
+774,20/21,Lincoln City,35
+701,20/21,Lyngby BK,9
+534,20/21,Oxford United,35
+569,20/21,Wycombe Wanderers,19
+924,20/21,C.D. Castellón,16
+925,20/21,Always Ready,54
+354,20/21,AS Nancy Lorraine,33
+874,20/21,RKC Waalwijk,14
+751,20/21,Hibernian,23
+832,20/21,TSV Hartberg,21
+370,20/21,Deportivo Pasto,28
+926,20/21,Delfín SC,51
+878,20/21,FC Voluntari,47
+927,20/21,Jorge Wilstermann,54
+862,20/21,FC Botoşani,47
+877,20/21,FC Chambly Oise,33
+928,20/21,Nacional Potosí,54
+870,20/21,FC Hermannstadt,47
+929,20/21,Club Blooming,54
+425,20/21,CD Huachipato,27
+873,20/21,SV Waldhof Mannheim,43
+393,20/21,CE Sabadell FC,16
+524,20/21,Newcastle Jets,13
+453,20/21,Seongnam FC,17
+775,20/21,FSV Zwickau,43
+768,20/21,Hallescher FC,43
+435,20/21,Waasland-Beveren,24
+773,20/21,IK Sirius,32
+480,20/21,SV Ried,21
+716,20/21,SKN St. Pölten,21
+549,20/21,Örebro SK,32
+494,20/21,Peterborough United,35
+822,20/21,Vejle Boldklub,9
+930,20/21,Pau FC,33
+868,20/21,WSG Tirol,21
+308,20/21,Brisbane Roar,13
+286,20/21,Ipswich Town,35
+465,20/21,IK Start,29
+418,20/21,Kalmar FF,32
+479,20/21,Sarpsborg 08 FF,29
+826,20/21,Livingston FC,23
+471,20/21,St. Mirren,23
+408,20/21,Fleetwood Town,35
+691,20/21,FC Lausanne-Sport,25
+680,20/21,Sagan Tosu,40
+252,20/21,TSV 1860 München,43
+440,20/21,Busan IPark,17
+931,20/21,Stal Mielec,31
+629,20/21,Mjøndalen IF,29
+932,20/21,Centro Atlético Fénix,48
+710,20/21,Wisła Płock,31
+771,20/21,SV Meppen,43
+933,20/21,Estudiantes de Mérida,55
+934,20/21,Sport Huancayo,52
+492,20/21,Crewe Alexandra,35
+935,20/21,Yokohama FC,40
+416,20/21,Blackpool,35
+234,20/21,Aalesunds FK,29
+387,20/21,FK Haugesund,29
+811,20/21,KFC Uerdingen 05,43
+527,20/21,Plymouth Argyle,35
+622,20/21,Bristol Rovers,35
+708,20/21,AC Horsens,9
+872,20/21,Politehnica Iaşi,47
+866,20/21,Salford City,36
+936,20/21,Warta Poznań,31
+548,20/21,Northampton Town,35
+559,20/21,Burton Albion,35
+497,20/21,Central Coast Mariners,13
+879,20/21,Al Adalah,20
+937,20/21,AC Mineros de Guayana,55
+938,20/21,USL Dunkerque,33
+939,20/21,Sportivo Luqueño,49
+940,20/21,UTA Arad,47
+882,20/21,Chindia Târgovişte,47
+941,20/21,Caracas FC,55
+863,20/21,Bayern München II,43
+251,20/21,Strømsgodset IF,29
+553,20/21,Southend United,36
+520,20/21,FC Admira Wacker Mödling,21
+562,20/21,Exeter City,36
+547,20/21,Gillingham,35
+531,20/21,Hamilton Academical FC,23
+529,20/21,Bradford City,36
+528,20/21,Rochdale,35
+778,20/21,Forest Green Rovers,36
+324,20/21,Dundee United,23
+761,20/21,1. FC Magdeburg,43
+501,20/21,Shrewsbury,35
+942,20/21,FC Argeș,47
+943,20/21,Türkgücü München,43
+555,20/21,Cambridge United,36
+515,20/21,Swindon Town,35
+718,20/21,Grimsby Town,36
+526,20/21,Carlisle United,36
+540,20/21,Port Vale,36
+564,20/21,Tranmere Rovers,36
+517,20/21,Colchester United,36
+249,20/21,Bolton Wanderers,36
+944,20/21,VfB Lübeck,43
+572,20/21,Accrington Stanley,35
+532,20/21,Cheltenham Town,36
+556,20/21,FC Vaduz,25
+945,20/21,1. FC Saarbrücken,43
+713,20/21,Östersunds FK,32
+478,20/21,Mjällby AIF,32
+883,20/21,Academica Clinceni,47
+946,20/21,Aragua FC,55
+573,20/21,Bohemian FC,37
+947,20/21,Barrow,36
+551,20/21,AFC Wimbledon,35
+948,20/21,SC Verl,43
+525,20/21,Ross County FC,23
+566,20/21,Newport County,36
+638,20/21,Sandefjord Fotball,29
+560,20/21,Mansfield Town,36
+513,20/21,Crawley Town,36
+546,20/21,Falkenbergs FF,32
+949,20/21,Varbergs BoIS,32
+503,20/21,Walsall,36
+519,20/21,Oldham Athletic,36
+541,20/21,Scunthorpe United,36
+403,20/21,Leyton Orient,36
+568,20/21,Stevenage,36
+509,20/21,Podbeskidzie Bielsko-Biała,31
+557,20/21,Morecambe,36
+565,20/21,Derry City,37
+950,20/21,Llaneros de Guanare,55
+570,20/21,Sligo Rovers,37
+561,20/21,Cork City,37
+504,20/21,St. Patrick's Athletic,37
+951,20/21,Zamora FC,55
+952,20/21,Shelbourne FC,37
+953,20/21,Harrogate Town,36
+825,20/21,Waterford FC,37
+721,20/21,Finn Harps,37
