@@ -6,7 +6,7 @@ from flask_mail import Mail, Message
 from sqlalchemy import text
 from app import mail
 admin = Blueprint('admin', __name__)
-
+delete=True
 
 @admin.route('/', methods=['GET','POST'])
 def index():
@@ -31,6 +31,23 @@ def issue():
         if(q_number):
             if(season==q_number.season):
                 flash("Player exist！",'danger')
+                # if(nationality!=q_number.nationality):
+                #    q_number.nationality = nationality
+                #    db.session.commit()
+                # if(player_name!=q_number.player_name):
+                #     q_number.player_name = player_name
+                #     db.session.commit()
+                # if(club_id!=q_number.club_id):
+                #     q_number.club_id = club_id
+                #     db.session.commit()
+                # if(overall!=q_number.overall):
+                #     q_number.overall = overall
+                #     db.session.commit()  
+                # if(potential!=q_number.potential):
+                #     q_number.potential = potential
+                #     db.session.commit()        
+            #  if(delete):
+            #      db.session.delete(q_number)
         else:
             try:
                 new_player = New_Player(player_id=player_id,season=season,player_name=player_name,nationality=nationality,club_id=club_id,overall=overall,potential=potential)
